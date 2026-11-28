@@ -560,6 +560,91 @@
     "url": "https://www.courtlistener.com/opinion/4215709/magwire-v-village-of-springfield/"
    },
    "confidence": "confirmed"
+  },
+  {
+   "id": "c050",
+   "personIds": [
+    "harry-james-farr",
+    "mary-abbie-west-farr"
+   ],
+   "found": "2026-11-27",
+   "headline": "Found the marriage of Harry James Farr and Mary Abbie West at Chester, Vermont, on August 11, 1926, a year before Gwendolyn was born.",
+   "findType": "record",
+   "source": {
+    "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, page 66",
+    "url": "https://archive.org/details/annualreportofau00ches/page/n67"
+   },
+   "confidence": "confirmed"
+  },
+  {
+   "id": "c051",
+   "personIds": [
+    "mary-abbie-west-farr"
+   ],
+   "found": "2026-11-27",
+   "headline": "Mary Abbie West was living at Chester Depot when she married, so the Abbie West teaching in Chester's schools that year is very likely her.",
+   "findType": "connection",
+   "source": {
+    "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927: marriage list, page 66, and school payments to Abbie West, teaching",
+    "url": "https://archive.org/details/annualreportofau00ches/page/n67"
+   },
+   "confidence": "probable"
+  },
+  {
+   "id": "c052",
+   "personIds": [
+    "harry-james-farr"
+   ],
+   "found": "2026-11-27",
+   "headline": "Found Harry Farr in the Social Security death index: born April 3, 1888, died May 1966, still living in Springfield, Vermont.",
+   "findType": "record",
+   "source": {
+    "text": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont",
+    "url": "https://sortedbyname.com/letter_f/farr/harry_farr.html"
+   },
+   "confidence": "probable"
+  },
+  {
+   "id": "c053",
+   "personIds": [
+    "frank-albert-magwire"
+   ],
+   "found": "2026-11-27",
+   "headline": "In 1914 New Hampshire licensed Frank A. Magwire, a Vermont registered pharmacist then at Charlestown, to practise pharmacy across the river.",
+   "findType": "record",
+   "source": {
+    "text": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, page 7",
+    "url": "https://archive.org/details/annualreports19142newh/page/n1370"
+   },
+   "confidence": "probable"
+  },
+  {
+   "id": "c054",
+   "personIds": [
+    "albert-a-magwire"
+   ],
+   "found": "2026-11-27",
+   "headline": "Found Albert A. Magwire in the Edison Phonograph Monthly of 1904, running the Springfield Music Rooms and giving phonograph concerts, including one in Ludlow Town Hall.",
+   "findType": "record",
+   "source": {
+    "text": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11",
+    "url": "https://archive.org/details/edisonphonograph02moor/page/n146"
+   },
+   "confidence": "probable"
+  },
+  {
+   "id": "c055",
+   "personIds": [
+    "raymond-bates-magwire"
+   ],
+   "found": "2026-11-27",
+   "headline": "Found Raymond Bates Magwire of Springfield, Vt. in the 1936 Springfield College yearbook, and by 1952 as Vermont's state director of health and physical education.",
+   "findType": "record",
+   "source": {
+    "text": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69; Journal of Health, Physical Education, Recreation, February 1952",
+    "url": "https://archive.org/details/yearbooksmassaso1936spri/page/n70"
+   },
+   "confidence": "probable"
   }
  ]
 }

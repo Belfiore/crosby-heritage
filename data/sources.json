@@ -257,7 +257,49 @@
    "title": "Chester, Vermont, auditors' report (archive.org item annualreportofau00ches, dated 1927): \"Abbie West, teaching\"",
    "type": "vital record",
    "url": "https://archive.org/details/annualreportofau00ches",
-   "note": "Town report payment list; identity unproven (lead)."
+   "note": "Town report payment list (Abbie West, teaching). The same report prints her 1926 marriage to Harry James Farr, giving her home as Chester Depot, so this is probably the same woman."
+  },
+  {
+   "id": "s41",
+   "title": "Chester, Vermont, Annual report of the auditors for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, printed page 66 (archive.org item annualreportofau00ches, leaf n67): August 11, Harry James Farr, Springfield, Vt., and Mary Abbie West, Chester Depot, Vt.",
+   "type": "vital record",
+   "url": "https://archive.org/details/annualreportofau00ches/page/n67",
+   "note": "Town Clerk printed marriage list."
+  },
+  {
+   "id": "s42",
+   "title": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont 05156, as shown on SortedByName.com",
+   "type": "index",
+   "url": "https://sortedbyname.com/letter_f/farr/harry_farr.html",
+   "note": "Government death index, transcribed. Matches the age and town of Harry J. Farr in the 1950 census."
+  },
+  {
+   "id": "s43",
+   "title": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, printed page 7 (archive.org item annualreports19142newh, leaf n1370): Frank A. Magwire, Charlestown; registered in Vermont",
+   "type": "government report",
+   "url": "https://archive.org/details/annualreports19142newh/page/n1370",
+   "note": "State board report."
+  },
+  {
+   "id": "s44",
+   "title": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11 (archive.org item edisonphonograph02moor, leaf n146): Albert A. Magwire, Dealer at Springfield Vt., concert in Ludlow Town Hall, October 25",
+   "type": "periodical",
+   "url": "https://archive.org/details/edisonphonograph02moor/page/n146",
+   "note": "Trade journal of the National Phonograph Company. An earlier 1904 item (leaf n110) names him as of the Springfield Music Rooms."
+  },
+  {
+   "id": "s45",
+   "title": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69 (archive.org item yearbooksmassaso1936spri, leaf n70): Magwire, Raymond Bates, Springfield, Vt.",
+   "type": "yearbook",
+   "url": "https://archive.org/details/yearbooksmassaso1936spri/page/n70",
+   "note": "College yearbook class list."
+  },
+  {
+   "id": "s46",
+   "title": "Journal of Health, Physical Education, Recreation, vol. 23 no. 2, February 1952 (archive.org item sim_journal-of-physical-education-recreation-dance_1952-02_23_2, leaf n48): Raymond B. Magwire, state director of health and physical education, State Department of Education, Montpelier, Vt.",
+   "type": "periodical",
+   "url": "https://archive.org/details/sim_journal-of-physical-education-recreation-dance_1952-02_23_2/page/n48",
+   "note": "Professional journal. Identity with Raymond Bates Magwire rests on name, state and field (probable)."
   }
  ]
 }

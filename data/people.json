@@ -366,7 +366,7 @@
     ]
    },
    "parentLinkConfidence": "probable",
-   "story": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A. Magwire and Alice Jenny (Spaulding) Magwire. He graduated from Springfield High School in 1909, and on July 10, 1912 he married Alice Evadna Bates in Springfield; the marriage appears in the town's printed register for that year. For thirty seven years Frank owned and ran Magwire's Pharmacy in Springfield, retiring in 1954. In 1940 he kept three state licensed pinball machines in the store, and when the village demanded its own large license fee he paid under protest and sued; in January 1941 the Vermont Supreme Court reversed the dismissal of his suit and sent it back for trial. He belonged to St. John's Lodge No. 41 F&AM and Independent Order of Odd Fellows Lodge No. 42 for more than fifty years, was a 32nd Degree Mason and a member of Mt. Sinai Shrine in Montpelier. Frank and Alice raised three sons: Raymond (born 1913) and the twins Harold and Howard (born January 1, 1919). Frank died at Springfield Hospital on October 8, 1967 and was buried in Oakland Cemetery. [^s02] [^s13] [^s18]",
+   "story": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A. Magwire and Alice Jenny (Spaulding) Magwire. He graduated from Springfield High School in 1909 and on July 10, 1912 he married Alice Evadna Bates in Springfield; the marriage appears in the town's printed register for that year. He trained as a pharmacist and registered in Vermont, and in 1914, while working in Charlestown, New Hampshire, just across the Connecticut River, he was granted a New Hampshire license by reciprocity. For thirty seven years Frank owned and ran Magwire's Pharmacy in Springfield, retiring in 1954. In 1940 he kept three state licensed pinball machines in the store, and when the village demanded its own large license fee he paid under protest and sued; in January 1941 the Vermont Supreme Court reversed the dismissal of his suit and sent it back for trial. He belonged to St. John's Lodge No. 41 F&AM and Independent Order of Odd Fellows Lodge No. 42 for more than fifty years, was a 32nd Degree Mason and a member of Mt. Sinai Shrine in Montpelier. Frank and Alice raised three sons: Raymond (born 1913) and the twins Harold and Howard (born January 1, 1919). Frank died at Springfield Hospital on October 8, 1967 and was buried in Oakland Cemetery. [^s02] [^s13] [^s18] [^s43]",
    "summary": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A.",
    "relatedPages": [
     {
@@ -377,6 +377,15 @@
    "cardPlace": "Springfield",
    "confidence": "confirmed",
    "occupations": [
+    {
+     "title": "Pharmacist, registered in Vermont, licensed in New Hampshire by reciprocity",
+     "place": "Charlestown, New Hampshire",
+     "years": "1914",
+     "confidence": "probable",
+     "sourceIds": [
+      "s43"
+     ]
+    },
     {
      "title": "Owner of Magwire's Pharmacy",
      "place": "Springfield, Vermont",
@@ -577,7 +586,7 @@
      "s13"
     ]
    },
-   "story": "Albert A. Magwire was born on October 10, 1845 in Brooklyn, New York. A Find a Grave note names his parents as George and Mary (Prentice) Magwire, which is still unconfirmed. On November 8, 1887 he married Alice Jenny Spaulding in Cavendish, Vermont, and the couple made their home in Springfield, where their children Ethel, Frank Albert, Edna, Charles E. and Harrold were born. Albert died in Springfield on February 21, 1929 and is buried in Oakland Cemetery. [^s15] [^s16] [^s18] [^s13]",
+   "story": "Albert A. Magwire was born on October 10, 1845 in Brooklyn, New York. A Find a Grave note names his parents as George and Mary (Prentice) Magwire, which is still unconfirmed. On November 8, 1887 he married Alice Jenny Spaulding in Cavendish, Vermont, and the couple made their home in Springfield, where their children Ethel, Frank Albert, Edna, Charles E. and Harrold were born. Albert was in the music trade: in 1904 he ran the Springfield Music Rooms as an Edison phonograph dealer, gave twice weekly outdoor evening phonograph concerts that August, and on October 25, 1904 gave a ticketed phonograph concert in Ludlow Town Hall with two young pianists. Albert died in Springfield on February 21, 1929 and is buried in Oakland Cemetery. [^s15] [^s16] [^s18] [^s13] [^s44]",
    "summary": "Albert A.",
    "relatedPages": [
     {
@@ -587,7 +596,18 @@
    ],
    "cardPlace": "Brooklyn",
    "confidence": "probable",
-   "isDirectLine": true
+   "isDirectLine": true,
+   "occupations": [
+    {
+     "title": "Music dealer (Springfield Music Rooms), Edison phonograph dealer",
+     "place": "Springfield, Vermont",
+     "years": "1904",
+     "confidence": "probable",
+     "sourceIds": [
+      "s44"
+     ]
+    }
+   ]
   },
   {
    "id": "alice-jenny-spaulding-magwire",
@@ -911,7 +931,7 @@
     "placeId": "castleton-vt"
    },
    "parentLinkConfidence": "probable",
-   "story": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913. He was living in Montpelier in 1967. He died in Rutland on April 26, 1997 and is buried in Hillside Cemetery, Castleton. [^s12] [^s13]",
+   "story": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913. In 1936 he was a junior at Springfield College in Massachusetts. He made a career in physical education, and by 1952 he was Vermont's state director of health and physical education in the State Department of Education at Montpelier, where he was still living in 1967. He died in Rutland on April 26, 1997 and is buried in Hillside Cemetery, Castleton. [^s12] [^s13] [^s45] [^s46]",
    "summary": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913.",
    "relatedPages": [
     {
@@ -920,7 +940,18 @@
     }
    ],
    "cardPlace": "Springfield",
-   "confidence": "probable"
+   "confidence": "probable",
+   "occupations": [
+    {
+     "title": "State director of health and physical education, Vermont State Department of Education",
+     "place": "Montpelier, Vermont",
+     "years": "1952 to 1959",
+     "confidence": "probable",
+     "sourceIds": [
+      "s46"
+     ]
+    }
+   ]
   },
   {
    "id": "harold-charles-magwire",
@@ -1039,29 +1070,30 @@
     {
      "id": "mary-abbie-west-farr",
      "order": 2,
-     "confidence": "probable",
+     "confidence": "confirmed",
      "sourceIds": [
-      "s05",
-      "s03",
+      "s41",
       "s27"
-     ]
+     ],
+     "marriageDate": "1926-08-11",
+     "marriageDisplay": "August 11, 1926",
+     "place": "Chester, VT"
     }
    ],
    "birth": {
     "confidence": "probable",
     "sourceIds": [
+     "s42",
      "s05",
-     "s03",
      "s27"
     ],
-    "date": "1888",
-    "display": "about 1888",
-    "dateQualifier": "about",
+    "date": "1888-04-03",
+    "display": "April 3, 1888",
     "place": "Colorado",
     "placeId": "colorado"
    },
-   "story": "Harry James Farr was born in Colorado about 1888 and settled in Springfield, Vermont. On December 4, 1912 he married Laura Mary Seward there. With his second wife, Mary Abbie West, he raised Gwendolyn (born 1927), Richard (born 1930) and Alma; in the 1950 census Harry, then 62, was living in Springfield with his wife Mary A. Their daughter Alma is named in that household. Her age is on the record and is not repeated here. Family tradition: the family remembered summer days at a West farm in Wells, Maine. That place is only a lead, so it is not on the map. His own parents and his Colorado birthplace are still being researched. [^s05] [^s03] [^s27]",
-   "summary": "Harry James Farr was born in Colorado about 1888 and settled in Springfield, Vermont.",
+   "story": "Harry James Farr was born in Colorado on April 3, 1888 (the date in the Social Security death index) and settled in Springfield, Vermont. On December 4, 1912 he married Laura Mary Seward there. On August 11, 1926 he married his second wife, Mary Abbie West of Chester Depot, in Chester, Vermont; together they raised Gwendolyn (born 1927), Richard (born 1930) and Alma; in the 1950 census Harry, then 62, was living in Springfield with his wife Mary A. Their daughter Alma is named in that household. Her age is on the record and is not repeated here. Family tradition: the family remembered summer days at a West farm in Wells, Maine. That place is only a lead, so it is not on the map. He died in May 1966, still living in Springfield. His own parents and his Colorado birthplace are still being researched. [^s05] [^s03] [^s27] [^s41] [^s42]",
+   "summary": "Harry James Farr was born in Colorado on April 3, 1888, settled in Springfield, Vermont, married Mary Abbie West at Chester in 1926, and died in May 1966.",
    "relatedPages": [
     {
      "url": "farr.html",
@@ -1101,7 +1133,16 @@
       "s27"
      ]
     }
-   ]
+   ],
+   "death": {
+    "confidence": "probable",
+    "sourceIds": [
+     "s42"
+    ],
+    "date": "1966-05",
+    "display": "May 1966",
+    "place": "Springfield, Vermont (last residence in the death index)"
+   }
   },
   {
    "id": "mary-abbie-west-farr",
@@ -1121,12 +1162,14 @@
     {
      "id": "harry-james-farr",
      "order": 1,
-     "confidence": "probable",
+     "confidence": "confirmed",
      "sourceIds": [
-      "s27",
-      "s05",
-      "s36"
-     ]
+      "s41",
+      "s27"
+     ],
+     "marriageDate": "1926-08-11",
+     "marriageDisplay": "August 11, 1926",
+     "place": "Chester, VT"
     }
    ],
    "birth": {
@@ -1141,7 +1184,7 @@
     "dateQualifier": "about",
     "place": "Vermont"
    },
-   "story": "Mary Abbie West, called Abby in the family, was born in Vermont about 1902. She married Harry James Farr and was the mother of Gwendolyn, Richard and Alma; her son Richard's obituary gives her full name as Mary Abbie West Farr. In 1950 she worked as a clerk at the post office in Springfield. Family tradition: West relatives remembered a farm in Wells, Maine. That visit is not on the map. Her parents are not yet identified. [^s27] [^s05] [^s36]",
+   "story": "Mary Abbie West, called Abby in the family, was born in Vermont about 1902. She was living at Chester Depot, Vermont, and is probably the Abbie West paid for teaching in the Chester schools that year, when she married Harry James Farr of Springfield at Chester on August 11, 1926. She was the mother of Gwendolyn, Richard and Alma; her son Richard's obituary gives her full name as Mary Abbie West Farr. In 1950 she worked as a clerk at the post office in Springfield. Family tradition: West relatives remembered a farm in Wells, Maine. That visit is not on the map. Her parents are not yet identified. [^s27] [^s05] [^s36] [^s41] [^s40]",
    "summary": "Mary Abbie West, called Abby in the family, was born in Vermont about 1902.",
    "relatedPages": [
     {
@@ -1162,6 +1205,17 @@
     }
    ],
    "occupations": [
+    {
+     "title": "Teacher",
+     "place": "Chester, Vermont",
+     "years": "1926",
+     "confidence": "probable",
+     "sourceIds": [
+      "s40",
+      "s41"
+     ],
+     "note": "An Abbie West was paid for teaching in Chester's report for the year ending January 1927."
+    },
     {
      "title": "Post office clerk",
      "place": "Springfield, Vermont",
