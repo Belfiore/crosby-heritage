@@ -293,7 +293,7 @@
      "dateStart": "1927",
      "datePrecision": "year",
      "approximate": false,
-     "confidence": "probable",
+     "confidence": "confirmed",
      "summary": "Gwendolyn (Farr) Magwire: Born, 1927",
      "sourceIds": [
       "s36",
@@ -311,7 +311,7 @@
      "dateStart": "1930",
      "datePrecision": "year",
      "approximate": false,
-     "confidence": "probable",
+     "confidence": "confirmed",
      "summary": "Richard H. Farr: Born, 1930",
      "sourceIds": [
       "s27"
@@ -332,6 +332,26 @@
      "sourceIds": [
       "s37"
      ]
+    },
+    {
+     "id": "pe-springfield-vt-18",
+     "type": "married",
+     "personIds": [
+      "albert-a-magwire"
+     ],
+     "dateStart": "1887",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Albert A. Magwire: Married Alice Jenny Spaulding, 1887",
+     "sourceIds": [
+      "s59",
+      "s15",
+      "s16",
+      "s18",
+      "s13"
+     ],
+     "factRef": "albert-a-magwire.spouses[0]"
     }
    ]
   },
@@ -418,25 +438,6 @@
    "inHomeRegion": true,
    "country": "United States",
    "events": [
-    {
-     "id": "pe-cavendish-vt-01",
-     "type": "married",
-     "personIds": [
-      "albert-a-magwire"
-     ],
-     "dateStart": "1887",
-     "datePrecision": "year",
-     "approximate": false,
-     "confidence": "probable",
-     "summary": "Albert A. Magwire: Married Alice Jenny Spaulding, 1887",
-     "sourceIds": [
-      "s15",
-      "s16",
-      "s18",
-      "s13"
-     ],
-     "factRef": "albert-a-magwire.spouses[0]"
-    },
     {
      "id": "pe-cavendish-vt-02",
      "type": "born",
@@ -580,39 +581,6 @@
    ]
   },
   {
-   "id": "castleton-vt",
-   "name": "Castleton, VT",
-   "kind": "town",
-   "precision": "town",
-   "lat": 43.6101,
-   "lng": -73.1793,
-   "uncertaintyMetres": 600,
-   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
-   "coordinatePrecision": "town",
-   "drawAs": "pin",
-   "inHomeRegion": true,
-   "country": "United States",
-   "events": [
-    {
-     "id": "pe-castleton-vt-01",
-     "type": "buried",
-     "personIds": [
-      "raymond-bates-magwire"
-     ],
-     "dateStart": "1997",
-     "datePrecision": "year",
-     "approximate": false,
-     "confidence": "probable",
-     "summary": "Raymond Bates Magwire: Buried, Hillside Cemetery, 1997",
-     "sourceIds": [
-      "s12",
-      "s13"
-     ],
-     "factRef": "raymond-bates-magwire.burial"
-    }
-   ]
-  },
-  {
    "id": "ormond-beach-fl",
    "name": "Ormond Beach, FL",
    "kind": "town",
@@ -675,40 +643,6 @@
       "s11"
      ],
      "factRef": "harold-charles-magwire.burial"
-    }
-   ]
-  },
-  {
-   "id": "colorado",
-   "name": "Colorado",
-   "kind": "state",
-   "precision": "state",
-   "lat": 39.55,
-   "lng": -105.78,
-   "uncertaintyMetres": 180000,
-   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
-   "coordinatePrecision": "state",
-   "drawAs": "area",
-   "inHomeRegion": false,
-   "country": "United States",
-   "events": [
-    {
-     "id": "pe-colorado-01",
-     "type": "born",
-     "personIds": [
-      "harry-james-farr"
-     ],
-     "dateStart": "1888",
-     "datePrecision": "year",
-     "approximate": false,
-     "confidence": "probable",
-     "summary": "Harry James Farr: Born (state only), 1888",
-     "sourceIds": [
-      "s05",
-      "s03",
-      "s27"
-     ],
-     "factRef": "harry-james-farr.birth"
     }
    ]
   },
@@ -1405,6 +1339,270 @@
      "recordCrops": [
       "1921-birth-barbara-eleanor-richardson-wayland-ma-townreport-zoom.jpg"
      ]
+    }
+   ]
+  },
+  {
+   "id": "denver-co",
+   "name": "Denver, CO",
+   "kind": "town",
+   "precision": "town",
+   "lat": 39.7392,
+   "lng": -104.9903,
+   "uncertaintyMetres": 3000,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": false,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-denver-co-01",
+     "type": "born",
+     "personIds": [
+      "harry-james-farr"
+     ],
+     "dateStart": "1888-04-03",
+     "datePrecision": "day",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Harry James Farr: Born, 1888",
+     "sourceIds": [
+      "s52",
+      "s55",
+      "s57"
+     ],
+     "factRef": "harry-james-farr.birth"
+    }
+   ]
+  },
+  {
+   "id": "chester-vt",
+   "name": "Chester, VT",
+   "kind": "town",
+   "precision": "town",
+   "lat": 43.2631,
+   "lng": -72.5937,
+   "uncertaintyMetres": 600,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": true,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-chester-vt-01",
+     "type": "married",
+     "personIds": [
+      "harry-james-farr",
+      "mary-abbie-west-farr"
+     ],
+     "dateStart": "1926-08-11",
+     "datePrecision": "day",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Harry James Farr and Mary Abbie West: Married, 1926",
+     "sourceIds": [
+      "s41",
+      "s48",
+      "s49"
+     ],
+     "factRef": "harry-james-farr.spouses[1]"
+    }
+   ]
+  },
+  {
+   "id": "peru-vt",
+   "name": "Peru, VT",
+   "kind": "town",
+   "precision": "town",
+   "lat": 43.2323,
+   "lng": -72.9048,
+   "uncertaintyMetres": 600,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": true,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-peru-vt-01",
+     "type": "born",
+     "personIds": [
+      "mary-abbie-west-farr"
+     ],
+     "dateStart": "1902",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "probable",
+     "summary": "Mary Abbie (West) Farr: Born, about 1902",
+     "sourceIds": [
+      "s49",
+      "s50"
+     ],
+     "factRef": "mary-abbie-west-farr.birth"
+    }
+   ]
+  },
+  {
+   "id": "bridgeport-ct",
+   "name": "Bridgeport, CT",
+   "kind": "city",
+   "precision": "town",
+   "lat": 41.1792,
+   "lng": -73.1894,
+   "uncertaintyMetres": 3000,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": false,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-bridgeport-ct-01",
+     "type": "lived",
+     "personIds": [
+      "harry-james-farr"
+     ],
+     "dateStart": "1917",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Harry James Farr: Letter carrier, 276 Gregory Street, 1917",
+     "sourceIds": [
+      "s52"
+     ],
+     "factRef": "harry-james-farr.residences[0]"
+    }
+   ]
+  },
+  {
+   "id": "woodsville-nh",
+   "name": "Woodsville, NH",
+   "kind": "town",
+   "precision": "town",
+   "lat": 44.1534,
+   "lng": -72.0398,
+   "uncertaintyMetres": 600,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": false,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-woodsville-nh-01",
+     "type": "lived",
+     "personIds": [
+      "frank-albert-magwire"
+     ],
+     "dateStart": "1917",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Frank Albert Magwire: Druggist, 1917",
+     "sourceIds": [
+      "s53"
+     ],
+     "factRef": "frank-albert-magwire.residences[0]"
+    }
+   ]
+  },
+  {
+   "id": "burlington-vt",
+   "name": "Burlington, VT",
+   "kind": "city",
+   "precision": "town",
+   "lat": 44.4759,
+   "lng": -73.2121,
+   "uncertaintyMetres": 3000,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": true,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-burlington-vt-01",
+     "type": "died",
+     "personIds": [
+      "harry-james-farr"
+     ],
+     "dateStart": "1966-05-22",
+     "datePrecision": "day",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Harry James Farr: Died at DeGoesbriand Memorial Hospital, 1966",
+     "sourceIds": [
+      "s57"
+     ],
+     "factRef": "harry-james-farr.death"
+    }
+   ]
+  },
+  {
+   "id": "fair-haven-vt",
+   "name": "Fair Haven, VT",
+   "kind": "town",
+   "precision": "town",
+   "lat": 43.5948,
+   "lng": -73.2657,
+   "uncertaintyMetres": 600,
+   "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
+   "coordinatePrecision": "town",
+   "drawAs": "pin",
+   "inHomeRegion": true,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-fair-haven-vt-01",
+     "type": "lived",
+     "personIds": [
+      "raymond-bates-magwire"
+     ],
+     "dateStart": "1940",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Raymond Bates Magwire: Student, 1 Capitol Hill, 1940",
+     "sourceIds": [
+      "s62"
+     ],
+     "factRef": "raymond-bates-magwire.residences[0]"
+    }
+   ]
+  },
+  {
+   "id": "hillside-cemetery-vt",
+   "name": "Hillside Cemetery, Castleton, VT",
+   "kind": "cemetery",
+   "precision": "cemetery",
+   "lat": 43.6134,
+   "lng": -73.1859,
+   "uncertaintyMetres": 300,
+   "coordinateMethod": "The cemetery point in the USGS place-name file. The grave itself is not located.",
+   "coordinatePrecision": "cemetery",
+   "drawAs": "pin",
+   "inHomeRegion": true,
+   "country": "United States",
+   "events": [
+    {
+     "id": "pe-hillside-cemetery-vt-01",
+     "type": "buried",
+     "personIds": [
+      "raymond-bates-magwire"
+     ],
+     "dateStart": "1997",
+     "datePrecision": "year",
+     "approximate": false,
+     "confidence": "confirmed",
+     "summary": "Raymond Bates Magwire: Buried, Hillside Cemetery, 1997 (the gravesite record lists Fair Haven)",
+     "sourceIds": [
+      "s12",
+      "s13",
+      "s64"
+     ],
+     "factRef": "raymond-bates-magwire.burial"
     }
    ]
   }

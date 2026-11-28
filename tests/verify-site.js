@@ -10,7 +10,7 @@ function check(name, ok, detail) {
 }
 
 const hist = JSON.parse(fs.readFileSync(path.join(dist, 'discoveries', 'history.json'), 'utf8'));
-check('38 discoveries', (hist.entries || []).length === 38, 'got ' + (hist.entries || []).length);
+check('85 discoveries', (hist.entries || []).length === 85, 'got ' + (hist.entries || []).length);
 
 const people = JSON.parse(fs.readFileSync(path.join(dist, 'data', 'people.json'), 'utf8')).people;
 const living = people.filter(p => p.isLiving);
@@ -24,8 +24,9 @@ living.forEach(p => {
 const places = JSON.parse(fs.readFileSync(path.join(dist, 'data', 'places.json'), 'utf8')).places;
 check('Wells is not a place', !places.some(p => /wells/i.test(p.name)));
 const events = places.reduce((n, p) => n + (p.events || []).length, 0);
-check('55 map events', events === 55, String(events));
-check('Colorado is an area', places.some(p => p.id === 'colorado' && p.drawAs === 'area'));
+check('61 map events', events === 61, String(events));
+check('Denver is a town pin, not a Colorado area', places.some(p => p.id === 'denver-co' && p.drawAs === 'pin') && !places.some(p => p.id === 'colorado'));
+check('Hillside Cemetery is on the map', places.some(p => p.id === 'hillside-cemetery-vt' && p.drawAs === 'pin'));
 check('a Nova Scotia village is a soft circle', places.some(p => p.id === 'norwood-ns' && p.drawAs === 'halo'));
 
 const html = ['index.html', 'crosby.html', 'magwire.html', 'farr.html', 'richardson.html', 'spaulding.html', 'research.html', 'family-tree.html', 'map.html', 'discoveries.html']
