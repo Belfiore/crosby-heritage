@@ -81,25 +81,6 @@
           "factRef": "howard-frank-magwire.spouses[0]"
         },
         {
-          "id": "pe-springfield-vt-04",
-          "type": "buried",
-          "personIds": [
-            "howard-frank-magwire"
-          ],
-          "dateStart": "2014",
-          "datePrecision": "year",
-          "approximate": false,
-          "confidence": "probable",
-          "summary": "Howard Frank Magwire: Buried, Oakland Cemetery, 2014",
-          "summary_de": "Howard Frank Magwire: Beigesetzt, Oakland Cemetery, 2014",
-          "sourceIds": [
-            "s01",
-            "s10",
-            "s13"
-          ],
-          "factRef": "howard-frank-magwire.burial"
-        },
-        {
           "id": "pe-springfield-vt-05",
           "type": "born",
           "personIds": [
@@ -277,7 +258,7 @@
             "s03",
             "s27"
           ],
-          "factRef": "harry-james-farr.residences[0]",
+          "factRef": "",
           "recordCrops": [
             "1950-census-farr-harry-springfield-vt-ed14-41-zoom.jpg"
           ]
@@ -394,21 +375,176 @@
           "dateStart": "1837"
         },
         {
-          "id": "pe-springfield-vt-07",
+          "id": "pe-springfield-vt-21",
           "type": "worked",
           "personIds": [
-            "frank-albert-magwire"
+            "howard-frank-magwire"
           ],
-          "dateStart": "1917",
+          "dateStart": "1940",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Howard Frank Magwire: Worked at the Fellows Gear Shaper Company, River Street, 1940",
+          "summary_de": "Howard Frank Magwire: Arbeit bei der Fellows Gear Shaper Company, River Street, 1940",
+          "sourceIds": [
+            "s61"
+          ],
+          "factRef": "howard-frank-magwire.occupations[0]"
+        },
+        {
+          "id": "pe-springfield-vt-22",
+          "type": "worked",
+          "personIds": [
+            "albert-a-magwire"
+          ],
+          "dateStart": "1887",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Albert A. Magwire: Musician, 1887 marriage card",
+          "summary_de": "Albert A. Magwire: Musiker, Heiratskarte 1887",
+          "sourceIds": [
+            "s59"
+          ],
+          "factRef": "albert-a-magwire.occupations[0]"
+        },
+        {
+          "id": "pe-springfield-vt-23",
+          "type": "worked",
+          "personIds": [
+            "albert-a-magwire"
+          ],
+          "dateStart": "1904",
           "datePrecision": "year",
           "approximate": false,
           "confidence": "probable",
-          "summary": "Frank Albert Magwire: Ran Magwire's Pharmacy (37 years to 1954), 1917",
+          "summary": "Albert A. Magwire: Springfield Music Rooms, Edison phonograph dealer, 1904",
+          "summary_de": "Albert A. Magwire: Springfield Music Rooms, Edison-Phonographenhändler, 1904",
           "sourceIds": [
-            "s13"
+            "s44"
           ],
-          "factRef": "frank-albert-magwire.occupations[0]",
-          "summary_de": "Frank Albert Magwire: Betrieb Magwire's Pharmacy (37 Jahre bis 1954), 1917"
+          "factRef": "albert-a-magwire.occupations[1]"
+        },
+        {
+          "id": "pe-springfield-vt-24",
+          "type": "worked",
+          "personIds": [
+            "albert-a-magwire"
+          ],
+          "dateStart": "1929",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Albert A. Magwire: Music teacher, 1929 death card",
+          "summary_de": "Albert A. Magwire: Musiklehrer, Sterbekarte 1929",
+          "sourceIds": [
+            "s58"
+          ],
+          "factRef": "albert-a-magwire.occupations[2]"
+        },
+        {
+          "id": "pe-springfield-vt-25",
+          "type": "worked",
+          "personIds": [
+            "harold-charles-magwire"
+          ],
+          "dateStart": "1940",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harold Charles Magwire: Worked at the Fellows Gear Shaper Company, River Street, 1940",
+          "summary_de": "Harold Charles Magwire: Arbeit bei der Fellows Gear Shaper Company, River Street, 1940",
+          "sourceIds": [
+            "s60"
+          ],
+          "factRef": "harold-charles-magwire.occupations[0]"
+        },
+        {
+          "id": "pe-springfield-vt-26",
+          "type": "worked",
+          "personIds": [
+            "harry-james-farr"
+          ],
+          "dateStart": "1926",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harry James Farr: Letter carrier, 1926 to 1930",
+          "summary_de": "Harry James Farr: Briefträger, 1926 bis 1930",
+          "sourceIds": [
+            "s48",
+            "s50",
+            "s51"
+          ],
+          "factRef": "harry-james-farr.occupations[1]"
+        },
+        {
+          "id": "pe-springfield-vt-27",
+          "type": "worked",
+          "personIds": [
+            "harry-james-farr"
+          ],
+          "dateStart": "1942",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harry James Farr: U.S. Post Office Department, Main Street, 1942",
+          "summary_de": "Harry James Farr: U.S. Post Office Department, Main Street, 1942",
+          "sourceIds": [
+            "s55"
+          ],
+          "factRef": "harry-james-farr.occupations[2]"
+        },
+        {
+          "id": "pe-springfield-vt-28",
+          "type": "worked",
+          "personIds": [
+            "harry-james-farr"
+          ],
+          "dateStart": "1966",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harry James Farr: Retired, of 6 Bridge Street, 1966",
+          "summary_de": "Harry James Farr: Im Ruhestand, wohnhaft 6 Bridge Street, 1966",
+          "sourceIds": [
+            "s57"
+          ],
+          "factRef": "harry-james-farr.occupations[3]"
+        },
+        {
+          "id": "pe-springfield-vt-29",
+          "type": "worked",
+          "personIds": [
+            "mary-abbie-west-farr"
+          ],
+          "dateStart": "1950",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Mary Abbie (West) Farr: Post office clerk, 1950",
+          "summary_de": "Mary Abbie (West) Farr: Postangestellte, 1950",
+          "sourceIds": [
+            "s05"
+          ],
+          "factRef": "mary-abbie-west-farr.occupations[1]"
+        },
+        {
+          "id": "pe-springfield-vt-30",
+          "type": "buried",
+          "personIds": [
+            "richard-h-farr"
+          ],
+          "dateStart": "2009",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Richard H. Farr: Private burial, Springfield, 2009",
+          "summary_de": "Richard H. Farr: Private Beisetzung, Springfield, 2009",
+          "sourceIds": [
+            "s27"
+          ],
+          "factRef": "richard-h-farr.burial"
         }
       ]
     },
@@ -847,6 +983,23 @@
           ],
           "factRef": "beatrice-a-patterson-crosby.birth",
           "dateStart": "1929"
+        },
+        {
+          "id": "pe-chicopee-ma-07",
+          "type": "worked",
+          "personIds": [
+            "ernest-a-crosby"
+          ],
+          "dateStart": "1942",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Ernest A. Crosby: Worked at the A. G. Spalding Company, 1942",
+          "summary_de": "Ernest A. Crosby: Arbeit bei der A. G. Spalding Company, 1942",
+          "sourceIds": [
+            "s56"
+          ],
+          "factRef": "ernest-a-crosby.occupations[0]"
         }
       ]
     },
@@ -938,6 +1091,23 @@
           ],
           "factRef": "muriel-j-crosby-strauss.death",
           "dateStart": "2013"
+        },
+        {
+          "id": "pe-springfield-ma-05",
+          "type": "worked",
+          "personIds": [
+            "raymond-bates-magwire"
+          ],
+          "dateStart": "1940",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Raymond Bates Magwire: Student at Springfield College, 287 Hickory Street, 1940",
+          "summary_de": "Raymond Bates Magwire: Student am Springfield College, 287 Hickory Street, 1940",
+          "sourceIds": [
+            "s62"
+          ],
+          "factRef": "raymond-bates-magwire.occupations[0]"
         }
       ]
     },
@@ -1242,11 +1412,11 @@
       "name": "Norwood, NS",
       "kind": "town",
       "precision": "village",
-      "lat": 43.939,
-      "lng": -66.029,
+      "lat": 44.067,
+      "lng": -66.0196,
       "uncertaintyMetres": 4000,
-      "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
-      "coordinateMethod_de": "Ein Punkt für Ort, Dorf oder Bundesstaat aus der Ortstabelle der Recherche. Es ist keine Straßenadresse.",
+      "coordinateMethod": "Wikipedia (Norwood, Nova Scotia), checked against OpenStreetMap on 28 November 2026. A village point, not a street address.",
+      "coordinateMethod_de": "Wikipedia (Norwood, Nova Scotia), am 28. November 2026 mit OpenStreetMap abgeglichen. Ein Dorfpunkt, keine Straßenadresse.",
       "coordinatePrecision": "town",
       "drawAs": "halo",
       "inHomeRegion": false,
@@ -1279,11 +1449,11 @@
       "name": "Brazil Lake, NS",
       "kind": "town",
       "precision": "village",
-      "lat": 43.962,
-      "lng": -65.99,
+      "lat": 43.9928,
+      "lng": -66.0038,
       "uncertaintyMetres": 4000,
-      "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
-      "coordinateMethod_de": "Ein Punkt für Ort, Dorf oder Bundesstaat aus der Ortstabelle der Recherche. Es ist keine Straßenadresse.",
+      "coordinateMethod": "Wikipedia (Brazil Lake, Nova Scotia), checked against OpenStreetMap on 28 November 2026. A village point, not a street address.",
+      "coordinateMethod_de": "Wikipedia (Brazil Lake, Nova Scotia), am 28. November 2026 mit OpenStreetMap abgeglichen. Ein Dorfpunkt, keine Straßenadresse.",
       "coordinatePrecision": "town",
       "drawAs": "halo",
       "inHomeRegion": false,
@@ -1359,11 +1529,11 @@
       "name": "Pleasant Valley, NS",
       "kind": "town",
       "precision": "village",
-      "lat": 43.98,
-      "lng": -66.03,
+      "lat": 43.9865,
+      "lng": -65.9624,
       "uncertaintyMetres": 4000,
-      "coordinateMethod": "A town, village or state point from the research place table. It is not a street address.",
-      "coordinateMethod_de": "Ein Punkt für Ort, Dorf oder Bundesstaat aus der Ortstabelle der Recherche. Es ist keine Straßenadresse.",
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the community of Pleasant Valley, Yarmouth County. A village point, not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Ort Pleasant Valley, Yarmouth County. Ein Dorfpunkt, keine Straßenadresse.",
       "coordinatePrecision": "town",
       "drawAs": "halo",
       "inHomeRegion": false,
@@ -1445,6 +1615,21 @@
             "s28"
           ],
           "factRef": "asenath-porter-crosby.birth"
+        },
+        {
+          "id": "pe-ohio-ns-03",
+          "type": "born",
+          "personIds": [
+            "hezekiah-porter"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Hezekiah Porter: Born",
+          "summary_de": "Hezekiah Porter: Geboren",
+          "sourceIds": [
+            "s31"
+          ],
+          "factRef": "hezekiah-porter.birth"
         }
       ]
     },
@@ -1596,7 +1781,45 @@
             "s49"
           ],
           "factRef": "harry-james-farr.spouses[1]"
+        },
+        {
+          "id": "pe-chester-vt-02",
+          "type": "lived",
+          "personIds": [
+            "mary-abbie-west-farr"
+          ],
+          "dateStart": "1926",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Mary Abbie West: Living at Chester Depot, 1926",
+          "summary_de": "Mary Abbie West: Wohnhaft in Chester Depot, 1926",
+          "sourceIds": [
+            "s41",
+            "s49"
+          ],
+          "factRef": "mary-abbie-west-farr.residences[0]"
+        },
+        {
+          "id": "pe-chester-vt-03",
+          "type": "worked",
+          "personIds": [
+            "mary-abbie-west-farr"
+          ],
+          "dateStart": "1926",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Mary Abbie West: Probably the Abbie West paid for teaching in Chester, 1926",
+          "summary_de": "Mary Abbie West: Wahrscheinlich die Abbie West, die 1926 in Chester als Lehrerin bezahlt wurde",
+          "sourceIds": [
+            "s40"
+          ],
+          "factRef": "mary-abbie-west-farr.occupations[0]"
         }
+      ],
+      "variants": [
+        "Chester Depot"
       ]
     },
     {
@@ -1665,6 +1888,23 @@
             "s52"
           ],
           "factRef": "harry-james-farr.residences[0]"
+        },
+        {
+          "id": "pe-bridgeport-ct-02",
+          "type": "worked",
+          "personIds": [
+            "harry-james-farr"
+          ],
+          "dateStart": "1917",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harry James Farr: Letter carrier, U.S. Post Office, 1917",
+          "summary_de": "Harry James Farr: Briefträger, U.S. Post Office, 1917",
+          "sourceIds": [
+            "s52"
+          ],
+          "factRef": "harry-james-farr.occupations[0]"
         }
       ]
     },
@@ -1699,6 +1939,23 @@
             "s53"
           ],
           "factRef": "frank-albert-magwire.residences[0]"
+        },
+        {
+          "id": "pe-woodsville-nh-02",
+          "type": "worked",
+          "personIds": [
+            "frank-albert-magwire"
+          ],
+          "dateStart": "1917",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Frank Albert Magwire: Druggist, 1917 draft card",
+          "summary_de": "Frank Albert Magwire: Drogist, Musterungskarte 1917",
+          "sourceIds": [
+            "s53"
+          ],
+          "factRef": "frank-albert-magwire.occupations[0]"
         }
       ]
     },
@@ -1803,6 +2060,590 @@
             "s64"
           ],
           "factRef": "raymond-bates-magwire.burial"
+        }
+      ]
+    },
+    {
+      "id": "charlestown-nh",
+      "name": "Charlestown, NH",
+      "kind": "town",
+      "precision": "town",
+      "lat": 43.2381,
+      "lng": -72.4248,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the town of Charlestown, Sullivan County, New Hampshire. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Stadt Charlestown, Sullivan County, New Hampshire angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-charlestown-nh-01",
+          "type": "worked",
+          "personIds": [
+            "frank-albert-magwire"
+          ],
+          "dateStart": "1914",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Frank Albert Magwire: Working as a pharmacist, New Hampshire license, 1914",
+          "summary_de": "Frank Albert Magwire: Arbeit als Apotheker, Zulassung in New Hampshire, 1914",
+          "sourceIds": [
+            "s43"
+          ],
+          "factRef": "frank-albert-magwire.occupations[1]"
+        }
+      ]
+    },
+    {
+      "id": "montpelier-vt",
+      "name": "Montpelier, VT",
+      "kind": "town",
+      "precision": "town",
+      "lat": 44.2602,
+      "lng": -72.575,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the city of Montpelier, Vermont. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Stadt Montpelier, Vermont angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-montpelier-vt-01",
+          "type": "worked",
+          "personIds": [
+            "raymond-bates-magwire"
+          ],
+          "dateStart": "1952",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Raymond Bates Magwire: State director of health and physical education, 1952 to 1959",
+          "summary_de": "Raymond Bates Magwire: Staatlicher Direktor für Gesundheit und Leibeserziehung, 1952 bis 1959",
+          "sourceIds": [
+            "s46"
+          ],
+          "factRef": "raymond-bates-magwire.occupations[1]"
+        }
+      ]
+    },
+    {
+      "id": "westfield-ma",
+      "name": "Westfield, MA",
+      "kind": "town",
+      "precision": "town",
+      "lat": 42.1205,
+      "lng": -72.7489,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the city of Westfield, Hampden County, Massachusetts. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Stadt Westfield, Hampden County, Massachusetts angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-westfield-ma-01",
+          "type": "born",
+          "personIds": [
+            "george-oscar-farr"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "George Oscar Farr: Born (from his son's 1926 marriage card)",
+          "summary_de": "George Oscar Farr: Geboren (laut Heiratskarte seines Sohnes von 1926)",
+          "sourceIds": [
+            "s48"
+          ],
+          "factRef": "george-oscar-farr.birth"
+        }
+      ]
+    },
+    {
+      "id": "andover-vt",
+      "name": "Andover, VT",
+      "kind": "town",
+      "precision": "town",
+      "lat": 43.2774,
+      "lng": -72.6962,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the town of Andover, Windsor County, Vermont. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Gemeinde Andover, Windsor County, Vermont angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-andover-vt-01",
+          "type": "born",
+          "personIds": [
+            "alice-beard-farr"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Alice (Beard) Farr: Born (from her son's 1926 marriage card)",
+          "summary_de": "Alice (Beard) Farr: Geboren (laut Heiratskarte ihres Sohnes von 1926)",
+          "sourceIds": [
+            "s48",
+            "s57"
+          ],
+          "factRef": "alice-beard-farr.birth"
+        }
+      ]
+    },
+    {
+      "id": "dorset-vt",
+      "name": "Dorset, VT",
+      "kind": "town",
+      "precision": "town",
+      "lat": 43.2549,
+      "lng": -73.0989,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the village of Dorset, Bennington County, Vermont. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für das Dorf Dorset, Bennington County, Vermont angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-dorset-vt-01",
+          "type": "born",
+          "personIds": [
+            "alice-dina-waite-west"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Alice Dina (Waite) West: Born (from her daughter's 1926 marriage card)",
+          "summary_de": "Alice Dina (Waite) West: Geboren (laut Heiratskarte ihrer Tochter von 1926)",
+          "sourceIds": [
+            "s49"
+          ],
+          "factRef": "alice-dina-waite-west.birth"
+        }
+      ]
+    },
+    {
+      "id": "ludlow-vt",
+      "name": "Ludlow, VT",
+      "kind": "town",
+      "precision": "town",
+      "lat": 43.3961,
+      "lng": -72.7012,
+      "uncertaintyMetres": 2500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the town of Ludlow, Windsor County, Vermont. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Gemeinde Ludlow, Windsor County, Vermont angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-ludlow-vt-01",
+          "type": "worked",
+          "personIds": [
+            "albert-a-magwire"
+          ],
+          "dateStart": "1904-10-25",
+          "datePrecision": "day",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Albert A. Magwire: Ticketed phonograph concert in Ludlow Town Hall, October 25, 1904",
+          "summary_de": "Albert A. Magwire: Phonographenkonzert mit Eintritt im Rathaus von Ludlow, 25. Oktober 1904",
+          "sourceIds": [
+            "s44"
+          ],
+          "factRef": ""
+        }
+      ]
+    },
+    {
+      "id": "pleasant-lake-ns",
+      "name": "Pleasant Lake, NS",
+      "kind": "town",
+      "precision": "village",
+      "lat": 43.8522,
+      "lng": -66.009,
+      "uncertaintyMetres": 4000,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the community of Pleasant Lake, Yarmouth County, Nova Scotia. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für den Ort Pleasant Lake, Yarmouth County, Nova Scotia angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": false,
+      "country": "Canada",
+      "events": [
+        {
+          "id": "pe-pleasant-lake-ns-01",
+          "type": "born",
+          "personIds": [
+            "joseph-crosby"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Joseph Crosby: Born (from his son's 1937 death record)",
+          "summary_de": "Joseph Crosby: Geboren (laut Sterbeeintrag seines Sohnes von 1937)",
+          "sourceIds": [
+            "s32"
+          ],
+          "factRef": "joseph-crosby.birth"
+        }
+      ]
+    },
+    {
+      "id": "lake-george-ns",
+      "name": "Lake George, NS",
+      "kind": "town",
+      "precision": "village",
+      "lat": 43.9933,
+      "lng": -66.0725,
+      "uncertaintyMetres": 4000,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the community of Lake George, Yarmouth County, Nova Scotia. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für den Ort Lake George, Yarmouth County, Nova Scotia angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": false,
+      "country": "Canada",
+      "events": [
+        {
+          "id": "pe-lake-george-ns-01",
+          "type": "born",
+          "personIds": [
+            "eunice-saunders-crosby"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Eunice (Saunders) Crosby: Born (from her son's 1937 death record)",
+          "summary_de": "Eunice (Saunders) Crosby: Geboren (laut Sterbeeintrag ihres Sohnes von 1937)",
+          "sourceIds": [
+            "s32"
+          ],
+          "factRef": "eunice-saunders-crosby.birth"
+        }
+      ]
+    },
+    {
+      "id": "south-ohio-ns",
+      "name": "South Ohio, NS",
+      "kind": "town",
+      "precision": "village",
+      "lat": 43.9214,
+      "lng": -66.0644,
+      "uncertaintyMetres": 4000,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the community of South Ohio, Yarmouth County, Nova Scotia. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für den Ort South Ohio, Yarmouth County, Nova Scotia angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": false,
+      "country": "Canada",
+      "events": [
+        {
+          "id": "pe-south-ohio-ns-01",
+          "type": "born",
+          "personIds": [
+            "celia-porter"
+          ],
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Celia Porter: Born",
+          "summary_de": "Celia Porter: Geboren",
+          "sourceIds": [
+            "s31"
+          ],
+          "factRef": "celia-porter.birth"
+        }
+      ]
+    },
+    {
+      "id": "schenectady-ny",
+      "name": "Schenectady, NY",
+      "kind": "town",
+      "precision": "town",
+      "lat": 42.8142,
+      "lng": -73.9396,
+      "uncertaintyMetres": 4000,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the city of Schenectady, New York. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für die Stadt Schenectady, New York angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": false,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-schenectady-ny-01",
+          "type": "lived",
+          "personIds": [
+            "mary-abbie-west-farr"
+          ],
+          "dateStart": "1992",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Mary Abbie (West) Farr: Of Schenectady at her death, 1992 (obituary index)",
+          "summary_de": "Mary Abbie (West) Farr: Bei ihrem Tod 1992 wohnhaft in Schenectady (Nachrufindex)",
+          "sourceIds": [
+            "s74"
+          ],
+          "factRef": ""
+        }
+      ]
+    },
+    {
+      "id": "hydeville-vt",
+      "name": "Hydeville (Castleton), VT",
+      "kind": "town",
+      "precision": "village",
+      "lat": 43.6047,
+      "lng": -73.2331,
+      "uncertaintyMetres": 1500,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the point OpenStreetMap gives for the hamlet of Hydeville in Castleton, Vermont. It is not a street address.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: der Punkt, den OpenStreetMap für den Weiler Hydeville in Castleton, Vermont angibt. Es ist keine Straßenadresse.",
+      "coordinatePrecision": "town",
+      "drawAs": "halo",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-hydeville-vt-01",
+          "type": "lived",
+          "personIds": [
+            "raymond-bates-magwire"
+          ],
+          "dateStart": "1997",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Raymond Bates Magwire: Of Hydeville at his death, 1997 (obituary)",
+          "summary_de": "Raymond Bates Magwire: Bei seinem Tod 1997 wohnhaft in Hydeville (Nachruf)",
+          "sourceIds": [
+            "s79"
+          ],
+          "factRef": ""
+        }
+      ]
+    },
+    {
+      "id": "oakland-cemetery-springfield-vt",
+      "name": "Oakland Cemetery, Springfield, VT",
+      "kind": "cemetery",
+      "precision": "cemetery",
+      "lat": 43.3118,
+      "lng": -72.498,
+      "uncertaintyMetres": 300,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the outline of Oakland Cemetery, Springfield, Vermont. The grave itself is not located.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: die Umrisse von dem Oakland Cemetery, Springfield, Vermont. Das Grab selbst ist nicht lokalisiert.",
+      "coordinatePrecision": "cemetery",
+      "drawAs": "pin",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-01",
+          "type": "buried",
+          "personIds": [
+            "frank-albert-magwire"
+          ],
+          "dateStart": "1967",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Frank Albert Magwire: Buried, Oakland Cemetery, 1967",
+          "summary_de": "Frank Albert Magwire: Begraben, Oakland Cemetery, 1967",
+          "sourceIds": [
+            "s02",
+            "s13",
+            "s18"
+          ],
+          "factRef": "frank-albert-magwire.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-02",
+          "type": "buried",
+          "personIds": [
+            "alice-evadna-bates-magwire"
+          ],
+          "dateStart": "1972",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Alice Evadna (Bates) Magwire: Buried, Oakland Cemetery, 1972",
+          "summary_de": "Alice Evadna (Bates) Magwire: Begraben, Oakland Cemetery, 1972",
+          "sourceIds": [
+            "s02",
+            "s14",
+            "s13",
+            "s67"
+          ],
+          "factRef": "alice-evadna-bates-magwire.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-03",
+          "type": "buried",
+          "personIds": [
+            "albert-a-magwire"
+          ],
+          "dateStart": "1929",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Albert A. Magwire: Buried, Oakland Cemetery, 1929",
+          "summary_de": "Albert A. Magwire: Begraben, Oakland Cemetery, 1929",
+          "sourceIds": [
+            "s15",
+            "s16",
+            "s18",
+            "s13"
+          ],
+          "factRef": "albert-a-magwire.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-04",
+          "type": "buried",
+          "personIds": [
+            "alice-jenny-spaulding-magwire"
+          ],
+          "dateStart": "1951",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Alice Jenny (Spaulding) Magwire: Buried, Oakland Cemetery, 1951",
+          "summary_de": "Alice Jenny (Spaulding) Magwire: Begraben, Oakland Cemetery, 1951",
+          "sourceIds": [
+            "s06",
+            "s07",
+            "s16"
+          ],
+          "factRef": "alice-jenny-spaulding-magwire.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-05",
+          "type": "buried",
+          "personIds": [
+            "harry-james-farr"
+          ],
+          "dateStart": "1966",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Harry James Farr: Buried, Oakland Cemetery, 1966",
+          "summary_de": "Harry James Farr: Begraben, Oakland Cemetery, 1966",
+          "sourceIds": [
+            "s68",
+            "s75"
+          ],
+          "factRef": "harry-james-farr.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-06",
+          "type": "buried",
+          "personIds": [
+            "mary-abbie-west-farr"
+          ],
+          "dateStart": "1992",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "confirmed",
+          "summary": "Mary Abbie (West) Farr: Buried, Oakland Cemetery, 1992",
+          "summary_de": "Mary Abbie (West) Farr: Begraben, Oakland Cemetery, 1992",
+          "sourceIds": [
+            "s68"
+          ],
+          "factRef": "mary-abbie-west-farr.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-07",
+          "type": "buried",
+          "personIds": [
+            "george-oscar-farr"
+          ],
+          "dateStart": "1911",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "George Oscar Farr: Buried, Oakland Cemetery, 1911",
+          "summary_de": "George Oscar Farr: Begraben, Oakland Cemetery, 1911",
+          "sourceIds": [
+            "s69"
+          ],
+          "factRef": "george-oscar-farr.burial"
+        },
+        {
+          "id": "pe-oakland-cemetery-springfield-vt-08",
+          "type": "buried",
+          "personIds": [
+            "howard-frank-magwire"
+          ],
+          "dateStart": "2014",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Howard Frank Magwire: Buried, Oakland Cemetery, 2014",
+          "summary_de": "Howard Frank Magwire: Begraben, Oakland Cemetery, 2014",
+          "sourceIds": [
+            "s01",
+            "s10",
+            "s13"
+          ],
+          "factRef": "howard-frank-magwire.burial"
+        }
+      ]
+    },
+    {
+      "id": "cavendish-village-cemetery-vt",
+      "name": "Cavendish Village Cemetery, Cavendish, VT",
+      "kind": "cemetery",
+      "precision": "cemetery",
+      "lat": 43.3852,
+      "lng": -72.6075,
+      "uncertaintyMetres": 300,
+      "coordinateMethod": "OpenStreetMap Nominatim search on 28 November 2026: the outline of Cavendish Village Cemetery, Cavendish, Vermont. The grave itself is not located.",
+      "coordinateMethod_de": "OpenStreetMap-Nominatim-Suche am 28. November 2026: die Umrisse von dem Cavendish Village Cemetery, Cavendish, Vermont. Das Grab selbst ist nicht lokalisiert.",
+      "coordinatePrecision": "cemetery",
+      "drawAs": "pin",
+      "inHomeRegion": true,
+      "country": "United States",
+      "events": [
+        {
+          "id": "pe-cavendish-village-cemetery-vt-01",
+          "type": "buried",
+          "personIds": [
+            "charles-elliot-spaulding"
+          ],
+          "dateStart": "1890",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Charles Elliot Spaulding: Buried, Cavendish Village Cemetery, 1890",
+          "summary_de": "Charles Elliot Spaulding: Begraben, Cavendish Village Cemetery, 1890",
+          "sourceIds": [
+            "s06",
+            "s07",
+            "s17"
+          ],
+          "factRef": "charles-elliot-spaulding.burial"
+        },
+        {
+          "id": "pe-cavendish-village-cemetery-vt-02",
+          "type": "buried",
+          "personIds": [
+            "amantha-putnam-spaulding"
+          ],
+          "dateStart": "1926",
+          "datePrecision": "year",
+          "approximate": false,
+          "confidence": "probable",
+          "summary": "Amantha (Putnam) Spaulding: Buried beside Charles, Cavendish Village Cemetery, 1926",
+          "summary_de": "Amantha (Putnam) Spaulding: Begraben neben Charles, Cavendish Village Cemetery, 1926",
+          "sourceIds": [
+            "s07",
+            "s06",
+            "s17"
+          ],
+          "factRef": "amantha-putnam-spaulding.burial"
         }
       ]
     }
