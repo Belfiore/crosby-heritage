@@ -49,7 +49,12 @@
       "heading_de": "Die Familienkarte",
       "stylesheets": ["styles.css"]
     },
-    "ask": null
+    "ask": {
+      "file": "ask.html",
+      "title": "Ask Stuart | Crosby",
+      "description": "Stuart, the family archivist, answers questions about the Crosby, Magwire, Farr, Richardson, Pierce, Spaulding and Putnam families from the records on this site, with a link to each one.",
+      "stylesheets": ["styles.css"]
+    }
   },
   "nav": [
     {"href": "index.html", "label": "Home", "label_de": "Start"},
@@ -61,7 +66,8 @@
     {"href": "richardson.html", "label": "Richardsons", "label_de": "Richardsons"},
     {"href": "spaulding.html", "label": "Spaulding", "label_de": "Spaulding"},
     {"href": "research.html", "label": "Research", "label_de": "Forschung"},
-    {"href": "discoveries.html", "label": "Discoveries", "label_de": "Funde"}
+    {"href": "discoveries.html", "label": "Discoveries", "label_de": "Funde"},
+    {"href": "ask.html", "label": "Ask Stuart", "label_de": "Stuart fragen"}
   ],
   "head": {"fonts": null, "stylesheets": ["styles.css"]},
   "theme": {
@@ -209,6 +215,10 @@
     "noscript": "Every mapped place is also described on the line pages and on the <a href=\"research.html\">research page</a>.",
     "noscript_de": "Jeder kartierte Ort ist auch auf den Linienseiten und auf der <a href=\"research.html\">Forschungsseite</a> beschrieben."
   },
-  "widget": {"enabled": false},
+  "stuart": {
+    "pages": ["index.html", "crosby.html", "magwire.html", "farr.html", "richardson.html", "spaulding.html", "research.html"],
+    "generalPages": ["index.html", "research.html"]
+  },
+  "widget": {"enabled": true},
   "publish": {"exclude": ["README.md", "tests/", "data/discoveries.json"]}
 }
