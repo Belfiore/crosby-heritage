@@ -951,6 +951,16 @@
       "s46"
      ]
     }
+   ],
+   "facts": [
+    {
+     "label": "Springfield College, 1936",
+     "value": "Listed in the Junior Class Index of the 1936 Massasoit yearbook as Magwire, Raymond Bates, of Springfield, Vt.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s45"
+     ]
+    }
    ]
   },
   {
@@ -1211,8 +1221,7 @@
      "years": "1926",
      "confidence": "probable",
      "sourceIds": [
-      "s40",
-      "s41"
+      "s40"
      ],
      "note": "An Abbie West was paid for teaching in Chester's report for the year ending January 1927."
     },

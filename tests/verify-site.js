@@ -10,7 +10,7 @@ function check(name, ok, detail) {
 }
 
 const hist = JSON.parse(fs.readFileSync(path.join(dist, 'discoveries', 'history.json'), 'utf8'));
-check('44 discoveries', (hist.entries || []).length === 44, 'got ' + (hist.entries || []).length);
+check('45 discoveries', (hist.entries || []).length === 45, 'got ' + (hist.entries || []).length);
 
 const people = JSON.parse(fs.readFileSync(path.join(dist, 'data', 'people.json'), 'utf8')).people;
 const living = people.filter(p => p.isLiving);

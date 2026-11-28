@@ -574,7 +574,10 @@
     "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, page 66",
     "url": "https://archive.org/details/annualreportofau00ches/page/n67"
    },
-   "confidence": "confirmed"
+   "confidence": "confirmed",
+   "covers": [
+    "spouse:harry-james-farr:mary-abbie-west-farr"
+   ]
   },
   {
    "id": "c051",
@@ -588,7 +591,10 @@
     "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927: marriage list, page 66, and school payments to Abbie West, teaching",
     "url": "https://archive.org/details/annualreportofau00ches/page/n67"
    },
-   "confidence": "probable"
+   "confidence": "probable",
+   "covers": [
+    "occupation:mary-abbie-west-farr:teacher:"
+   ]
   },
   {
    "id": "c052",
@@ -602,7 +608,11 @@
     "text": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont",
     "url": "https://sortedbyname.com/letter_f/farr/harry_farr.html"
    },
-   "confidence": "probable"
+   "confidence": "probable",
+   "covers": [
+    "birth:harry-james-farr",
+    "death:harry-james-farr"
+   ]
   },
   {
    "id": "c053",
@@ -616,7 +626,10 @@
     "text": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, page 7",
     "url": "https://archive.org/details/annualreports19142newh/page/n1370"
    },
-   "confidence": "probable"
+   "confidence": "probable",
+   "covers": [
+    "occupation:frank-albert-magwire:pharmacist-registered-in-vermont-licensed-in-new-hampshire-by-reciprocity:"
+   ]
   },
   {
    "id": "c054",
@@ -630,7 +643,10 @@
     "text": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11",
     "url": "https://archive.org/details/edisonphonograph02moor/page/n146"
    },
-   "confidence": "probable"
+   "confidence": "probable",
+   "covers": [
+    "occupation:albert-a-magwire:music-dealer-springfield-music-rooms-edison-phonograph-dealer:"
+   ]
   },
   {
    "id": "c055",
@@ -638,13 +654,33 @@
     "raymond-bates-magwire"
    ],
    "found": "2026-11-27",
-   "headline": "Found Raymond Bates Magwire of Springfield, Vt. in the 1936 Springfield College yearbook, and by 1952 as Vermont's state director of health and physical education.",
+   "headline": "Found Raymond Bates Magwire of Springfield, Vt. in the 1936 Springfield College yearbook, as a member of the junior class.",
    "findType": "record",
    "source": {
-    "text": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69; Journal of Health, Physical Education, Recreation, February 1952",
+    "text": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69",
     "url": "https://archive.org/details/yearbooksmassaso1936spri/page/n70"
    },
-   "confidence": "probable"
+   "confidence": "confirmed",
+   "covers": [
+    "fact:raymond-bates-magwire:springfield-college-1936"
+   ]
+  },
+  {
+   "id": "c056",
+   "personIds": [
+    "raymond-bates-magwire"
+   ],
+   "found": "2026-11-27",
+   "headline": "By 1952 Raymond B. Magwire was Vermont's state director of health and physical education, working from the State Department of Education in Montpelier.",
+   "findType": "record",
+   "source": {
+    "text": "Journal of Health, Physical Education, Recreation, vol. 23 no. 2, February 1952",
+    "url": "https://archive.org/details/sim_journal-of-physical-education-recreation-dance_1952-02_23_2/page/n48"
+   },
+   "confidence": "probable",
+   "covers": [
+    "occupation:raymond-bates-magwire:state-director-of-health-and-physical-education-vermont-state-department-of-education:"
+   ]
   }
  ]
 }
