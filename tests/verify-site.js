@@ -10,7 +10,8 @@ function check(name, ok, detail) {
 }
 
 const hist = JSON.parse(fs.readFileSync(path.join(dist, 'discoveries', 'history.json'), 'utf8'));
-check('90 discoveries', (hist.entries || []).length === 90, 'got ' + (hist.entries || []).length);
+// The history only grows: each publish adds the finds since the last one, so check a floor, not an exact count.
+check('at least 90 discoveries', (hist.entries || []).length >= 90, 'got ' + (hist.entries || []).length);
 
 const people = JSON.parse(fs.readFileSync(path.join(dist, 'data', 'people.json'), 'utf8')).people;
 const living = people.filter(p => p.isLiving);
