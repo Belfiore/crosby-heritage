@@ -37,7 +37,7 @@ const discoveries = fs.readFileSync(path.join(dist, 'discoveries.html'), 'utf8')
 check('confidence badges stay off the timeline', !discoveries.includes('class="tl-conf"'));
 const mapPage = fs.readFileSync(path.join(dist, 'map.html'), 'utf8');
 check('map has relationships and source preview', mapPage.includes('map-viewpoint.js') && mapPage.includes('source-preview.js') && mapPage.includes('source-preview.css'));
-check('language switch is offered', mapPage.includes('data-i18n') || fs.readFileSync(path.join(dist, 'family-tree.html'), 'utf8').includes('EN'));
+check('language switch is not offered', !mapPage.includes('data-i18n') && !fs.readFileSync(path.join(dist, 'family-tree.html'), 'utf8').includes('data-i18n') && !fs.readFileSync(path.join(dist, 'index.html'), 'utf8').includes('lang-switch'));
 const treePage = fs.readFileSync(path.join(dist, 'family-tree.html'), 'utf8');
 check('visitor question is on the tree page', treePage.includes('Which relative are you?') || treePage.includes('visitor'));
 check('obituary scans are not in the build', !/2009-obituary-|2016-obituary-/.test(html));
