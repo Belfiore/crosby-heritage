@@ -3,6 +3,7 @@
   "$comment": "Crosby family heritage, built the same way as Vigliotti Heritage: stable channel, Discovery Timeline on, confidence badges off, Who are you? on for living relatives, English and German. No map API keys. The map uses the engine's keyless OpenFreeMap style. Do not put a MapTiler or Google key in this file.",
   "schemaVersion": 1,
   "engine": {"channel": "stable"},
+  "admin": {"enabled": true},
   "timeline": {"enabled": true},
   "language": {"default": "en", "available": ["en", "de"]},
   "visitor": {
