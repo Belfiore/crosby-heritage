@@ -163,7 +163,8 @@
     "sourceIds": [
      "s01",
      "s10",
-     "s13"
+     "s13",
+     "s61"
     ],
     "date": "1919-01-01",
     "display": "January 1, 1919",
@@ -175,10 +176,11 @@
     "sourceIds": [
      "s01",
      "s10",
-     "s13"
+     "s13",
+     "s63"
     ],
-    "date": "2014",
-    "display": "2014"
+    "date": "2014-09-26",
+    "display": "September 26, 2014"
    },
    "burial": {
     "place": "Oakland Cemetery, Springfield, VT (Sec. G, Tier 10, Lot 52)",
@@ -191,7 +193,7 @@
     "placeId": "springfield-vt"
    },
    "parentLinkConfidence": "confirmed",
-   "story": "Howard Frank Magwire was born on New Year's Day 1919 in Springfield, Vermont, one of twin boys born that morning to Frank A. Magwire and Alice (Bates) Magwire; his twin was Harold Charles. The town's own printed register of births for 1919 lists the two boys one above the other. Howard grew up in a family well known in Springfield: his father ran Magwire's Pharmacy in Springfield for thirty seven years. By 1967 Howard was living in West Springfield, Massachusetts. On January 7, 1961 he married Gwendolyn Farr in Springfield, Vermont, and their daughter Tracy married Rick Crosby. Gwendolyn died before him. Howard died in 2014 and was laid to rest in Oakland Cemetery in Springfield, beside his parents' lot. [^s01] [^s10] [^s13]",
+   "story": "Howard Frank Magwire was born on New Year's Day 1919 in Springfield, Vermont, one of twin boys born that morning to Frank A. Magwire and Alice (Bates) Magwire; his twin was Harold Charles. The town's own printed register of births for 1919 lists the two boys one above the other. Howard grew up in a family well known in Springfield: his father ran Magwire's Pharmacy in Springfield for thirty seven years. On October 16, 1940, aged 21, he registered for the draft, living at 13 Whitcomb Street, Springfield, with his mother Mrs. Alice Bates Magwire as the person who would always know his address, and working at the Fellows Gear Shaper Company on River Street. A Veterans Affairs listing shows Army service from August 15, 1943 to January 7, 1946. By 1967 Howard was living in West Springfield, Massachusetts. On January 7, 1961 he married Gwendolyn Farr in Springfield, Vermont, and their daughter Tracy married Rick Crosby. Gwendolyn died before him. Howard died on September 26, 2014 (the Veterans Affairs listing gives the day) and was laid to rest in Oakland Cemetery in Springfield, beside his parents' lot. [^s01] [^s10] [^s13] [^s61] [^s63]",
    "summary": "Howard Frank Magwire was born on New Year's Day 1919 in Springfield, Vermont, one of twin boys born that morning to Frank A.",
    "relatedPages": [
     {
@@ -218,13 +220,87 @@
      "caption": "Full page, with the entry marked: Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire",
      "alt": "Full record page with the entry marked. Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire",
      "sourceId": "s01"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "caption": "1940 draft card, Springfield, Vermont: Howard Frank Magwire, born January 1, 1919; 13 Whitcomb St; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co.",
+     "alt": "1940 draft card, Springfield, Vermont: Howard Frank Magwire, born January 1, 1919; 13 Whitcomb St; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co.",
+     "sourceId": "s61"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-front-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1940 draft card, Springfield, Vermont: Howard Frank Magwire, born January 1, 1919; 13 Whitcomb St; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co.",
+     "alt": "Full record with the entry marked. 1940 draft card, Springfield, Vermont: Howard Frank Magwire, born January 1, 1919; 13 Whitcomb St; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co.",
+     "sourceId": "s61"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Back of the 1940 draft card: Howard Frank Magwire, 5 feet 8 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "alt": "Back of the 1940 draft card: Howard Frank Magwire, 5 feet 8 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "sourceId": "s61"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-back-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Back of the 1940 draft card: Howard Frank Magwire, 5 feet 8 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "alt": "Full record with the entry marked. Back of the 1940 draft card: Howard Frank Magwire, 5 feet 8 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "sourceId": "s61"
+    }
+   ],
+   "residences": [
+    {
+     "place": "Springfield, Vermont",
+     "placeId": "springfield-vt",
+     "address": "13 Whitcomb Street",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s61"
+     ]
+    }
+   ],
+   "occupations": [
+    {
+     "title": "Worker, Fellows Gear Shaper Company",
+     "place": "78 River Street, Springfield, Vermont",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s61"
+     ]
+    },
+    {
+     "title": "U.S. Army",
+     "years": "August 15, 1943 to January 7, 1946",
+     "confidence": "probable",
+     "sourceIds": [
+      "s63"
+     ],
+     "note": "From the Veterans Affairs BIRLS listing: entered the Army on August 15, 1943 and was separated on January 7, 1946."
+    }
+   ],
+   "facts": [
+    {
+     "label": "1940 description",
+     "value": "On his draft card of October 16, 1940, aged 21, he was 5 feet 8 inches, 130 pounds, with blue eyes and brown hair.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s61"
+     ]
     }
    ]
   },
   {
    "id": "gwendolyn-farr-magwire",
    "displayName": "Gwendolyn (Farr) Magwire",
-   "givenNames": "Gwendolyn",
+   "givenNames": "Gwendolyn Lorraine",
    "surname": "Magwire",
    "sex": "F",
    "generation": 3,
@@ -254,15 +330,14 @@
    ],
    "order": 1,
    "birth": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
-     "s36",
-     "s27",
-     "s10"
+     "s50",
+     "s36"
     ],
-    "date": "1927",
-    "display": "1927",
-    "place": "Springfield, Windsor Co., Vermont",
+    "date": "1927-07-01",
+    "display": "July 1, 1927",
+    "place": "Springfield Hospital, Springfield, Windsor Co., Vermont",
     "placeId": "springfield-vt"
    },
    "death": {
@@ -286,8 +361,8 @@
      "s10"
     ]
    },
-   "parentLinkConfidence": "probable",
-   "story": "Gwendolyn Farr was born in Springfield, Vermont, in 1927, a daughter of Harry James Farr and Mary Abbie (West) Farr; her brother Richard's 2009 obituary names those parents. Family tradition: West cousins remembered summer visits with Aunt Abby and Uncle Harry. That memory is not on the map. On January 7, 1961 she married Howard Frank Magwire in Springfield, and they made their home in West Springfield, Massachusetts. Their daughter is Tracy Jo Crosby. Gwen loved quilting, knitting and sewing, walks with her husband and coffee with friends, and was remembered for her ever present smile. After many years of congestive heart failure she died at Suffield, Connecticut, on September 6, 2009, after 48 years of marriage. Services were private. [^s36] [^s27] [^s10]",
+   "parentLinkConfidence": "confirmed",
+   "story": "Gwendolyn Farr was born in Springfield, Vermont, in 1927, a daughter of Harry James Farr and Mary Abbie (West) Farr; her brother Richard's 2009 obituary names those parents. Family tradition: West cousins remembered summer visits with Aunt Abby and Uncle Harry. That memory is not on the map. On January 7, 1961 she married Howard Frank Magwire in Springfield, and they made their home in West Springfield, Massachusetts. Their daughter is Tracy Jo Crosby. Gwen loved quilting, knitting and sewing, walks with her husband and coffee with friends, and was remembered for her ever present smile. After many years of congestive heart failure she died at Suffield, Connecticut, on September 6, 2009, after 48 years of marriage. Services were private. [^s36] [^s27] [^s10] Her Vermont birth record, found in November 2026, confirms that she was born on July 1, 1927 at Springfield Hospital, the first child of Harry J. Farr and M. Abbie West. [^s50]",
    "summary": "Gwendolyn Farr was born in Springfield, Vermont, in 1927, a daughter of Harry James Farr and Mary Abbie (West) Farr; her brother Richard's 2009 obituary names those parents.",
    "relatedPages": [
     {
@@ -297,7 +372,25 @@
    ],
    "cardPlace": "Springfield",
    "confidence": "probable",
-   "isDirectLine": true
+   "isDirectLine": true,
+   "media": [
+    {
+     "type": "document",
+     "file": "images/records/1927-birth-gwendolyn-lorraine-farr-springfield-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1927-birth-gwendolyn-lorraine-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Vermont birth card, Springfield Hospital, July 1, 1927: Farr, Gwendolyn Lorraine, first child; father Harry J. Farr, city mail carrier, born Denver; mother M. Abbie West, born Peru, Vt.",
+     "alt": "Vermont birth card, Springfield Hospital, July 1, 1927: Farr, Gwendolyn Lorraine, first child; father Harry J. Farr, city mail carrier, born Denver; mother M. Abbie West, born Peru, Vt.",
+     "sourceId": "s50"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1927-birth-gwendolyn-lorraine-farr-springfield-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1927-birth-gwendolyn-lorraine-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont birth card, Springfield Hospital, July 1, 1927: Farr, Gwendolyn Lorraine, first child; father Harry J. Farr, city mail carrier, born Denver; mother M. Abbie West, born Peru, Vt.",
+     "alt": "Full record with the entry marked. Vermont birth card, Springfield Hospital, July 1, 1927: Farr, Gwendolyn Lorraine, first child; father Harry J. Farr, city mail carrier, born Denver; mother M. Abbie West, born Peru, Vt.",
+     "sourceId": "s50"
+    }
+   ]
   },
   {
    "id": "frank-albert-magwire",
@@ -333,11 +426,12 @@
     }
    ],
    "birth": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
      "s02",
      "s13",
-     "s18"
+     "s18",
+     "s53"
     ],
     "date": "1889-02-14",
     "display": "February 14, 1889",
@@ -366,7 +460,7 @@
     ]
    },
    "parentLinkConfidence": "probable",
-   "story": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A. Magwire and Alice Jenny (Spaulding) Magwire. He graduated from Springfield High School in 1909 and on July 10, 1912 he married Alice Evadna Bates in Springfield; the marriage appears in the town's printed register for that year. He trained as a pharmacist and registered in Vermont, and in 1914, while working in Charlestown, New Hampshire, just across the Connecticut River, he was granted a New Hampshire license by reciprocity. For thirty seven years Frank owned and ran Magwire's Pharmacy in Springfield, retiring in 1954. In 1940 he kept three state licensed pinball machines in the store, and when the village demanded its own large license fee he paid under protest and sued; in January 1941 the Vermont Supreme Court reversed the dismissal of his suit and sent it back for trial. He belonged to St. John's Lodge No. 41 F&AM and Independent Order of Odd Fellows Lodge No. 42 for more than fifty years, was a 32nd Degree Mason and a member of Mt. Sinai Shrine in Montpelier. Frank and Alice raised three sons: Raymond (born 1913) and the twins Harold and Howard (born January 1, 1919). Frank died at Springfield Hospital on October 8, 1967 and was buried in Oakland Cemetery. [^s02] [^s13] [^s18] [^s43]",
+   "story": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A. Magwire and Alice Jenny (Spaulding) Magwire. He graduated from Springfield High School in 1909 and on July 10, 1912 he married Alice Evadna Bates in Springfield; the marriage appears in the town's printed register for that year. In June 1917 he registered for the draft at Woodsville, New Hampshire, aged 28, as a druggist supporting a wife and one child, and described as short and slender with light gray eyes and brown hair. He trained as a pharmacist and registered in Vermont, and in 1914, while working in Charlestown, New Hampshire, just across the Connecticut River, he was granted a New Hampshire license by reciprocity. For thirty seven years Frank owned and ran Magwire's Pharmacy in Springfield, retiring in 1954. In 1940 he kept three state licensed pinball machines in the store, and when the village demanded its own large license fee he paid under protest and sued; in January 1941 the Vermont Supreme Court reversed the dismissal of his suit and sent it back for trial. He belonged to St. John's Lodge No. 41 F&AM and Independent Order of Odd Fellows Lodge No. 42 for more than fifty years, was a 32nd Degree Mason and a member of Mt. Sinai Shrine in Montpelier. Frank and Alice raised three sons: Raymond (born 1913) and the twins Harold and Howard (born January 1, 1919). Frank died at Springfield Hospital on October 8, 1967 and was buried in Oakland Cemetery. [^s02] [^s13] [^s18] [^s43] [^s53] In October 1940 all three of his sons named him or his wife as the person who would always know their address, at 13 Whitcomb Street, Springfield. [^s60] [^s61] [^s62]",
    "summary": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A.",
    "relatedPages": [
     {
@@ -377,6 +471,15 @@
    "cardPlace": "Springfield",
    "confidence": "confirmed",
    "occupations": [
+    {
+     "title": "Druggist",
+     "place": "Woodsville, New Hampshire",
+     "years": "1917",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s53"
+     ]
+    },
     {
      "title": "Pharmacist, registered in Vermont, licensed in New Hampshire by reciprocity",
      "place": "Charlestown, New Hampshire",
@@ -425,6 +528,45 @@
      "caption": "Full page, with the entry marked: Springfield VT marriages, page 81: July 10, Frank Albert Magwire and Alice Evadna Bates",
      "alt": "Full record page with the entry marked. Springfield VT marriages, page 81: July 10, Frank Albert Magwire and Alice Evadna Bates",
      "sourceId": "s02"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1917-wwi-draft-frank-albert-magwire-woodsville-nh-ancestry-zoom.jpg",
+     "thumb": "images/records/1917-wwi-draft-frank-albert-magwire-woodsville-nh-ancestry-zoom.jpg",
+     "caption": "1917 draft card: Frank Albert Magwire, Woodsville, New Hampshire, born February 14, 1889, Springfield, Vt., druggist, supporting wife and child",
+     "alt": "1917 draft card: Frank Albert Magwire, Woodsville, New Hampshire, born February 14, 1889, Springfield, Vt., druggist, supporting wife and child",
+     "sourceId": "s53"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1917-wwi-draft-frank-albert-magwire-woodsville-nh-ancestry-highlighted.jpg",
+     "thumb": "images/records/1917-wwi-draft-frank-albert-magwire-woodsville-nh-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1917 draft card: Frank Albert Magwire, Woodsville, New Hampshire, born February 14, 1889, Springfield, Vt., druggist, supporting wife and child",
+     "alt": "Full record with the entry marked. 1917 draft card: Frank Albert Magwire, Woodsville, New Hampshire, born February 14, 1889, Springfield, Vt., druggist, supporting wife and child",
+     "sourceId": "s53"
+    }
+   ],
+   "residences": [
+    {
+     "place": "Woodsville, New Hampshire",
+     "placeId": "woodsville-nh",
+     "years": "1917",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s53"
+     ]
+    },
+    {
+     "place": "Springfield, Vermont",
+     "placeId": "springfield-vt",
+     "address": "13 Whitcomb Street",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s60",
+      "s61",
+      "s62"
+     ]
     }
    ]
   },
@@ -491,7 +633,7 @@
      "s13"
     ]
    },
-   "story": "Alice Evadna Bates was born on September 7, 1889 in Williamstown, Massachusetts. She married Frank Albert Magwire in Springfield, Vermont, on July 10, 1912, and spent the rest of her life in Springfield, where she raised sons Raymond, Harold and Howard. She died on March 29, 1972 and is buried with Frank in Oakland Cemetery. Her own parents have not yet been identified; her Williamstown birth record has been requested. [^s02] [^s14] [^s13]",
+   "story": "Alice Evadna Bates was born on September 7, 1889 in Williamstown, Massachusetts. She married Frank Albert Magwire in Springfield, Vermont, on July 10, 1912, and spent the rest of her life in Springfield, where she raised sons Raymond, Harold and Howard. She died on March 29, 1972 and is buried with Frank in Oakland Cemetery. Her own parents have not yet been identified; her Williamstown birth record has been requested. [^s02] [^s14] [^s13] Her son Howard's 1940 draft card names Mrs. Alice Bates Magwire, mother, at 13 Whitcomb Street, Springfield. [^s61]",
    "summary": "Alice Evadna Bates was born on September 7, 1889 in Williamstown, Massachusetts.",
    "relatedPages": [
     {
@@ -519,6 +661,18 @@
      "alt": "Full record page with the entry marked. Springfield VT marriages, page 81: July 10, Frank Albert Magwire and Alice Evadna Bates",
      "sourceId": "s02"
     }
+   ],
+   "residences": [
+    {
+     "place": "Springfield, Vermont",
+     "placeId": "springfield-vt",
+     "address": "13 Whitcomb Street",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s61"
+     ]
+    }
    ]
   },
   {
@@ -529,7 +683,10 @@
    "sex": "M",
    "generation": 1,
    "isLiving": false,
-   "parents": [],
+   "parents": [
+    "george-magwire",
+    "mary-prentiss-magwire"
+   ],
    "children": [
     "frank-albert-magwire"
    ],
@@ -539,15 +696,17 @@
      "order": 1,
      "marriageDate": "1887-11-08",
      "marriageDisplay": "November 8, 1887",
-     "place": "Cavendish, VT",
-     "confidence": "probable",
+     "place": "Springfield, VT",
+     "confidence": "confirmed",
      "sourceIds": [
+      "s59",
       "s15",
       "s16",
       "s18",
       "s13"
      ],
-     "placeId": "cavendish-vt"
+     "placeId": "springfield-vt",
+     "note": "The marriage card was recorded at Springfield. A Find a Grave note says Cavendish. It was Albert's second marriage."
     }
    ],
    "birth": {
@@ -564,8 +723,9 @@
     "placeId": "brooklyn-ny"
    },
    "death": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
+     "s58",
      "s15",
      "s16",
      "s18",
@@ -586,7 +746,7 @@
      "s13"
     ]
    },
-   "story": "Albert A. Magwire was born on October 10, 1845 in Brooklyn, New York. A Find a Grave note names his parents as George and Mary (Prentice) Magwire, which is still unconfirmed. On November 8, 1887 he married Alice Jenny Spaulding in Cavendish, Vermont, and the couple made their home in Springfield, where their children Ethel, Frank Albert, Edna, Charles E. and Harrold were born. Albert was in the music trade: in 1904 he ran the Springfield Music Rooms as an Edison phonograph dealer, gave twice weekly outdoor evening phonograph concerts that August, and on October 25, 1904 gave a ticketed phonograph concert in Ludlow Town Hall with two young pianists. Albert died in Springfield on February 21, 1929 and is buried in Oakland Cemetery. [^s15] [^s16] [^s18] [^s13] [^s44]",
+   "story": "Albert A. Magwire was born on October 10, 1845 in Brooklyn, New York. His 1887 marriage card names his parents as George and Mary (Prentis), and his 1929 death card gives his mother's maiden name as Mary Prentiss and his father as unknown, so George is probable and Mary is firm. On November 8, 1887, a musician aged 40 on his second marriage, he married Alice J. Spaulding; the card was recorded at Springfield, Vermont, which settles an earlier note that said Cavendish. They made their home in Springfield, where their children Ethel, Frank Albert, Edna, Charles E. and Harrold were born. Albert was in the music trade: in 1904 he ran the Springfield Music Rooms as an Edison phonograph dealer, gave twice weekly outdoor evening phonograph concerts that August, and on October 25, 1904 gave a ticketed phonograph concert in Ludlow Town Hall with two young pianists. Albert died in Springfield on February 21, 1929, aged 83 years, 4 months and 11 days, a music teacher, and is buried in Oakland Cemetery. [^s15] [^s16] [^s18] [^s13] [^s44] [^s58] [^s59]",
    "summary": "Albert A.",
    "relatedPages": [
     {
@@ -599,6 +759,15 @@
    "isDirectLine": true,
    "occupations": [
     {
+     "title": "Musician",
+     "place": "Springfield, Vermont",
+     "years": "1887",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s59"
+     ]
+    },
+    {
      "title": "Music dealer (Springfield Music Rooms), Edison phonograph dealer",
      "place": "Springfield, Vermont",
      "years": "1904",
@@ -606,6 +775,50 @@
      "sourceIds": [
       "s44"
      ]
+    },
+    {
+     "title": "Music teacher",
+     "place": "Springfield, Vermont",
+     "years": "1929",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s58"
+     ]
+    }
+   ],
+   "parentLinkConfidence": "probable",
+   "media": [
+    {
+     "type": "document",
+     "file": "images/records/1887-marriage-albert-a-maguire-alice-j-spaulding-springfield-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1887-marriage-albert-a-maguire-alice-j-spaulding-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Vermont marriage card, Springfield, November 8, 1887: Maguire, Albert A., age 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Spaulding, Alice J.",
+     "alt": "Vermont marriage card, Springfield, November 8, 1887: Maguire, Albert A., age 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Spaulding, Alice J.",
+     "sourceId": "s59"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1887-marriage-albert-a-maguire-alice-j-spaulding-springfield-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1887-marriage-albert-a-maguire-alice-j-spaulding-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont marriage card, Springfield, November 8, 1887: Maguire, Albert A., age 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Spaulding, Alice J.",
+     "alt": "Full record with the entry marked. Vermont marriage card, Springfield, November 8, 1887: Maguire, Albert A., age 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Spaulding, Alice J.",
+     "sourceId": "s59"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1929-death-albert-a-magwire-springfield-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1929-death-albert-a-magwire-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Vermont death card, Springfield, February 21, 1929: Magwire, Albert A., music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss",
+     "alt": "Vermont death card, Springfield, February 21, 1929: Magwire, Albert A., music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss",
+     "sourceId": "s58"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1929-death-albert-a-magwire-springfield-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1929-death-albert-a-magwire-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont death card, Springfield, February 21, 1929: Magwire, Albert A., music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss",
+     "alt": "Full record with the entry marked. Vermont death card, Springfield, February 21, 1929: Magwire, Albert A., music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss",
+     "sourceId": "s58"
     }
    ]
   },
@@ -630,14 +843,14 @@
      "order": 1,
      "marriageDate": "1887-11-08",
      "marriageDisplay": "November 8, 1887",
-     "place": "Cavendish, VT",
-     "confidence": "probable",
+     "place": "Springfield, VT",
+     "confidence": "confirmed",
      "sourceIds": [
-      "s06",
-      "s07",
+      "s59",
       "s16"
      ],
-     "placeId": "cavendish-vt"
+     "placeId": "springfield-vt",
+     "note": "The marriage card was recorded at Springfield. A Find a Grave note says Cavendish."
     }
    ],
    "birth": {
@@ -900,10 +1113,12 @@
    "spouses": [],
    "order": 1,
    "birth": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
      "s12",
-     "s13"
+     "s13",
+     "s62",
+     "s64"
     ],
     "date": "1913-03-18",
     "display": "March 18, 1913",
@@ -911,10 +1126,11 @@
     "placeId": "springfield-vt"
    },
    "death": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
      "s12",
-     "s13"
+     "s13",
+     "s64"
     ],
     "date": "1997-04-26",
     "display": "April 26, 1997",
@@ -923,15 +1139,16 @@
    },
    "burial": {
     "place": "Hillside Cemetery, Castleton, VT",
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
      "s12",
-     "s13"
+     "s13",
+     "s64"
     ],
-    "placeId": "castleton-vt"
+    "placeId": "hillside-cemetery-vt"
    },
-   "parentLinkConfidence": "probable",
-   "story": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913. In 1936 he was a junior at Springfield College in Massachusetts. He made a career in physical education, and by 1952 he was Vermont's state director of health and physical education in the State Department of Education at Montpelier, where he was still living in 1967. He died in Rutland on April 26, 1997 and is buried in Hillside Cemetery, Castleton. [^s12] [^s13] [^s45] [^s46]",
+   "parentLinkConfidence": "confirmed",
+   "story": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913. In 1936 he was a junior at Springfield College in Massachusetts. On October 16, 1940, aged 27, he registered for the draft from 1 Capitol Hill, Fair Haven, Vermont, as a student at Springfield College, naming his father Frank Albert Magwire, of 13 Whitcomb Street, Springfield, as the person who would always know his address. He served as a private first class in the U.S. Army in the Second World War. He made a career in physical education, and by 1952 he was Vermont's state director of health and physical education in the State Department of Education at Montpelier, where he was still living in 1967. He died on April 26, 1997, in Rutland according to Find a Grave, and is buried in Hillside Cemetery, which a Veterans gravesite record lists as at Fair Haven and which is physically in Castleton. His Social Security claims index entry names his parents as Frank A. Magwire and Alice Bates. [^s12] [^s13] [^s45] [^s46] [^s62] [^s64] [^s65]",
    "summary": "Raymond Bates Magwire, the eldest son of Frank and Alice Magwire, was born in Springfield, Vermont, on March 18, 1913.",
    "relatedPages": [
     {
@@ -943,12 +1160,28 @@
    "confidence": "probable",
    "occupations": [
     {
+     "title": "Student, Springfield College",
+     "place": "287 Hickory Street, Springfield, Massachusetts",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s62"
+     ]
+    },
+    {
      "title": "State director of health and physical education, Vermont State Department of Education",
      "place": "Montpelier, Vermont",
      "years": "1952 to 1959",
      "confidence": "probable",
      "sourceIds": [
       "s46"
+     ]
+    },
+    {
+     "title": "Private first class, U.S. Army, World War II",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s64"
      ]
     }
    ],
@@ -960,6 +1193,60 @@
      "sourceIds": [
       "s45"
      ]
+    },
+    {
+     "label": "1940 description",
+     "value": "On his draft card of October 16, 1940, aged 27, he was 5 feet 8 inches, 155 pounds, with hazel eyes and brown hair. He registered at Fair Haven, Vermont, with Local Board 2, Rutland County.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s62"
+     ]
+    }
+   ],
+   "residences": [
+    {
+     "place": "Fair Haven, Vermont",
+     "placeId": "fair-haven-vt",
+     "address": "1 Capitol Hill",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s62"
+     ]
+    }
+   ],
+   "media": [
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-front-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-front-ancestry-zoom.jpg",
+     "caption": "1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield, Vt.; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire, 13 Whitcomb St; Springfield College, student",
+     "alt": "1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield, Vt.; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire, 13 Whitcomb St; Springfield College, student",
+     "sourceId": "s62"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-front-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-front-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield, Vt.; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire, 13 Whitcomb St; Springfield College, student",
+     "alt": "Full record with the entry marked. 1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield, Vt.; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire, 13 Whitcomb St; Springfield College, student",
+     "sourceId": "s62"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-back-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-back-ancestry-zoom.jpg",
+     "caption": "Back of the 1940 draft card: Raymond Bates Magwire, 5 feet 8 inches, 155 pounds, hazel eyes, brown hair, October 16, 1940, Local Board 2, Rutland County, Fair Haven",
+     "alt": "Back of the 1940 draft card: Raymond Bates Magwire, 5 feet 8 inches, 155 pounds, hazel eyes, brown hair, October 16, 1940, Local Board 2, Rutland County, Fair Haven",
+     "sourceId": "s62"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-back-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-back-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Back of the 1940 draft card: Raymond Bates Magwire, 5 feet 8 inches, 155 pounds, hazel eyes, brown hair, October 16, 1940, Local Board 2, Rutland County, Fair Haven",
+     "alt": "Full record with the entry marked. Back of the 1940 draft card: Raymond Bates Magwire, 5 feet 8 inches, 155 pounds, hazel eyes, brown hair, October 16, 1940, Local Board 2, Rutland County, Fair Haven",
+     "sourceId": "s62"
     }
    ]
   },
@@ -982,7 +1269,8 @@
     "confidence": "confirmed",
     "sourceIds": [
      "s01",
-     "s11"
+     "s11",
+     "s60"
     ],
     "date": "1919-01-01",
     "display": "January 1, 1919",
@@ -1010,7 +1298,7 @@
     "placeId": "randolph-center-vt"
    },
    "parentLinkConfidence": "confirmed",
-   "story": "Harold Charles Magwire was born on January 1, 1919 in Springfield, Vermont, the twin brother of Howard. He served in the U.S. Navy and married Nellie Magwire. Her details are not published. He died in Ormond Beach, Florida, on October 16, 2002. He is buried in the Vermont Veterans Memorial Cemetery at Randolph Center. [^s01] [^s11]",
+   "story": "Harold Charles Magwire was born on January 1, 1919 in Springfield, Vermont, the twin brother of Howard. On October 16, 1940, aged 21, he registered for the draft in Springfield, naming his father Frank Albert Magwire, of 13 Whitcomb Street, as the person who would always know his address, and working at the Fellows Gear Shaper Company on River Street. He served in the U.S. Navy and married Nellie Magwire. Her details are not published. He died in Ormond Beach, Florida, on October 16, 2002. He is buried in the Vermont Veterans Memorial Cemetery at Randolph Center. [^s01] [^s11] [^s60]",
    "summary": "Harold Charles Magwire was born on January 1, 1919 in Springfield, Vermont, the twin brother of Howard.",
    "relatedPages": [
     {
@@ -1021,6 +1309,15 @@
    "cardPlace": "Springfield",
    "confidence": "confirmed",
    "occupations": [
+    {
+     "title": "Worker, Fellows Gear Shaper Company",
+     "place": "River Street, Springfield, Vermont",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s60"
+     ]
+    },
     {
      "title": "U.S. Navy",
      "confidence": "probable",
@@ -1045,6 +1342,60 @@
      "caption": "Full page, with the entry marked: Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire",
      "alt": "Full record page with the entry marked. Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire",
      "sourceId": "s01"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "caption": "1940 draft card, Springfield, Vermont: Harold Charles Magwire, born January 1, 1919, Springfield; 17 Union St; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co.",
+     "alt": "1940 draft card, Springfield, Vermont: Harold Charles Magwire, born January 1, 1919, Springfield; 17 Union St; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co.",
+     "sourceId": "s60"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-front-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-front-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1940 draft card, Springfield, Vermont: Harold Charles Magwire, born January 1, 1919, Springfield; 17 Union St; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co.",
+     "alt": "Full record with the entry marked. 1940 draft card, Springfield, Vermont: Harold Charles Magwire, born January 1, 1919, Springfield; 17 Union St; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co.",
+     "sourceId": "s60"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Back of the 1940 draft card: Harold Charles Magwire, 5 feet 6 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "alt": "Back of the 1940 draft card: Harold Charles Magwire, 5 feet 6 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "sourceId": "s60"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-back-ancestry-highlighted.jpg",
+     "thumb": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Back of the 1940 draft card: Harold Charles Magwire, 5 feet 6 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "alt": "Full record with the entry marked. Back of the 1940 draft card: Harold Charles Magwire, 5 feet 6 inches, 130 pounds, blue eyes, brown hair, October 16, 1940, Local Board 2, Windsor County",
+     "sourceId": "s60"
+    }
+   ],
+   "residences": [
+    {
+     "place": "Springfield, Vermont",
+     "placeId": "springfield-vt",
+     "address": "17 Union Street (6 Goodyear Avenue is written over it)",
+     "years": "1940",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s60"
+     ]
+    }
+   ],
+   "facts": [
+    {
+     "label": "1940 description",
+     "value": "On his draft card of October 16, 1940, aged 21, he was 5 feet 6 inches, 130 pounds, with blue eyes and brown hair.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s60"
+     ]
     }
    ]
   },
@@ -1056,7 +1407,10 @@
    "sex": "M",
    "generation": 2,
    "isLiving": false,
-   "parents": [],
+   "parents": [
+    "george-oscar-farr",
+    "alice-beard-farr"
+   ],
    "children": [
     "gwendolyn-farr-magwire",
     "richard-h-farr",
@@ -1073,9 +1427,11 @@
      "sourceIds": [
       "s05",
       "s03",
-      "s27"
+      "s27",
+      "s48"
      ],
-     "placeId": "springfield-vt"
+     "placeId": "springfield-vt",
+     "note": "This marriage ended in divorce. Harry's 1926 marriage card says second marriage, divorced."
     },
     {
      "id": "mary-abbie-west-farr",
@@ -1083,35 +1439,40 @@
      "confidence": "confirmed",
      "sourceIds": [
       "s41",
+      "s48",
+      "s49",
       "s27"
      ],
      "marriageDate": "1926-08-11",
      "marriageDisplay": "August 11, 1926",
-     "place": "Chester, VT"
+     "place": "Chester, VT",
+     "placeId": "chester-vt"
     }
    ],
    "birth": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
-     "s42",
-     "s05",
-     "s27"
+     "s52",
+     "s55",
+     "s57",
+     "s48",
+     "s42"
     ],
     "date": "1888-04-03",
     "display": "April 3, 1888",
-    "place": "Colorado",
-    "placeId": "colorado"
+    "place": "Denver, Colorado",
+    "placeId": "denver-co"
    },
-   "story": "Harry James Farr was born in Colorado on April 3, 1888 (the date in the Social Security death index) and settled in Springfield, Vermont. On December 4, 1912 he married Laura Mary Seward there. On August 11, 1926 he married his second wife, Mary Abbie West of Chester Depot, in Chester, Vermont; together they raised Gwendolyn (born 1927), Richard (born 1930) and Alma; in the 1950 census Harry, then 62, was living in Springfield with his wife Mary A. Their daughter Alma is named in that household. Her age is on the record and is not repeated here. Family tradition: the family remembered summer days at a West farm in Wells, Maine. That place is only a lead, so it is not on the map. He died in May 1966, still living in Springfield. His own parents and his Colorado birthplace are still being researched. [^s05] [^s03] [^s27] [^s41] [^s42]",
-   "summary": "Harry James Farr was born in Colorado on April 3, 1888, settled in Springfield, Vermont, married Mary Abbie West at Chester in 1926, and died in May 1966.",
+   "story": "Harry James Farr was born in Denver, Colorado, on April 3, 1888, the son of George Oscar Farr (born in Westfield, Massachusetts) and Alice Beard (born in Andover, Vermont), according to his 1926 marriage card and his 1966 death certificate. He served a year as a corporal in the Vermont National Guard and was discharged in July 1913. On December 4, 1912 he married Laura Mary Seward in Springfield, Vermont; that marriage ended in divorce. By June 1917 he was a letter carrier for the U.S. Post Office in Bridgeport, Connecticut, living at 276 Gregory Street. He was back in Springfield by 1926, and on August 11, 1926, at Chester, Vermont, he married Mary Abbie West of Chester Depot. Their daughter Gwendolyn was born in 1927, Richard in 1930, and Alma later. In 1942 he lived at 6 Bridge Street, Springfield, and worked for the U.S. Post Office Department on Main Street, Springfield; in 1950 he was 62 and living in Springfield. The card that follows his 1942 card in the Vermont set, probably the back of it, describes a man 5 feet 7 inches tall and 142 pounds, with blue eyes and brown hair. He died at DeGoesbriand Memorial Hospital, Burlington, Vermont, on May 22, 1966, aged 78, retired and residing at 6 Bridge Street, Springfield, and his death certificate names his wife as Mary Abbie. Family tradition: the family remembered summer days at a West farm in Wells, Maine. That place is only a lead, so it is not on the map. [^s05] [^s03] [^s27] [^s41] [^s42] [^s48] [^s49] [^s52] [^s55] [^s57] [^s66]",
+   "summary": "Harry James Farr was born in Denver, Colorado, on April 3, 1888, was a letter carrier and postal worker, married Mary Abbie West at Chester in 1926, and died in Burlington, Vermont, on May 22, 1966.",
    "relatedPages": [
     {
      "url": "farr.html",
      "title": "The Farr line"
     }
    ],
-   "cardPlace": "Colorado",
-   "confidence": "probable",
+   "cardPlace": "Denver",
+   "confidence": "confirmed",
    "isDirectLine": true,
    "media": [
     {
@@ -1129,30 +1490,192 @@
      "caption": "Full page, with the entry marked: 1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)",
      "alt": "Full record page with the entry marked. 1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)",
      "sourceId": "s05"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-farr-west-springfield-vt-groom-card-ancestry-zoom.jpg",
+     "thumb": "images/records/1926-marriage-farr-west-springfield-vt-groom-card-ancestry-zoom.jpg",
+     "caption": "Vermont marriage card, Springfield, August 11, 1926: Farr, Harry James, age 38, second marriage, divorced, letter carrier, born Denver, Colorado; father George Oscar Farr; mother Alice Beard",
+     "alt": "Vermont marriage card, Springfield, August 11, 1926: Farr, Harry James, age 38, second marriage, divorced, letter carrier, born Denver, Colorado; father George Oscar Farr; mother Alice Beard",
+     "sourceId": "s48"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-farr-west-springfield-vt-groom-card-ancestry-highlighted.jpg",
+     "thumb": "images/records/1926-marriage-farr-west-springfield-vt-groom-card-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont marriage card, Springfield, August 11, 1926: Farr, Harry James, age 38, second marriage, divorced, letter carrier, born Denver, Colorado; father George Oscar Farr; mother Alice Beard",
+     "alt": "Full record with the entry marked. Vermont marriage card, Springfield, August 11, 1926: Farr, Harry James, age 38, second marriage, divorced, letter carrier, born Denver, Colorado; father George Oscar Farr; mother Alice Beard",
+     "sourceId": "s48"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1917-wwi-draft-harry-james-farr-bridgeport-ct-ancestry-zoom.jpg",
+     "thumb": "images/records/1917-wwi-draft-harry-james-farr-bridgeport-ct-ancestry-zoom.jpg",
+     "caption": "1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier, U.S. Post Office; corporal, Vermont National Guard",
+     "alt": "1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier, U.S. Post Office; corporal, Vermont National Guard",
+     "sourceId": "s52"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1917-wwi-draft-harry-james-farr-bridgeport-ct-ancestry-highlighted.jpg",
+     "thumb": "images/records/1917-wwi-draft-harry-james-farr-bridgeport-ct-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier, U.S. Post Office; corporal, Vermont National Guard",
+     "alt": "Full record with the entry marked. 1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier, U.S. Post Office; corporal, Vermont National Guard",
+     "sourceId": "s52"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver, United States Post Office, Springfield",
+     "alt": "1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver, United States Post Office, Springfield",
+     "sourceId": "s55"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver, United States Post Office, Springfield",
+     "alt": "Full record with the entry marked. 1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver, United States Post Office, Springfield",
+     "sourceId": "s55"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1966-death-harry-james-farr-burlington-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1966-death-harry-james-farr-burlington-vt-ancestry-zoom.jpg",
+     "caption": "Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie",
+     "alt": "Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie",
+     "sourceId": "s57"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1966-death-harry-james-farr-burlington-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1966-death-harry-james-farr-burlington-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie",
+     "alt": "Full record with the entry marked. Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie",
+     "sourceId": "s57"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-back-ancestry-zoom.jpg",
+     "thumb": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Back of a 1942 draft card (image 3109, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, April 27, 1942, Local Board 2, Windsor County, Woodstock, Vermont",
+     "alt": "Back of a 1942 draft card (image 3109, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, April 27, 1942, Local Board 2, Windsor County, Woodstock, Vermont",
+     "sourceId": "s66"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-back-ancestry-highlighted.jpg",
+     "thumb": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-back-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Back of a 1942 draft card (image 3109, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, April 27, 1942, Local Board 2, Windsor County, Woodstock, Vermont",
+     "alt": "Full record with the entry marked. Back of a 1942 draft card (image 3109, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, April 27, 1942, Local Board 2, Windsor County, Woodstock, Vermont",
+     "sourceId": "s66"
     }
    ],
    "residences": [
     {
-     "place": "Living with wife Mary A. (1950 census)",
-     "placeId": "springfield-vt",
-     "years": "1950",
+     "place": "Bridgeport, Connecticut",
+     "placeId": "bridgeport-ct",
+     "address": "276 Gregory Street",
+     "years": "1917",
      "confidence": "confirmed",
      "sourceIds": [
-      "s05",
-      "s03",
-      "s27"
+      "s52"
+     ]
+    },
+    {
+     "place": "Springfield, Vermont",
+     "placeId": "springfield-vt",
+     "address": "6 Bridge Street",
+     "years": "1942 to 1966",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s55",
+      "s57"
      ]
     }
    ],
    "death": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
+     "s57",
      "s42"
     ],
-    "date": "1966-05",
-    "display": "May 1966",
-    "place": "Springfield, Vermont (last residence in the death index)"
-   }
+    "date": "1966-05-22",
+    "display": "May 22, 1966",
+    "place": "DeGoesbriand Memorial Hospital, Burlington, Chittenden Co., Vermont",
+    "placeId": "burlington-vt"
+   },
+   "parentLinkConfidence": "probable",
+   "occupations": [
+    {
+     "title": "Letter carrier, U.S. Post Office",
+     "place": "Bridgeport, Connecticut",
+     "years": "1917",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s52"
+     ]
+    },
+    {
+     "title": "Letter carrier and city mail carrier",
+     "place": "Springfield, Vermont",
+     "years": "1926 to 1930",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s48",
+      "s50",
+      "s51"
+     ]
+    },
+    {
+     "title": "Worker, United States Post Office Department",
+     "place": "Springfield, Vermont",
+     "years": "1942",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s55"
+     ],
+     "note": "Place of employment given as Main Street, Springfield."
+    },
+    {
+     "title": "Retired",
+     "place": "Springfield, Vermont",
+     "years": "1966",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s57"
+     ]
+    }
+   ],
+   "facts": [
+    {
+     "label": "Vermont National Guard",
+     "value": "In 1917 he told the draft board he had served one year as a corporal in the Vermont National Guard infantry, and the registrar wrote that he was discharged on July 8, 1913 for chronic liver trouble. He was described as medium height, slender, with blue eyes and brown hair.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s52"
+     ]
+    },
+    {
+     "label": "1942 description",
+     "value": "The back of a 1942 draft card, probably his, gives 5 feet 7 inches, 142 pounds, blue eyes, brown hair and a ruddy complexion, registered April 27, 1942 for Local Board 2, Windsor County, at Woodstock, Vermont. It is matched to him by image order, so it is probable.",
+     "confidence": "probable",
+     "sourceIds": [
+      "s66"
+     ]
+    }
+   ],
+   "openQuestions": [
+    {
+     "question": "When and how did the marriage of Harry and Laura Mary Seward end in divorce (between 1912 and 1926)?",
+     "record": "Divorce papers, probably Windsor County, Vermont"
+    },
+    {
+     "question": "Is the back of the 1942 card (image 3109) really his? The front is image 3108.",
+     "record": "Check the registrar and serial number against the front card"
+    }
+   ]
   },
   {
    "id": "mary-abbie-west-farr",
@@ -1162,7 +1685,10 @@
    "sex": "F",
    "generation": 2,
    "isLiving": false,
-   "parents": [],
+   "parents": [
+    "william-wallace-west",
+    "alice-dina-waite-west"
+   ],
    "children": [
     "gwendolyn-farr-magwire",
     "richard-h-farr",
@@ -1175,34 +1701,40 @@
      "confidence": "confirmed",
      "sourceIds": [
       "s41",
+      "s48",
+      "s49",
       "s27"
      ],
      "marriageDate": "1926-08-11",
      "marriageDisplay": "August 11, 1926",
-     "place": "Chester, VT"
+     "place": "Chester, VT",
+     "placeId": "chester-vt"
     }
    ],
    "birth": {
     "confidence": "probable",
     "sourceIds": [
+     "s49",
+     "s50",
+     "s51",
      "s27",
-     "s05",
-     "s36"
+     "s05"
     ],
     "date": "1902",
     "display": "about 1902",
     "dateQualifier": "about",
-    "place": "Vermont"
+    "place": "Peru, Bennington Co., Vermont",
+    "placeId": "peru-vt"
    },
-   "story": "Mary Abbie West, called Abby in the family, was born in Vermont about 1902. She was living at Chester Depot, Vermont, and is probably the Abbie West paid for teaching in the Chester schools that year, when she married Harry James Farr of Springfield at Chester on August 11, 1926. She was the mother of Gwendolyn, Richard and Alma; her son Richard's obituary gives her full name as Mary Abbie West Farr. In 1950 she worked as a clerk at the post office in Springfield. Family tradition: West relatives remembered a farm in Wells, Maine. That visit is not on the map. Her parents are not yet identified. [^s27] [^s05] [^s36] [^s41] [^s40]",
-   "summary": "Mary Abbie West, called Abby in the family, was born in Vermont about 1902.",
+   "story": "Mary Abbie West, called Abby in the family, was born in Peru, Vermont, in 1901 or 1902, the daughter of William Wallace West and Alice Dina Waite (born in Dorset, Vermont), according to her 1926 marriage card. She was living at Chester Depot, and is probably the Abbie West paid for teaching in the Chester schools that year, when on August 11, 1926 she married Harry James Farr at Chester; it was her first marriage and his second. She was the mother of Gwendolyn (born July 1, 1927), Richard (born July 1, 1930) and Alma; both children's birth cards give her place of birth as Peru, Vermont. In 1942 Harry named her as the person who would always know his address, and in 1950 she worked as a clerk at the post office in Springfield. Her husband's 1966 death certificate names her as his wife. Family tradition: West relatives remembered a farm in Wells, Maine. That place is not on the map. [^s27] [^s05] [^s36] [^s41] [^s40] [^s49] [^s50] [^s55] [^s57]",
+   "summary": "Mary Abbie West was born in Peru, Vermont, about 1902, married Harry James Farr at Chester in 1926, and was the mother of Gwendolyn, Richard and Alma.",
    "relatedPages": [
     {
      "url": "farr.html",
      "title": "The Farr line"
     }
    ],
-   "cardPlace": "Vermont",
+   "cardPlace": "Peru",
    "confidence": "probable",
    "nameVariants": [
     {
@@ -1252,6 +1784,51 @@
      "caption": "Full page, with the entry marked: 1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)",
      "alt": "Full record page with the entry marked. 1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)",
      "sourceId": "s05"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-west-farr-chester-vt-bride-card-ancestry-zoom.jpg",
+     "thumb": "images/records/1926-marriage-west-farr-chester-vt-bride-card-ancestry-zoom.jpg",
+     "caption": "Vermont marriage card, Chester, August 11, 1926: West, Mary Abbie, Chester Depot, age 24, first marriage, born Peru, Vermont; father William Wallace West; mother Alice Dina Waite, born Dorset",
+     "alt": "Vermont marriage card, Chester, August 11, 1926: West, Mary Abbie, Chester Depot, age 24, first marriage, born Peru, Vermont; father William Wallace West; mother Alice Dina Waite, born Dorset",
+     "sourceId": "s49"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-west-farr-chester-vt-bride-card-ancestry-highlighted.jpg",
+     "thumb": "images/records/1926-marriage-west-farr-chester-vt-bride-card-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont marriage card, Chester, August 11, 1926: West, Mary Abbie, Chester Depot, age 24, first marriage, born Peru, Vermont; father William Wallace West; mother Alice Dina Waite, born Dorset",
+     "alt": "Full record with the entry marked. Vermont marriage card, Chester, August 11, 1926: West, Mary Abbie, Chester Depot, age 24, first marriage, born Peru, Vermont; father William Wallace West; mother Alice Dina Waite, born Dorset",
+     "sourceId": "s49"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-west-farr-springfield-vt-bride-card-ancestry-zoom.jpg",
+     "thumb": "images/records/1926-marriage-west-farr-springfield-vt-bride-card-ancestry-zoom.jpg",
+     "caption": "Vermont marriage card, Springfield copy, August 11, 1926: West, Mary Abbie, born Peru, Vt.",
+     "alt": "Vermont marriage card, Springfield copy, August 11, 1926: West, Mary Abbie, born Peru, Vt.",
+     "sourceId": "s49"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1926-marriage-west-farr-springfield-vt-bride-card-ancestry-highlighted.jpg",
+     "thumb": "images/records/1926-marriage-west-farr-springfield-vt-bride-card-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont marriage card, Springfield copy, August 11, 1926: West, Mary Abbie, born Peru, Vt.",
+     "alt": "Full record with the entry marked. Vermont marriage card, Springfield copy, August 11, 1926: West, Mary Abbie, born Peru, Vt.",
+     "sourceId": "s49"
+    }
+   ],
+   "parentLinkConfidence": "probable",
+   "residences": [
+    {
+     "place": "Chester Depot, Vermont",
+     "address": "Chester Depot",
+     "years": "1926",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s41",
+      "s49"
+     ]
     }
    ]
   },
@@ -1274,9 +1851,11 @@
      "place": "Springfield, VT",
      "confidence": "confirmed",
      "sourceIds": [
-      "s03"
+      "s03",
+      "s48"
      ],
-     "placeId": "springfield-vt"
+     "placeId": "springfield-vt",
+     "note": "This marriage ended in divorce (Harry's 1926 marriage card)."
     }
    ],
    "story": "Laura Mary Seward married Harry James Farr in Springfield, Vermont, on December 4, 1912, the town's printed register shows. She was Harry's first wife; the children Gwendolyn, Richard and Alma were born to his later marriage with Mary Abbie West. What became of Laura is not yet known. [^s03]",
@@ -1503,7 +2082,7 @@
   {
    "id": "ernest-a-crosby",
    "displayName": "Ernest A. Crosby",
-   "givenNames": "Ernest A.",
+   "givenNames": "Ernest Allan",
    "surname": "Crosby",
    "sex": "M",
    "generation": 2,
@@ -1537,16 +2116,17 @@
     }
    ],
    "birth": {
-    "confidence": "confirmed",
+    "confidence": "probable",
     "sourceIds": [
      "s28",
      "s04",
      "s22",
-     "s23"
+     "s23",
+     "s54",
+     "s56"
     ],
-    "date": "1884",
-    "display": "about 1884",
-    "dateQualifier": "about",
+    "date": "1884-06-01",
+    "display": "June 1, 1884",
     "place": "Norwood, Yarmouth Co., Nova Scotia",
     "placeId": "norwood-ns"
    },
@@ -1573,8 +2153,8 @@
     "placeId": "springfield-ma"
    },
    "parentLinkConfidence": "probable",
-   "story": "Ernest A. Crosby was born about 1884 at Norwood, Yarmouth County, Nova Scotia, the son of James W. and Asenath (Porter) Crosby. Like many young people from Yarmouth County he moved to Massachusetts, and on July 6, 1906, aged 22, he married Eva E. Pierce of Brazil Lake at Wakefield. Their first child, Ruby Evelyn, was born in Wakefield that November. The family later settled in Chicopee, where they raised at least nine children: Esther, Ruby, Winston, Ivoline, Thelma, Gordon, Muriel, Roy and Bernard. Eva died in 1944. In the 1950 census Ernest, then 65 and widowed, was still in Chicopee with his daughter Thelma, and with his daughter Muriel and her husband Douglas Rhodes. He died in 1958 and is buried beside Eva in Hillcrest Park Cemetery, Springfield. [^s28] [^s04] [^s22] [^s23]",
-   "summary": "Ernest A.",
+   "story": "Ernest Allan Crosby was born at Norwood, Yarmouth County, Nova Scotia, probably on June 1, 1884 (his 1918 draft card; his 1942 card writes the date as 1/6/1884), the son of James W. and Asenath (Porter) Crosby. Like many young people from Yarmouth County he moved to Massachusetts, and on July 6, 1906, aged 22, he married Eva E. Pierce of Brazil Lake at Wakefield. Their first child, Ruby Evelyn, was born in Wakefield that November. On September 12, 1918 he registered for the draft at Chicopee, living on Luther Street, with Eva Etta Crosby as his nearest relative. The family settled in Chicopee, where they raised at least nine children: Esther, Ruby, Winston, Ivoline, Thelma, Gordon, Muriel, Roy and Bernard. In 1942, aged 57, he lived at 35 Haven Avenue, Chicopee, worked for the A. G. Spalding Company, and named Mrs. Eva Crosby as the person who would always know his address. Eva died in 1944. In the 1950 census Ernest, then 65 and widowed, was still in Chicopee with his daughter Thelma, and with his daughter Muriel and her husband Douglas Rhodes. He died in 1958 and is buried beside Eva in Hillcrest Park Cemetery, Springfield. [^s28] [^s04] [^s22] [^s23] [^s54] [^s56]",
+   "summary": "Ernest Allan Crosby was born at Norwood, Nova Scotia, probably on June 1, 1884, lived in Chicopee, Massachusetts, and died in 1958.",
    "relatedPages": [
     {
      "url": "crosby.html",
@@ -1615,9 +2195,61 @@
      "caption": "Full page, with the entry marked: Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee",
      "alt": "Full record page with the entry marked. Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee",
      "sourceId": "s28"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1918-wwi-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "thumb": "images/records/1918-wwi-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "caption": "1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby",
+     "alt": "1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby",
+     "sourceId": "s54"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1918-wwi-draft-ernest-allan-crosby-chicopee-ma-ancestry-highlighted.jpg",
+     "thumb": "images/records/1918-wwi-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby",
+     "alt": "Full record with the entry marked. 1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby",
+     "sourceId": "s54"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "thumb": "images/records/1942-wwii-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "caption": "1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; contact Mrs. Eva Crosby; employer A. G. Spalding Co.",
+     "alt": "1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; contact Mrs. Eva Crosby; employer A. G. Spalding Co.",
+     "sourceId": "s56"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1942-wwii-draft-ernest-allan-crosby-chicopee-ma-ancestry-highlighted.jpg",
+     "thumb": "images/records/1942-wwii-draft-ernest-allan-crosby-chicopee-ma-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: 1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; contact Mrs. Eva Crosby; employer A. G. Spalding Co.",
+     "alt": "Full record with the entry marked. 1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; contact Mrs. Eva Crosby; employer A. G. Spalding Co.",
+     "sourceId": "s56"
     }
    ],
    "residences": [
+    {
+     "place": "Chicopee, Massachusetts",
+     "placeId": "chicopee-ma",
+     "address": "Luther Street",
+     "years": "1918",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s54"
+     ]
+    },
+    {
+     "place": "Chicopee, Massachusetts",
+     "placeId": "chicopee-ma",
+     "address": "35 Haven Avenue",
+     "years": "1942",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s56"
+     ]
+    },
     {
      "place": "Household in 1950 census",
      "placeId": "chicopee-ma",
@@ -1630,12 +2262,34 @@
       "s23"
      ]
     }
+   ],
+   "nameVariants": [
+    {
+     "name": "Ernest Allan Crosby",
+     "note": "The full name on his 1918 and 1942 draft cards.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s54",
+      "s56"
+     ]
+    }
+   ],
+   "occupations": [
+    {
+     "title": "Worker at the A. G. Spalding Company",
+     "place": "Chicopee, Massachusetts",
+     "years": "1942",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s56"
+     ]
+    }
    ]
   },
   {
    "id": "eva-e-pierce-crosby",
    "displayName": "Eva E. (Pierce) Crosby",
-   "givenNames": "Eva E.",
+   "givenNames": "Eva Etta",
    "surname": "Crosby",
    "sex": "F",
    "generation": 2,
@@ -1701,7 +2355,7 @@
     "placeId": "springfield-ma"
    },
    "parentLinkConfidence": "probable",
-   "story": "Eva E. Pierce was born about 1885 at Brazil Lake, Yarmouth County, Nova Scotia, the daughter of Charles and Alice Pierce. She married Ernest A. Crosby, a neighbor from nearby Norwood, at Wakefield, Massachusetts, on July 6, 1906, and their daughter Ruby was born there that November. She raised a large family in Chicopee and died in 1944. She is buried in Hillcrest Park Cemetery, Springfield, Massachusetts. [^s28] [^s22] [^s23]",
+   "story": "Eva E. Pierce was born about 1885 at Brazil Lake, Yarmouth County, Nova Scotia, the daughter of Charles and Alice Pierce. She married Ernest A. Crosby, a neighbor from nearby Norwood, at Wakefield, Massachusetts, on July 6, 1906, and their daughter Ruby was born there that November. She raised a large family in Chicopee and died in 1944. She is buried in Hillcrest Park Cemetery, Springfield, Massachusetts. [^s28] [^s22] [^s23] Her husband's 1918 draft card names his nearest relative as Eva Etta Crosby, which gives her middle name. [^s54]",
    "summary": "Eva E.",
    "relatedPages": [
     {
@@ -1727,6 +2381,16 @@
      "caption": "Full page, with the entry marked: Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee",
      "alt": "Full record page with the entry marked. Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee",
      "sourceId": "s28"
+    }
+   ],
+   "nameVariants": [
+    {
+     "name": "Eva Etta Crosby",
+     "note": "Named as his nearest relative on Ernest's 1918 draft card.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s54"
+     ]
     }
    ]
   },
@@ -2016,7 +2680,7 @@
   {
    "id": "richard-h-farr",
    "displayName": "Richard H. Farr",
-   "givenNames": "Richard H.",
+   "givenNames": "Richard Harry",
    "surname": "Farr",
    "sex": "M",
    "generation": 3,
@@ -2029,13 +2693,14 @@
    "spouses": [],
    "order": 2,
    "birth": {
-    "confidence": "probable",
+    "confidence": "confirmed",
     "sourceIds": [
+     "s51",
      "s27"
     ],
     "date": "1930-07-01",
     "display": "July 1, 1930",
-    "place": "Springfield, Windsor Co., Vermont",
+    "place": "Springfield Hospital, Springfield, Windsor Co., Vermont",
     "placeId": "springfield-vt"
    },
    "death": {
@@ -2055,8 +2720,8 @@
      "s27"
     ]
    },
-   "parentLinkConfidence": "probable",
-   "story": "Richard H. Farr was born in Springfield, Vermont, on July 1, 1930, the son of Harry James Farr and Mary Abbie West Farr. He served in the U.S. Navy from 1948 to 1952, married Doris Ann Elliott. Her details are not published. He lived on Cape Ann in Massachusetts. He died at Rockport on May 11, 2009, survived by his sisters Alma and Gwendolyn, and was buried privately in Springfield, Vermont. [^s27]",
+   "parentLinkConfidence": "confirmed",
+   "story": "Richard H. Farr was born in Springfield, Vermont, on July 1, 1930, the son of Harry James Farr and Mary Abbie West Farr. He served in the U.S. Navy from 1948 to 1952, married Doris Ann Elliott. Her details are not published. He lived on Cape Ann in Massachusetts. He died at Rockport on May 11, 2009, survived by his sisters Alma and Gwendolyn, and was buried privately in Springfield, Vermont. [^s27] His Vermont birth record, found in November 2026, confirms that he was born on July 1, 1930 at Springfield Hospital, the second child of Harry J. Farr and Mary Abbie West. [^s51]",
    "summary": "Richard H.",
    "relatedPages": [
     {
@@ -2074,6 +2739,24 @@
      "sourceIds": [
       "s27"
      ]
+    }
+   ],
+   "media": [
+    {
+     "type": "document",
+     "file": "images/records/1930-birth-richard-harry-farr-springfield-vt-ancestry-zoom.jpg",
+     "thumb": "images/records/1930-birth-richard-harry-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Vermont birth card, Springfield Hospital, July 1, 1930: Farr, Richard Harry, second child; father Harry J. Farr, city mail carrier, born Denver; mother Mary Abbie West, born Peru, Vermont",
+     "alt": "Vermont birth card, Springfield Hospital, July 1, 1930: Farr, Richard Harry, second child; father Harry J. Farr, city mail carrier, born Denver; mother Mary Abbie West, born Peru, Vermont",
+     "sourceId": "s51"
+    },
+    {
+     "type": "document",
+     "file": "images/records/1930-birth-richard-harry-farr-springfield-vt-ancestry-highlighted.jpg",
+     "thumb": "images/records/1930-birth-richard-harry-farr-springfield-vt-ancestry-zoom.jpg",
+     "caption": "Full record, with the entry marked: Vermont birth card, Springfield Hospital, July 1, 1930: Farr, Richard Harry, second child; father Harry J. Farr, city mail carrier, born Denver; mother Mary Abbie West, born Peru, Vermont",
+     "alt": "Full record with the entry marked. Vermont birth card, Springfield Hospital, July 1, 1930: Farr, Richard Harry, second child; father Harry J. Farr, city mail carrier, born Denver; mother Mary Abbie West, born Peru, Vermont",
+     "sourceId": "s51"
     }
    ]
   },
@@ -2726,6 +3409,245 @@
      "sourceId": "s35"
     }
    ]
+  },
+  {
+   "sex": "M",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "harry-james-farr"
+   ],
+   "spouses": [
+    {
+     "id": "alice-beard-farr",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s48",
+      "s57"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "farr.html",
+     "title": "The Farr line"
+    }
+   ],
+   "id": "george-oscar-farr",
+   "displayName": "George Oscar Farr",
+   "givenNames": "George Oscar",
+   "surname": "Farr",
+   "birth": {
+    "confidence": "probable",
+    "sourceIds": [
+     "s48"
+    ],
+    "place": "Westfield, Massachusetts"
+   },
+   "cardPlace": "Westfield",
+   "confidence": "probable",
+   "summary": "George Oscar Farr, born in Westfield, Massachusetts, was the father of Harry James Farr.",
+   "story": "George Oscar Farr, born in Westfield, Massachusetts, is named as the father of Harry James Farr on Harry's 1926 marriage card, and as George Farr on his 1966 death certificate. Nothing else is known yet. [^s48] [^s57]"
+  },
+  {
+   "sex": "F",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "harry-james-farr"
+   ],
+   "spouses": [
+    {
+     "id": "george-oscar-farr",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s48",
+      "s57"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "farr.html",
+     "title": "The Farr line"
+    }
+   ],
+   "id": "alice-beard-farr",
+   "displayName": "Alice (Beard) Farr",
+   "givenNames": "Alice",
+   "surname": "Farr",
+   "birth": {
+    "confidence": "probable",
+    "sourceIds": [
+     "s48",
+     "s57"
+    ],
+    "place": "Andover, Vermont"
+   },
+   "cardPlace": "Andover",
+   "confidence": "probable",
+   "summary": "Alice Beard, born in Andover, Vermont, was the mother of Harry James Farr.",
+   "story": "Alice Beard, born in Andover, Vermont, is named as the mother of Harry James Farr on his 1926 marriage card and on his 1966 death certificate. Nothing else is known yet. [^s48] [^s57]"
+  },
+  {
+   "sex": "M",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "mary-abbie-west-farr"
+   ],
+   "spouses": [
+    {
+     "id": "alice-dina-waite-west",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s49"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "farr.html",
+     "title": "The Farr line"
+    }
+   ],
+   "id": "william-wallace-west",
+   "displayName": "William Wallace West",
+   "givenNames": "William Wallace",
+   "surname": "West",
+   "birth": {
+    "confidence": "probable",
+    "sourceIds": [
+     "s49"
+    ],
+    "place": "Vermont (the town is hard to read on the card)"
+   },
+   "cardPlace": "Vermont",
+   "confidence": "probable",
+   "summary": "William Wallace West was the father of Mary Abbie (West) Farr.",
+   "story": "William Wallace West is named as the father of Mary Abbie West on her 1926 marriage card, which gives his birthplace as a Vermont town whose spelling is hard to read. Nothing else is known yet. [^s49]"
+  },
+  {
+   "sex": "F",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "mary-abbie-west-farr"
+   ],
+   "spouses": [
+    {
+     "id": "william-wallace-west",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s49"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "farr.html",
+     "title": "The Farr line"
+    }
+   ],
+   "id": "alice-dina-waite-west",
+   "displayName": "Alice Dina (Waite) West",
+   "givenNames": "Alice Dina",
+   "surname": "West",
+   "birth": {
+    "confidence": "probable",
+    "sourceIds": [
+     "s49"
+    ],
+    "place": "Dorset, Vermont"
+   },
+   "cardPlace": "Dorset",
+   "confidence": "probable",
+   "summary": "Alice Dina Waite, born in Dorset, Vermont, was the mother of Mary Abbie (West) Farr.",
+   "story": "Alice Dina Waite, born in Dorset, Vermont, is named as the mother of Mary Abbie West on her 1926 marriage card. Nothing else is known yet. [^s49]"
+  },
+  {
+   "sex": "M",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "albert-a-magwire"
+   ],
+   "spouses": [
+    {
+     "id": "mary-prentiss-magwire",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s59",
+      "s16"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "magwire.html",
+     "title": "The Magwire line"
+    }
+   ],
+   "id": "george-magwire",
+   "displayName": "George Magwire",
+   "givenNames": "George",
+   "surname": "Magwire",
+   "confidence": "probable",
+   "summary": "George Magwire was the father of Albert A. Magwire.",
+   "story": "George Magwire is named as the father of Albert A. Magwire on Albert's 1887 marriage card, and in a Find a Grave note. Albert's 1929 death card says the father was unknown, so this link is probable. Nothing else is known yet. [^s59] [^s16]"
+  },
+  {
+   "sex": "F",
+   "generation": 0,
+   "isLiving": false,
+   "parents": [],
+   "children": [
+    "albert-a-magwire"
+   ],
+   "spouses": [
+    {
+     "id": "george-magwire",
+     "order": 1,
+     "confidence": "probable",
+     "sourceIds": [
+      "s59",
+      "s16"
+     ]
+    }
+   ],
+   "relatedPages": [
+    {
+     "url": "magwire.html",
+     "title": "The Magwire line"
+    }
+   ],
+   "id": "mary-prentiss-magwire",
+   "displayName": "Mary (Prentiss) Magwire",
+   "givenNames": "Mary",
+   "surname": "Magwire",
+   "confidence": "confirmed",
+   "nameVariants": [
+    {
+     "name": "Mary Prentis",
+     "note": "The spelling on the 1887 marriage card.",
+     "confidence": "confirmed",
+     "sourceIds": [
+      "s59"
+     ]
+    }
+   ],
+   "summary": "Mary Prentiss was the mother of Albert A. Magwire.",
+   "story": "Mary Prentiss is named as the mother of Albert A. Magwire on two Vermont records: his 1887 marriage card, which writes Mary (Prentis), and his 1929 death card, which gives her maiden name as Mary Prentiss. Nothing else is known yet. [^s59] [^s58]"
   }
  ]
 }
