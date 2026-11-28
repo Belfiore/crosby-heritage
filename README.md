@@ -1,6 +1,6 @@
 # Crosby family heritage
 
-The Crosby, Magwire, Farr, Richardson, Pierce, Spaulding and Putnam families, built with [Belfiore/family-site-engine](https://github.com/Belfiore/family-site-engine) the same way as Vigliotti Heritage: `engine.channel` is `stable`, the Discovery Timeline is on, and the Pages workflow calls `build-site.yml@v1.2.0`.
+The Crosby, Magwire, Farr, Richardson, Pierce, Spaulding and Putnam families, built with [Belfiore/family-site-engine](https://github.com/Belfiore/family-site-engine) the same way as Vigliotti Heritage: `engine.channel` is `stable`, the Discovery Timeline is on, confidence badges stay off, "Who are you?" is on for living relatives, English and German are both offered, and the Pages workflow calls `build-site.yml@v1.5.0`.
 
 This is the site repository. Nothing is published until a pull request is merged, and only if Sebastian says so.
 
