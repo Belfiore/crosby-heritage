@@ -200,7 +200,7 @@
           "s10",
           "s13"
         ],
-        "placeId": "springfield-vt"
+        "placeId": "oakland-cemetery-springfield-vt"
       },
       "parentLinkConfidence": "confirmed",
       "story": "Howard Frank Magwire was born on New Year's Day 1919 in Springfield, Vermont, one of twin boys born that morning to Frank A. Magwire and Alice (Bates) Magwire; his twin was Harold Charles. The town's own printed register of births for 1919 lists the two boys one above the other. Howard grew up in a family well known in Springfield: his father ran Magwire's Pharmacy in Springfield for thirty seven years. On October 16, 1940, aged 21, he registered for the draft, living at 13 Whitcomb Street, Springfield, with his mother Mrs. Alice Bates Magwire as the person who would always know his address, and working at the Fellows Gear Shaper Company on River Street. A Veterans Affairs listing shows Army service from August 15, 1943 to January 7, 1946. By 1967 Howard was living in West Springfield, Massachusetts. On January 7, 1961 he married Gwendolyn Farr in Springfield, Vermont, and their daughter Tracy married Rick Crosby. Gwendolyn died before him. Howard died on September 26, 2014 (the Veterans Affairs listing gives the day) and was laid to rest in Oakland Cemetery in Springfield, beside his parents' lot. [^s01] [^s10] [^s13] [^s61] [^s63]",
@@ -299,7 +299,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s61"
-          ]
+          ],
+          "placeId": "springfield-vt"
         },
         {
           "title": "U.S. Army",
@@ -492,7 +493,8 @@
           "s02",
           "s13",
           "s18"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       },
       "parentLinkConfidence": "probable",
       "story": "Frank Albert Magwire was born on February 14, 1889 in Springfield, Vermont, the son of Albert A. Magwire and Alice Jenny (Spaulding) Magwire. He graduated from Springfield High School in 1909 and on July 10, 1912 he married Alice Evadna Bates in Springfield; the marriage appears in the town's printed register for that year. In June 1917 he registered for the draft at Woodsville, New Hampshire, aged 28, as a druggist supporting a wife and one child, and described as short and slender with light gray eyes and brown hair. He trained as a pharmacist and registered in Vermont, and in 1914, while working in Charlestown, New Hampshire, just across the Connecticut River, he was granted a New Hampshire license by reciprocity. For thirty seven years Frank owned and ran Magwire's Pharmacy in Springfield, retiring in 1954. In 1940 he kept three state licensed pinball machines in the store, and when the village demanded its own large license fee he paid under protest and sued; in January 1941 the Vermont Supreme Court reversed the dismissal of his suit and sent it back for trial. He belonged to St. John's Lodge No. 41 F&AM and Independent Order of Odd Fellows Lodge No. 42 for more than fifty years, was a 32nd Degree Mason and a member of Mt. Sinai Shrine in Montpelier. Frank and Alice raised three sons: Raymond (born 1913) and the twins Harold and Howard (born January 1, 1919). Frank died at Springfield Hospital on October 8, 1967 and was buried in Oakland Cemetery. [^s02] [^s13] [^s18] [^s43] [^s53] In October 1940 all three of his sons named him or his wife as the person who would always know their address, at 13 Whitcomb Street, Springfield. [^s60] [^s61] [^s62]",
@@ -516,7 +518,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s53"
-          ]
+          ],
+          "placeId": "woodsville-nh"
         },
         {
           "title": "Pharmacist, registered in Vermont, licensed in New Hampshire by reciprocity",
@@ -526,7 +529,8 @@
           "confidence": "probable",
           "sourceIds": [
             "s43"
-          ]
+          ],
+          "placeId": "charlestown-nh"
         },
         {
           "title": "Owner of Magwire's Pharmacy",
@@ -683,7 +687,8 @@
           "s14",
           "s13",
           "s67"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       },
       "story": "Alice Evadna Bates was born on September 7, 1889 in Williamstown, Massachusetts. She married Frank Albert Magwire in Springfield, Vermont, on July 10, 1912, and spent the rest of her life in Springfield, where she raised sons Raymond, Harold and Howard. She died on March 29, 1972 and is buried with Frank in Oakland Cemetery. Her own parents have not yet been identified; her Williamstown birth record has been requested. [^s02] [^s14] [^s13] Her son Howard's 1940 draft card names Mrs. Alice Bates Magwire, mother, at 13 Whitcomb Street, Springfield. [^s61]",
       "story_de": "Alice Evadna Bates wurde am 7. September 1889 in Williamstown, Massachusetts, geboren. Sie heiratete Frank Albert Magwire am 10. Juli 1912 in Springfield, Vermont, und verbrachte den Rest ihres Lebens in Springfield, wo sie die Söhne Raymond, Harold und Howard aufzog. Sie starb am 29. März 1972 und ist mit Frank im Oakland Cemetery begraben. Ihre eigenen Eltern sind noch nicht ermittelt; ihr Geburtsbeleg aus Williamstown wurde angefordert. [^s02] [^s14] [^s13] Die Musterungskarte ihres Sohnes Howard von 1940 nennt Mrs. Alice Bates Magwire, Mutter, in der 13 Whitcomb Street, Springfield. [^s61]",
@@ -802,7 +807,8 @@
           "s16",
           "s18",
           "s13"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       },
       "story": "Albert A. Magwire was born on October 10, 1845 in Brooklyn, New York. His 1887 marriage card names his parents as George and Mary (Prentis), and his 1929 death card gives his mother's maiden name as Mary Prentiss and his father as unknown, so George is probable and Mary is firm. On November 8, 1887, a musician aged 40 on his second marriage, he married Alice J. Spaulding; the card was recorded at Springfield, Vermont, which settles an earlier note that said Cavendish. They made their home in Springfield, where their children Ethel, Frank Albert, Edna, Charles E. and Harrold were born. Albert was in the music trade: in 1904 he ran the Springfield Music Rooms as an Edison phonograph dealer, gave twice weekly outdoor evening phonograph concerts that August, and on October 25, 1904 gave a ticketed phonograph concert in Ludlow Town Hall with two young pianists. Albert died in Springfield on February 21, 1929, aged 83 years, 4 months and 11 days, a music teacher, and is buried in Oakland Cemetery. [^s15] [^s16] [^s18] [^s13] [^s44] [^s58] [^s59]",
       "story_de": "Albert A. Magwire wurde am 10. Oktober 1845 in Brooklyn, New York, geboren. Seine Heiratskarte von 1887 nennt seine Eltern als George und Mary (Prentis), und seine Sterbekarte von 1929 gibt den Mädchennamen seiner Mutter als Mary Prentiss an und seinen Vater als unbekannt, sodass George wahrscheinlich ist und Mary feststeht. Am 8. November 1887 heiratete er, als Musiker von 40 Jahren in zweiter Ehe, Alice J. Spaulding; die Karte wurde in Springfield, Vermont, eingetragen, was eine frühere Notiz klärt, die Cavendish nannte. Sie machten Springfield zu ihrem Wohnsitz, wo ihre Kinder Ethel, Frank Albert, Edna, Charles E. und Harrold geboren wurden. Albert war im Musikhandel tätig: 1904 betrieb er die Springfield Music Rooms als Händler für Edison-Phonographen, gab in jenem August zweimal wöchentlich abendliche Phonographenkonzerte im Freien und am 25. Oktober 1904 ein Phonographenkonzert mit Eintrittskarten in der Ludlow Town Hall mit zwei jungen Pianisten. Albert starb am 21. Februar 1929 in Springfield im Alter von 83 Jahren, 4 Monaten und 11 Tagen, von Beruf Musiklehrer, und ist auf dem Oakland Cemetery begraben. [^s15] [^s16] [^s18] [^s13] [^s44] [^s58] [^s59]",
@@ -826,7 +832,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s59"
-          ]
+          ],
+          "placeId": "springfield-vt"
         },
         {
           "title": "Music dealer (Springfield Music Rooms), Edison phonograph dealer",
@@ -836,7 +843,8 @@
           "confidence": "probable",
           "sourceIds": [
             "s44"
-          ]
+          ],
+          "placeId": "springfield-vt"
         },
         {
           "title": "Music teacher",
@@ -846,7 +854,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s58"
-          ]
+          ],
+          "placeId": "springfield-vt"
         }
       ],
       "parentLinkConfidence": "probable",
@@ -955,7 +964,8 @@
           "s06",
           "s07",
           "s16"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       },
       "parentLinkConfidence": "probable",
       "story": "Alice Jenny Spaulding was born on August 17, 1866 in Cavendish, Vermont, the fourth daughter of Charles Elliot and Amantha (Putnam) Spaulding. Two separate family histories, the Spalding Memorial of 1872 and the Dickey Genealogy of 1898, list her birth date. She married Albert A. Magwire in Cavendish in November 1887 and raised her family in Springfield. She died on November 13, 1951 in West Lebanon, New Hampshire, and was buried with Albert in Oakland Cemetery, Springfield. [^s06] [^s07] [^s16]",
@@ -1064,7 +1074,8 @@
           "s06",
           "s07",
           "s17"
-        ]
+        ],
+        "placeId": "cavendish-village-cemetery-vt"
       },
       "story": "Charles Elliot Spaulding was born on July 24, 1833 and married Amantha Putnam in Springfield, Vermont, on March 25, 1856. He farmed in Cavendish, where the couple raised Addie Cora, Ida Jenny (who died young), Anna Emma, Alice Jenny, Frank Charles, Lilla May and Gertie Inez. The Spalding Memorial of 1872 traces him eight generations back to Edward Spalding, the immigrant ancestor of the American Spaldings; that pedigree is still a lead. Charles died on March 26, 1890 and is buried in Cavendish Village Cemetery. [^s06] [^s07] [^s17]",
       "story_de": "Charles Elliot Spaulding wurde am 24. Juli 1833 geboren und heiratete Amantha Putnam am 25. März 1856 in Springfield, Vermont. Er bewirtschaftete einen Hof in Cavendish, wo das Paar Addie Cora, Ida Jenny (die jung starb), Anna Emma, Alice Jenny, Frank Charles, Lilla May und Gertie Inez aufzog. Das Spalding Memorial von 1872 führt ihn acht Generationen zurück auf Edward Spalding, den eingewanderten Ahnherrn der amerikanischen Spaldings; diese Ahnenreihe ist weiterhin eine Spur. Charles starb am 26. März 1890 und ist im Cavendish Village Cemetery begraben. [^s06] [^s07] [^s17]",
@@ -1172,7 +1183,8 @@
           "s07",
           "s06",
           "s17"
-        ]
+        ],
+        "placeId": "cavendish-village-cemetery-vt"
       },
       "story": "Amantha Putnam was born on September 9, 1837, a daughter of Timothy Putnam and Betsey Hall according to the Dickey Genealogy. She married Charles Elliot Spaulding in Springfield, Vermont, in 1856 and lived in Cavendish for most of her life. She outlived her husband by thirty six years, dying in Proctorsville on May 30, 1926, and rests beside him in Cavendish Village Cemetery. Timothy Putnam and Betsey Hall are named only in that compiled genealogy, so they are not drawn on the tree. [^s07] [^s06] [^s17]",
       "story_de": "Amantha Putnam wurde am 9. September 1837 geboren, laut der Dickey Genealogy eine Tochter von Timothy Putnam und Betsey Hall. Sie heiratete Charles Elliot Spaulding 1856 in Springfield, Vermont, und lebte den größten Teil ihres Lebens in Cavendish. Sie überlebte ihren Ehemann um sechsunddreißig Jahre, starb am 30. Mai 1926 in Proctorsville und ruht neben ihm auf dem Cavendish Village Cemetery. Timothy Putnam und Betsey Hall werden nur in dieser zusammengetragenen Genealogie genannt, daher sind sie nicht im Stammbaum eingezeichnet. [^s07] [^s06] [^s17]",
@@ -1282,7 +1294,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s62"
-          ]
+          ],
+          "placeId": "springfield-ma"
         },
         {
           "title": "State director of health and physical education, Vermont State Department of Education",
@@ -1292,7 +1305,8 @@
           "confidence": "probable",
           "sourceIds": [
             "s46"
-          ]
+          ],
+          "placeId": "montpelier-vt"
         },
         {
           "title": "Private first class, U.S. Army, World War II",
@@ -1451,7 +1465,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s60"
-          ]
+          ],
+          "placeId": "springfield-vt"
         },
         {
           "title": "U.S. Navy",
@@ -1792,7 +1807,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s52"
-          ]
+          ],
+          "placeId": "bridgeport-ct"
         },
         {
           "title": "Letter carrier and city mail carrier",
@@ -1804,7 +1820,8 @@
             "s48",
             "s50",
             "s51"
-          ]
+          ],
+          "placeId": "springfield-vt"
         },
         {
           "title": "Worker, United States Post Office Department",
@@ -1815,7 +1832,8 @@
           "sourceIds": [
             "s55"
           ],
-          "note": "Place of employment given as Main Street, Springfield."
+          "note": "Place of employment given as Main Street, Springfield.",
+          "placeId": "springfield-vt"
         },
         {
           "title": "Retired",
@@ -1825,7 +1843,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s57"
-          ]
+          ],
+          "placeId": "springfield-vt"
         }
       ],
       "facts": [
@@ -1866,7 +1885,8 @@
         "sourceIds": [
           "s68",
           "s75"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       }
     },
     {
@@ -1951,7 +1971,8 @@
           "sourceIds": [
             "s40"
           ],
-          "note": "An Abbie West was paid for teaching in Chester's report for the year ending January 1927."
+          "note": "An Abbie West was paid for teaching in Chester's report for the year ending January 1927.",
+          "placeId": "chester-vt"
         },
         {
           "title": "Post office clerk",
@@ -1961,7 +1982,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s05"
-          ]
+          ],
+          "placeId": "springfield-vt"
         }
       ],
       "isDirectLine": true,
@@ -2037,7 +2059,8 @@
           "sourceIds": [
             "s41",
             "s49"
-          ]
+          ],
+          "placeId": "chester-vt"
         }
       ],
       "death": {
@@ -2054,7 +2077,8 @@
         "confidence": "confirmed",
         "sourceIds": [
           "s68"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       }
     },
     {
@@ -2553,7 +2577,8 @@
           "confidence": "confirmed",
           "sourceIds": [
             "s56"
-          ]
+          ],
+          "placeId": "chicopee-ma"
         }
       ]
     },
@@ -3050,7 +3075,8 @@
         "confidence": "probable",
         "sourceIds": [
           "s27"
-        ]
+        ],
+        "placeId": "springfield-vt"
       },
       "parentLinkConfidence": "confirmed",
       "story": "Richard H. Farr was born in Springfield, Vermont, on July 1, 1930, the son of Harry James Farr and Mary Abbie West Farr. He served in the U.S. Navy from 1948 to 1952, married Doris Ann Elliott. Her details are not published. He lived on Cape Ann in Massachusetts. He died at Rockport on May 11, 2009, survived by his sisters Alma and Gwendolyn, and was buried privately in Springfield, Vermont. [^s27] His Vermont birth record, found in November 2026, confirms that he was born on July 1, 1930 at Springfield Hospital, the second child of Harry J. Farr and Mary Abbie West. [^s51]",
@@ -3498,7 +3524,8 @@
         "sourceIds": [
           "s32"
         ],
-        "place": "Pleasant Lake, Yarmouth Co., Nova Scotia"
+        "place": "Pleasant Lake, Yarmouth Co., Nova Scotia",
+        "placeId": "pleasant-lake-ns"
       },
       "story": "Joseph Crosby, born at Pleasant Lake, Yarmouth County, Nova Scotia, was the father of James William Crosby, as his son's 1937 death record states. He married Eunice Saunders. His dates are not yet found. [^s32]",
       "story_de": "Joseph Crosby, geboren in Pleasant Lake, Yarmouth County, Nova Scotia, war der Vater von James William Crosby, wie der Sterbeeintrag seines Sohnes von 1937 angibt. Er heiratete Eunice Saunders. Seine Lebensdaten sind noch nicht gefunden. [^s32]",
@@ -3540,7 +3567,8 @@
         "sourceIds": [
           "s32"
         ],
-        "place": "Lake George, Yarmouth Co., Nova Scotia"
+        "place": "Lake George, Yarmouth Co., Nova Scotia",
+        "placeId": "lake-george-ns"
       },
       "story": "Eunice Saunders was born at Lake George, Yarmouth County, Nova Scotia, and married Joseph Crosby. She was the mother of James William Crosby, as his 1937 death record states. [^s32]",
       "story_de": "Eunice Saunders wurde in Lake George, Yarmouth County, Nova Scotia, geboren und heiratete Joseph Crosby. Sie war die Mutter von James William Crosby, wie sein Sterbeeintrag von 1937 angibt. [^s32]",
@@ -3582,7 +3610,8 @@
         "sourceIds": [
           "s31"
         ],
-        "place": "Ohio, Yarmouth Co., Nova Scotia"
+        "place": "Ohio, Yarmouth Co., Nova Scotia",
+        "placeId": "ohio-ns"
       },
       "story": "Hezekiah Porter, born at Ohio, Yarmouth County, Nova Scotia, was the father of Asenath (Porter) Crosby, as her 1938 death record states. [^s31]",
       "story_de": "Hezekiah Porter, geboren in Ohio, Yarmouth County, Nova Scotia, war der Vater von Asenath (Porter) Crosby, wie ihr Sterbeeintrag von 1938 angibt. [^s31]",
@@ -3624,7 +3653,8 @@
         "sourceIds": [
           "s31"
         ],
-        "place": "South Ohio, Yarmouth Co., Nova Scotia"
+        "place": "South Ohio, Yarmouth Co., Nova Scotia",
+        "placeId": "south-ohio-ns"
       },
       "story": "Celia Porter, born at South Ohio, Yarmouth County, Nova Scotia, was the mother of Asenath (Porter) Crosby, as her 1938 death record states. [^s31]",
       "story_de": "Celia Porter, geboren in South Ohio, Yarmouth County, Nova Scotia (Neuschottland), war die Mutter von Asenath (Porter) Crosby, wie ihr Sterbebeleg von 1938 angibt. [^s31]",
@@ -3833,7 +3863,8 @@
         "sourceIds": [
           "s48"
         ],
-        "place": "Westfield, Massachusetts"
+        "place": "Westfield, Massachusetts",
+        "placeId": "westfield-ma"
       },
       "cardPlace": "Westfield",
       "confidence": "probable",
@@ -3854,7 +3885,8 @@
         "confidence": "probable",
         "sourceIds": [
           "s69"
-        ]
+        ],
+        "placeId": "oakland-cemetery-springfield-vt"
       }
     },
     {
@@ -3892,7 +3924,8 @@
           "s48",
           "s57"
         ],
-        "place": "Andover, Vermont"
+        "place": "Andover, Vermont",
+        "placeId": "andover-vt"
       },
       "cardPlace": "Andover",
       "confidence": "probable",
@@ -3976,7 +4009,8 @@
         "sourceIds": [
           "s49"
         ],
-        "place": "Dorset, Vermont"
+        "place": "Dorset, Vermont",
+        "placeId": "dorset-vt"
       },
       "cardPlace": "Dorset",
       "confidence": "probable",
