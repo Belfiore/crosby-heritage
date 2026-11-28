@@ -1,438 +1,543 @@
 {
- "sources": [
-  {
-   "id": "s01",
-   "title": "Springfield, Vermont, Annual Town Report (births of 1919), archive.org item annualreportofto00spri_0, leaf 120",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportofto00spri_0/page/n119",
-   "note": "Original printed town register extract (published by the Town Clerk). Primary for event, secondary for print transcription."
-  },
-  {
-   "id": "s02",
-   "title": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, printed page 81, leaf 87",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportofto00spri_3/page/n86",
-   "note": "Town Clerk printed marriage list."
-  },
-  {
-   "id": "s03",
-   "title": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, leaf 88",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportofto00spri_3/page/n87",
-   "note": "Town Clerk printed marriage list."
-  },
-  {
-   "id": "s04",
-   "title": "1950 U.S. Census, Chicopee, Hampden Co., Massachusetts, ED 7-40, sheet 73, lines 14 to 17 (NARA)",
-   "type": "census",
-   "url": "https://1950census.archives.gov/search/?name=Ernest%20Crosby&state=MA&county=Hampden",
-   "note": "Original census image, informant unknown."
-  },
-  {
-   "id": "s05",
-   "title": "1950 U.S. Census, Springfield, Windsor Co., Vermont, ED 14-41, sheet 12, lines 24 to 26 (NARA)",
-   "type": "census",
-   "url": "https://1950census.archives.gov/search/?name=Farr&state=VT&county=Windsor",
-   "note": "Original census image, informant unknown."
-  },
-  {
-   "id": "s06",
-   "title": "Charles J. Spalding, The Spalding Memorial (Chicago, 1872), p. 448, entry 8733",
-   "type": "compiled genealogy",
-   "url": "https://archive.org/details/spaldingmemorial1872spal/page/n491",
-   "note": "Compiled genealogy (published 1872). Lead quality for early generations; near-contemporary for this family."
-  },
-  {
-   "id": "s07",
-   "title": "Genealogy of the Dickey Family (Worcester, 1898), p. 285, entries 2130 to 2137",
-   "type": "compiled genealogy",
-   "url": "https://archive.org/details/genealogyofdicke00dick/page/n316",
-   "note": "Compiled genealogy (published 1898)."
-  },
-  {
-   "id": "s10",
-   "title": "Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/300481449",
-   "note": "Derivative (volunteer transcription)."
-  },
-  {
-   "id": "s11",
-   "title": "Find a Grave memorial 43545548, Harold Charles Magwire (1919 to 2002)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/43545548",
-   "note": "Derivative; headstone photo held by contributor."
-  },
-  {
-   "id": "s12",
-   "title": "Find a Grave memorial 77870180, Raymond Bates Magwire (1913 to 1997)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/77870180",
-   "note": "Derivative."
-  },
-  {
-   "id": "s13",
-   "title": "Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967",
-   "type": "newspaper",
-   "url": "https://www.findagrave.com/memorial/208110370",
-   "note": "Derivative transcription of an obituary."
-  },
-  {
-   "id": "s14",
-   "title": "Find a Grave memorial 235597706, Alice B. Bates Magwire (1889 to 1972)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/235597706",
-   "note": "Derivative."
-  },
-  {
-   "id": "s15",
-   "title": "Find a Grave memorial 300820447, Albert A. Magwire (1845 to 1929)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/300820447",
-   "note": "Derivative."
-  },
-  {
-   "id": "s16",
-   "title": "Find a Grave memorial 263996734, Alice Jenny Spaulding Magwire (1866 to 1951), with marriage note (8 Nov 1887, Cavendish)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/263996734",
-   "note": "Derivative."
-  },
-  {
-   "id": "s17",
-   "title": "Find a Grave memorials 85115712 and 85115767, Charles Elliot Spaulding (1833 to 1890) and Amantha Putnam Spaulding (1837 to 1926)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/85115712",
-   "note": "Derivative; headstone photos held by contributors."
-  },
-  {
-   "id": "s18",
-   "title": "Find a Grave memorial 175501341, Charles E. Magwire Sr. (1895 to 1991), and 174016232, Edna Alice Magwire Pope (1893 to 1988; bio cites Vermont Death Records 1909 to 2008)",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/175501341",
-   "note": "Derivative."
-  },
-  {
-   "id": "s20",
-   "title": "Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014",
-   "type": "newspaper",
-   "url": "https://www.findagrave.com/memorial/129338715",
-   "note": "Derivative transcription of an obituary."
-  },
-  {
-   "id": "s21",
-   "title": "Obituary of Dorothy R. (Richardson) Crosby, Toomey-O'Brien Funeral Home, Feb 2022",
-   "type": "newspaper",
-   "url": "https://www.toomeyobrien.com/obituaries/dorothy-richardson-crosby",
-   "note": "Obituary, family informant."
-  },
-  {
-   "id": "s22",
-   "title": "Find a Grave memorials 226673791 and 226673806, Ernest A. Crosby (1884 to 1958) and Eva E. Crosby (1885 to 1944), Hillcrest Park Cemetery, Springfield MA",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/226673791",
-   "note": "Derivative."
-  },
-  {
-   "id": "s23",
-   "title": "Muriel J. (Crosby) Strauss person page and obituary text, Cousins Connection tree",
-   "type": "newspaper",
-   "url": "https://www.cousinsconnection.com/getperson.php?personID=I13437&tree=tree1",
-   "note": "Online tree quoting an obituary; derivative."
-  },
-  {
-   "id": "s24",
-   "title": "Obituary of Bernard \"Mel\" Crosby (1926 to 2024), Curran-Jones Funeral Home",
-   "type": "newspaper",
-   "url": "https://www.curranjones.com/obituary/bernard-crosby",
-   "note": "Obituary, family informant."
-  },
-  {
-   "id": "s25",
-   "title": "Obituary of Beatrice A. (Patterson) Crosby (1929 to 2018), Curran-Jones Funeral Home",
-   "type": "newspaper",
-   "url": "https://www.curranjones.com/obituary/beatrice-crosby",
-   "note": "Obituary, family informant."
-  },
-  {
-   "id": "s26",
-   "title": "Find a Grave memorial 194280144 (John Magwire 1762 to 1821) and 37655787 (Francis G. Magwire 1803 to 1888), Brandon VT family",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/37655787",
-   "note": "Derivative; unlinked lead."
-  },
-  {
-   "id": "s27",
-   "title": "Obituary of Richard H. Farr (1930 to 2009), Gloucester Times, May 2009",
-   "type": "newspaper",
-   "url": "https://obituaries.gloucestertimes.com/obituary/richard-farr-772418521",
-   "note": "Obituary, family informant. Text owned by the publisher: link only on the public site."
-  },
-  {
-   "id": "s28",
-   "title": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, marriages registered in 1906, printed page 143 (archive.org item annualreportof190507wake, leaf 568)",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportof190507wake/page/n568",
-   "note": "Town Clerk printed marriage register extract."
-  },
-  {
-   "id": "s29",
-   "title": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, births registered in 1906, printed page 137 (archive.org item annualreportof190507wake, leaf 562)",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportof190507wake/page/n562",
-   "note": "Town Clerk printed birth register extract."
-  },
-  {
-   "id": "s30",
-   "title": "Nova Scotia Historical Vital Statistics, marriage of James H. [W.] Crosby and Asenath Porter, Ohio, Yarmouth Co., 21 Jan 1882 (book 1839, page 175, entry 16)",
-   "type": "vital record",
-   "url": "https://archives.novascotia.ca/vital-statistics/marriage/?ID=61961",
-   "note": "Image of the original civil marriage register, free at Nova Scotia Archives."
-  },
-  {
-   "id": "s31",
-   "title": "Nova Scotia Historical Vital Statistics, death of Asenath (Porter) Crosby, Brazil Lake, Yarmouth Co., 2 Nov 1938",
-   "type": "web",
-   "url": "https://archives.novascotia.ca/vital-statistics/death/?ID=297900",
-   "note": "Image of the original civil death registration; informant her son William Crosby."
-  },
-  {
-   "id": "s32",
-   "title": "Nova Scotia Historical Vital Statistics, death of James William Crosby, Brazil Lake, Yarmouth Co., 22 Dec 1937 (year 1937, file 300, number 973)",
-   "type": "web",
-   "url": "https://archives.novascotia.ca/vital-statistics/death/?ID=337358",
-   "note": "Image of the original civil death registration."
-  },
-  {
-   "id": "s33",
-   "title": "Obituary of Barbara R. (Richardson) Vogel (1921 to 2016), The Westfield News, 1 Dec 2016",
-   "type": "newspaper",
-   "url": "https://thewestfieldnews.com/barbara-r-vogel/",
-   "note": "Obituary, family informant. Link only on the public site."
-  },
-  {
-   "id": "s34",
-   "title": "Wayland, Massachusetts, Annual Reports 1919 to 1920, marriages registered in 1920, printed page 56 (archive.org item officialreportso1919wayl, leaf 275)",
-   "type": "vital record",
-   "url": "https://archive.org/details/officialreportso1919wayl/page/n275",
-   "note": "Town Clerk printed marriage register extract."
-  },
-  {
-   "id": "s35",
-   "title": "Wayland, Massachusetts, Annual Reports 1921 to 1922, births recorded in 1921, printed page 35 (archive.org item officialreportso1921wayl, leaf 40)",
-   "type": "vital record",
-   "url": "https://archive.org/details/officialreportso1921wayl/page/n40",
-   "note": "Town Clerk printed birth register extract."
-  },
-  {
-   "id": "s36",
-   "title": "Obituary of Gwendolyn (Farr) Magwire (1927 to 2009), The Republican, 9 Sep 2009, via Legacy.com / MassLive",
-   "type": "newspaper",
-   "url": "https://obits.masslive.com/us/obituaries/masslive/name/gwendolyn-magwire-obituary?id=12484302",
-   "note": "Obituary, family informant. Link only on the public site; the guest book names living people and stays private."
-  },
-  {
-   "id": "s37",
-   "title": "Magwire v. Village of Springfield, 111 Vt. 414, 17 A.2d 260 (Vt. 1941), a civil suit over pinball license fees at Magwire's Pharmacy",
-   "type": "court opinion",
-   "url": "https://www.courtlistener.com/opinion/4215709/magwire-v-village-of-springfield/",
-   "note": "Published appellate opinion (civil). Primary for the facts admitted in the pleadings."
-  },
-  {
-   "id": "s38",
-   "title": "Find a Grave memorial 62392610, Thelma L. Crosby (1916 to 1991), Hillcrest Park Cemetery, Springfield MA",
-   "type": "memorial",
-   "url": "https://www.findagrave.com/memorial/62392610",
-   "note": "Derivative."
-  },
-  {
-   "id": "s39",
-   "title": "Nova Scotia Historical Vital Statistics, marriage of Charles Pierce and Alice Whitehouse, Hebron, Yarmouth Co., 1865",
-   "type": "vital record",
-   "url": "https://archives.novascotia.ca/vital-statistics/marriage/?ID=15361",
-   "note": "Original register image; identity with Eva's parents unproven (lead)."
-  },
-  {
-   "id": "s40",
-   "title": "Chester, Vermont, auditors' report (archive.org item annualreportofau00ches, dated 1927): \"Abbie West, teaching\"",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportofau00ches",
-   "note": "Town report payment list (Abbie West, teaching). The same report prints her 1926 marriage to Harry James Farr, giving her home as Chester Depot, so this is probably the same woman."
-  },
-  {
-   "id": "s41",
-   "title": "Chester, Vermont, Annual report of the auditors for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, printed page 66 (archive.org item annualreportofau00ches, leaf n67): August 11, Harry James Farr, Springfield, Vt., and Mary Abbie West, Chester Depot, Vt.",
-   "type": "vital record",
-   "url": "https://archive.org/details/annualreportofau00ches/page/n67",
-   "note": "Town Clerk printed marriage list."
-  },
-  {
-   "id": "s42",
-   "title": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont 05156, as shown on SortedByName.com",
-   "type": "index",
-   "url": "https://sortedbyname.com/letter_f/farr/harry_farr.html",
-   "note": "Government death index, transcribed. Confirmed by his Vermont death certificate (s57)."
-  },
-  {
-   "id": "s43",
-   "title": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, printed page 7 (archive.org item annualreports19142newh, leaf n1370): Frank A. Magwire, Charlestown; registered in Vermont",
-   "type": "government report",
-   "url": "https://archive.org/details/annualreports19142newh/page/n1370",
-   "note": "State board report."
-  },
-  {
-   "id": "s44",
-   "title": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11 (archive.org item edisonphonograph02moor, leaf n146): Albert A. Magwire, Dealer at Springfield Vt., concert in Ludlow Town Hall, October 25",
-   "type": "periodical",
-   "url": "https://archive.org/details/edisonphonograph02moor/page/n146",
-   "note": "Trade journal of the National Phonograph Company. An earlier 1904 item (leaf n110) names him as of the Springfield Music Rooms."
-  },
-  {
-   "id": "s45",
-   "title": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69 (archive.org item yearbooksmassaso1936spri, leaf n70): Magwire, Raymond Bates, Springfield, Vt.",
-   "type": "yearbook",
-   "url": "https://archive.org/details/yearbooksmassaso1936spri/page/n70",
-   "note": "College yearbook class list."
-  },
-  {
-   "id": "s46",
-   "title": "Journal of Health, Physical Education, Recreation, vol. 23 no. 2, February 1952 (archive.org item sim_journal-of-physical-education-recreation-dance_1952-02_23_2, leaf n48): Raymond B. Magwire, state director of health and physical education, State Department of Education, Montpelier, Vt.",
-   "type": "periodical",
-   "url": "https://archive.org/details/sim_journal-of-physical-education-recreation-dance_1952-02_23_2/page/n48",
-   "note": "Professional journal. Identity with Raymond Bates Magwire rests on name, state and field (probable)."
-  },
-  {
-   "id": "s48",
-   "title": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, record 246188): groom's certified card, Springfield, Harry James Farr and Mary Abbie West, 11 Aug 1926, image 1792 of 5564",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1606/records/246188",
-   "note": "Certified copy of the town clerk's card. Ancestry sign-in needed to open the original image. Source: Vermont State Archives and Records Administration."
-  },
-  {
-   "id": "s49",
-   "title": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, records 1247395 and 1247396): bride's cards, Springfield (image 4429 of 5564) and Chester (image 4430 of 5564), Mary Abbie West and Harry James Farr, 11 Aug 1926",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1606/records/1247395",
-   "note": "Two certified copies of the bride's card. Ancestry sign-in needed. Source: Vermont State Archives and Records Administration."
-  },
-  {
-   "id": "s50",
-   "title": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423934): Gwendolyn Lorraine Farr, born 1 Jul 1927, Springfield Hospital, Windsor County 1927, image 201 of 645",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1605/records/423934",
-   "note": "Certified copy of the birth card. Ancestry sign-in needed."
-  },
-  {
-   "id": "s51",
-   "title": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423991): Richard Harry Farr, born 1 Jul 1930, Springfield Hospital, Windsor County 1930, image 384 of 1253",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1605/records/423991",
-   "note": "Certified copy of the birth card. Ancestry sign-in needed."
-  },
-  {
-   "id": "s52",
-   "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 26260799): Harry James Farr, 276 Gregory St, Bridgeport, Connecticut, registered 5 Jun 1917",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/6482/records/26260799",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s53",
-   "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 23939328): Frank Albert Magwire, Woodsville, New Hampshire, June 1917",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/6482/records/23939328",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s54",
-   "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 18590864): Ernest Allan Crosby, Luther St, Chicopee, Massachusetts, 12 Sep 1918",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/6482/records/18590864",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s55",
-   "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 611960): Harry James Farr, 6 Bridge St, Springfield, Vermont",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/1002/records/611960",
-   "note": "National Archives card, front. Ancestry sign-in needed."
-  },
-  {
-   "id": "s56",
-   "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 8947196): Ernest Allan Crosby, 35 Haven Ave, Chicopee, Massachusetts",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/1002/records/8947196",
-   "note": "National Archives card, front. Ancestry sign-in needed."
-  },
-  {
-   "id": "s57",
-   "title": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 491982): Harry James Farr, died 22 May 1966, Burlington, Chittenden County, image 4835 of 4943",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1607/records/491982",
-   "note": "Certificate of death, State of Vermont. Ancestry sign-in needed."
-  },
-  {
-   "id": "s58",
-   "title": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 246607): Albert A. Magwire, died 21 Feb 1929, Springfield, Windsor County 1929, image 796 of 1528",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/1607/records/246607",
-   "note": "Certified copy of the death card. Ancestry sign-in needed."
-  },
-  {
-   "id": "s59",
-   "title": "Vermont, U.S., Vital Records, 1720-1908 (Ancestry, record 1280358): Albert A. Maguire and Alice J. Spaulding, 8 Nov 1887, Springfield, image 3341 of 4438",
-   "type": "vital record",
-   "url": "https://www.ancestry.com/search/collections/4661/records/1280358",
-   "note": "Groom's marriage card, indexed as Maguire. Ancestry sign-in needed."
-  },
-  {
-   "id": "s60",
-   "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588132): Harold Charles Magwire, Springfield, Vermont, registered 16 Oct 1940, images 467 and 468 of 2080",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/2238/records/269588132",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s61",
-   "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588133): Howard Frank Magwire, 13 Whitcomb St, Springfield, Vermont, registered 16 Oct 1940, images 469 and 470 of 2080",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/2238/records/269588133",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s62",
-   "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588134): Raymond Bates Magwire, 1 Capitol Hill, Fair Haven, Vermont, registered 16 Oct 1940, images 471 and 472 of 2080",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/2238/records/269588134",
-   "note": "National Archives card, both sides. Ancestry sign-in needed."
-  },
-  {
-   "id": "s63",
-   "title": "U.S., Department of Veterans Affairs BIRLS Death File (Ancestry, record 14679670): Howard Frank Magwire, 1 Jan 1919 to 26 Sep 2014, U.S. Army, entered 15 Aug 1943, separated 7 Jan 1946",
-   "type": "index",
-   "url": "https://www.ancestry.com/search/collections/2441/records/14679670",
-   "note": "Administrative database listing. The service number is not published here. Ancestry sign-in needed."
-  },
-  {
-   "id": "s64",
-   "title": "U.S., Veterans' Gravesites, ca. 1775-2019 (Ancestry, record 5249366): Raymond Bates Magwire, 18 Mar 1913 to 26 Apr 1997, Pfc, U.S. Army, World War II, Hillside Cemetery",
-   "type": "index",
-   "url": "https://www.ancestry.com/search/collections/8750/records/5249366",
-   "note": "Government gravesite listing. Ancestry sign-in needed."
-  },
-  {
-   "id": "s65",
-   "title": "U.S., Social Security Applications and Claims Index, 1936-2007 (Ancestry, record 24763958): Raymond Bates Magwire, father Frank A. Magwire, mother Alice Bates",
-   "type": "index",
-   "url": "https://www.ancestry.com/search/collections/60901/records/24763958",
-   "note": "Index entry, transcribed. The account number is not published here. Ancestry sign-in needed."
-  },
-  {
-   "id": "s66",
-   "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, back of the record 611960 card, image 3109 of 6398; the front is image 3108): registrar's report dated 27 Apr 1942, Local Board 2, Windsor County, Woodstock, Vermont",
-   "type": "military record",
-   "url": "https://www.ancestry.com/search/collections/1002/records/611960",
-   "note": "The back of the card carries no name. It is matched to Harry James Farr by image order, directly after his front card, so it is probable. Ancestry sign-in needed."
-  }
- ]
+  "sources": [
+    {
+      "id": "s01",
+      "title": "Springfield, Vermont, Annual Town Report (births of 1919), archive.org item annualreportofto00spri_0, leaf 120",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportofto00spri_0/page/n119",
+      "note": "Original printed town register extract (published by the Town Clerk). Primary for event, secondary for print transcription."
+    },
+    {
+      "id": "s02",
+      "title": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, printed page 81, leaf 87",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportofto00spri_3/page/n86",
+      "note": "Town Clerk printed marriage list."
+    },
+    {
+      "id": "s03",
+      "title": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, leaf 88",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportofto00spri_3/page/n87",
+      "note": "Town Clerk printed marriage list."
+    },
+    {
+      "id": "s04",
+      "title": "1950 U.S. Census, Chicopee, Hampden Co., Massachusetts, ED 7-40, sheet 73, lines 14 to 17 (NARA)",
+      "type": "census",
+      "url": "https://1950census.archives.gov/search/?name=Ernest%20Crosby&state=MA&county=Hampden",
+      "note": "Original census image, informant unknown."
+    },
+    {
+      "id": "s05",
+      "title": "1950 U.S. Census, Springfield, Windsor Co., Vermont, ED 14-41, sheet 12, lines 24 to 26 (NARA)",
+      "type": "census",
+      "url": "https://1950census.archives.gov/search/?name=Farr&state=VT&county=Windsor",
+      "note": "Original census image, informant unknown."
+    },
+    {
+      "id": "s06",
+      "title": "Charles J. Spalding, The Spalding Memorial (Chicago, 1872), p. 448, entry 8733",
+      "type": "compiled genealogy",
+      "url": "https://archive.org/details/spaldingmemorial1872spal/page/n491",
+      "note": "Compiled genealogy (published 1872). Lead quality for early generations; near-contemporary for this family."
+    },
+    {
+      "id": "s07",
+      "title": "Genealogy of the Dickey Family (Worcester, 1898), p. 285, entries 2130 to 2137",
+      "type": "compiled genealogy",
+      "url": "https://archive.org/details/genealogyofdicke00dick/page/n316",
+      "note": "Compiled genealogy (published 1898)."
+    },
+    {
+      "id": "s10",
+      "title": "Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/300481449",
+      "note": "Derivative (volunteer transcription)."
+    },
+    {
+      "id": "s11",
+      "title": "Find a Grave memorial 43545548, Harold Charles Magwire (1919 to 2002)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/43545548",
+      "note": "Derivative; headstone photo held by contributor."
+    },
+    {
+      "id": "s12",
+      "title": "Find a Grave memorial 77870180, Raymond Bates Magwire (1913 to 1997)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/77870180",
+      "note": "Derivative."
+    },
+    {
+      "id": "s13",
+      "title": "Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967",
+      "type": "newspaper",
+      "url": "https://www.findagrave.com/memorial/208110370",
+      "note": "Derivative transcription of an obituary."
+    },
+    {
+      "id": "s14",
+      "title": "Find a Grave memorial 235597706, Alice B. Bates Magwire (1889 to 1972)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/235597706",
+      "note": "Derivative."
+    },
+    {
+      "id": "s15",
+      "title": "Find a Grave memorial 300820447, Albert A. Magwire (1845 to 1929)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/300820447",
+      "note": "Derivative."
+    },
+    {
+      "id": "s16",
+      "title": "Find a Grave memorial 263996734, Alice Jenny Spaulding Magwire (1866 to 1951), with marriage note (8 Nov 1887, Cavendish)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/263996734",
+      "note": "Derivative."
+    },
+    {
+      "id": "s17",
+      "title": "Find a Grave memorials 85115712 and 85115767, Charles Elliot Spaulding (1833 to 1890) and Amantha Putnam Spaulding (1837 to 1926)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/85115712",
+      "note": "Derivative; headstone photos held by contributors."
+    },
+    {
+      "id": "s18",
+      "title": "Find a Grave memorial 175501341, Charles E. Magwire Sr. (1895 to 1991), and 174016232, Edna Alice Magwire Pope (1893 to 1988; bio cites Vermont Death Records 1909 to 2008)",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/175501341",
+      "note": "Derivative."
+    },
+    {
+      "id": "s20",
+      "title": "Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014",
+      "type": "newspaper",
+      "url": "https://www.findagrave.com/memorial/129338715",
+      "note": "Derivative transcription of an obituary."
+    },
+    {
+      "id": "s21",
+      "title": "Obituary of Dorothy R. (Richardson) Crosby, Toomey-O'Brien Funeral Home, Feb 2022",
+      "type": "newspaper",
+      "url": "https://www.toomeyobrien.com/obituaries/dorothy-richardson-crosby",
+      "note": "Obituary, family informant."
+    },
+    {
+      "id": "s22",
+      "title": "Find a Grave memorials 226673791 and 226673806, Ernest A. Crosby (1884 to 1958) and Eva E. Crosby (1885 to 1944), Hillcrest Park Cemetery, Springfield MA",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/226673791",
+      "note": "Derivative."
+    },
+    {
+      "id": "s23",
+      "title": "Muriel J. (Crosby) Strauss person page and obituary text, Cousins Connection tree",
+      "type": "newspaper",
+      "url": "https://www.cousinsconnection.com/getperson.php?personID=I13437&tree=tree1",
+      "note": "Online tree quoting an obituary; derivative."
+    },
+    {
+      "id": "s24",
+      "title": "Obituary of Bernard \"Mel\" Crosby (1926 to 2024), Curran-Jones Funeral Home",
+      "type": "newspaper",
+      "url": "https://www.curranjones.com/obituary/bernard-crosby",
+      "note": "Obituary, family informant."
+    },
+    {
+      "id": "s25",
+      "title": "Obituary of Beatrice A. (Patterson) Crosby (1929 to 2018), Curran-Jones Funeral Home",
+      "type": "newspaper",
+      "url": "https://www.curranjones.com/obituary/beatrice-crosby",
+      "note": "Obituary, family informant."
+    },
+    {
+      "id": "s26",
+      "title": "Find a Grave memorial 194280144 (John Magwire 1762 to 1821) and 37655787 (Francis G. Magwire 1803 to 1888), Brandon VT family",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/37655787",
+      "note": "Derivative; unlinked lead."
+    },
+    {
+      "id": "s27",
+      "title": "Obituary of Richard H. Farr (1930 to 2009), Gloucester Times, May 2009",
+      "type": "newspaper",
+      "url": "https://obituaries.gloucestertimes.com/obituary/richard-farr-772418521",
+      "note": "Obituary, family informant. Text owned by the publisher: link only on the public site."
+    },
+    {
+      "id": "s28",
+      "title": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, marriages registered in 1906, printed page 143 (archive.org item annualreportof190507wake, leaf 568)",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportof190507wake/page/n568",
+      "note": "Town Clerk printed marriage register extract."
+    },
+    {
+      "id": "s29",
+      "title": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, births registered in 1906, printed page 137 (archive.org item annualreportof190507wake, leaf 562)",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportof190507wake/page/n562",
+      "note": "Town Clerk printed birth register extract."
+    },
+    {
+      "id": "s30",
+      "title": "Nova Scotia Historical Vital Statistics, marriage of James H. [W.] Crosby and Asenath Porter, Ohio, Yarmouth Co., 21 Jan 1882 (book 1839, page 175, entry 16)",
+      "type": "vital record",
+      "url": "https://archives.novascotia.ca/vital-statistics/marriage/?ID=61961",
+      "note": "Image of the original civil marriage register, free at Nova Scotia Archives."
+    },
+    {
+      "id": "s31",
+      "title": "Nova Scotia Historical Vital Statistics, death of Asenath (Porter) Crosby, Brazil Lake, Yarmouth Co., 2 Nov 1938",
+      "type": "web",
+      "url": "https://archives.novascotia.ca/vital-statistics/death/?ID=297900",
+      "note": "Image of the original civil death registration; informant her son William Crosby."
+    },
+    {
+      "id": "s32",
+      "title": "Nova Scotia Historical Vital Statistics, death of James William Crosby, Brazil Lake, Yarmouth Co., 22 Dec 1937 (year 1937, file 300, number 973)",
+      "type": "web",
+      "url": "https://archives.novascotia.ca/vital-statistics/death/?ID=337358",
+      "note": "Image of the original civil death registration."
+    },
+    {
+      "id": "s33",
+      "title": "Obituary of Barbara R. (Richardson) Vogel (1921 to 2016), The Westfield News, 1 Dec 2016",
+      "type": "newspaper",
+      "url": "https://thewestfieldnews.com/barbara-r-vogel/",
+      "note": "Obituary, family informant. Link only on the public site."
+    },
+    {
+      "id": "s34",
+      "title": "Wayland, Massachusetts, Annual Reports 1919 to 1920, marriages registered in 1920, printed page 56 (archive.org item officialreportso1919wayl, leaf 275)",
+      "type": "vital record",
+      "url": "https://archive.org/details/officialreportso1919wayl/page/n275",
+      "note": "Town Clerk printed marriage register extract."
+    },
+    {
+      "id": "s35",
+      "title": "Wayland, Massachusetts, Annual Reports 1921 to 1922, births recorded in 1921, printed page 35 (archive.org item officialreportso1921wayl, leaf 40)",
+      "type": "vital record",
+      "url": "https://archive.org/details/officialreportso1921wayl/page/n40",
+      "note": "Town Clerk printed birth register extract."
+    },
+    {
+      "id": "s36",
+      "title": "Obituary of Gwendolyn (Farr) Magwire (1927 to 2009), The Republican, 9 Sep 2009, via Legacy.com / MassLive",
+      "type": "newspaper",
+      "url": "https://obits.masslive.com/us/obituaries/masslive/name/gwendolyn-magwire-obituary?id=12484302",
+      "note": "Obituary, family informant. Link only on the public site; the guest book names living people and stays private."
+    },
+    {
+      "id": "s37",
+      "title": "Magwire v. Village of Springfield, 111 Vt. 414, 17 A.2d 260 (Vt. 1941), a civil suit over pinball license fees at Magwire's Pharmacy",
+      "type": "court opinion",
+      "url": "https://www.courtlistener.com/opinion/4215709/magwire-v-village-of-springfield/",
+      "note": "Published appellate opinion (civil). Primary for the facts admitted in the pleadings."
+    },
+    {
+      "id": "s38",
+      "title": "Find a Grave memorial 62392610, Thelma L. Crosby (1916 to 1991), Hillcrest Park Cemetery, Springfield MA",
+      "type": "memorial",
+      "url": "https://www.findagrave.com/memorial/62392610",
+      "note": "Derivative."
+    },
+    {
+      "id": "s39",
+      "title": "Nova Scotia Historical Vital Statistics, marriage of Charles Pierce and Alice Whitehouse, Hebron, Yarmouth Co., 1865",
+      "type": "vital record",
+      "url": "https://archives.novascotia.ca/vital-statistics/marriage/?ID=15361",
+      "note": "Original register image; identity with Eva's parents unproven (lead)."
+    },
+    {
+      "id": "s40",
+      "title": "Chester, Vermont, auditors' report (archive.org item annualreportofau00ches, dated 1927): \"Abbie West, teaching\"",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportofau00ches",
+      "note": "Town report payment list (Abbie West, teaching). The same report prints her 1926 marriage to Harry James Farr, giving her home as Chester Depot, so this is probably the same woman."
+    },
+    {
+      "id": "s41",
+      "title": "Chester, Vermont, Annual report of the auditors for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, printed page 66 (archive.org item annualreportofau00ches, leaf n67): August 11, Harry James Farr, Springfield, Vt., and Mary Abbie West, Chester Depot, Vt.",
+      "type": "vital record",
+      "url": "https://archive.org/details/annualreportofau00ches/page/n67",
+      "note": "Town Clerk printed marriage list."
+    },
+    {
+      "id": "s42",
+      "title": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont 05156, as shown on SortedByName.com",
+      "type": "index",
+      "url": "https://sortedbyname.com/letter_f/farr/harry_farr.html",
+      "note": "Government death index, transcribed. Confirmed by his Vermont death certificate (s57)."
+    },
+    {
+      "id": "s43",
+      "title": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, printed page 7 (archive.org item annualreports19142newh, leaf n1370): Frank A. Magwire, Charlestown; registered in Vermont",
+      "type": "government report",
+      "url": "https://archive.org/details/annualreports19142newh/page/n1370",
+      "note": "State board report."
+    },
+    {
+      "id": "s44",
+      "title": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11 (archive.org item edisonphonograph02moor, leaf n146): Albert A. Magwire, Dealer at Springfield Vt., concert in Ludlow Town Hall, October 25",
+      "type": "periodical",
+      "url": "https://archive.org/details/edisonphonograph02moor/page/n146",
+      "note": "Trade journal of the National Phonograph Company. An earlier 1904 item (leaf n110) names him as of the Springfield Music Rooms."
+    },
+    {
+      "id": "s45",
+      "title": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69 (archive.org item yearbooksmassaso1936spri, leaf n70): Magwire, Raymond Bates, Springfield, Vt.",
+      "type": "yearbook",
+      "url": "https://archive.org/details/yearbooksmassaso1936spri/page/n70",
+      "note": "College yearbook class list."
+    },
+    {
+      "id": "s46",
+      "title": "Journal of Health, Physical Education, Recreation, vol. 23 no. 2, February 1952 (archive.org item sim_journal-of-physical-education-recreation-dance_1952-02_23_2, leaf n48): Raymond B. Magwire, state director of health and physical education, State Department of Education, Montpelier, Vt.",
+      "type": "periodical",
+      "url": "https://archive.org/details/sim_journal-of-physical-education-recreation-dance_1952-02_23_2/page/n48",
+      "note": "Professional journal. Identity with Raymond Bates Magwire rests on name, state and field (probable)."
+    },
+    {
+      "id": "s48",
+      "title": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, record 246188): groom's certified card, Springfield, Harry James Farr and Mary Abbie West, 11 Aug 1926, image 1792 of 5564",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1606/records/246188",
+      "note": "Certified copy of the town clerk's card. Ancestry sign-in needed to open the original image. Source: Vermont State Archives and Records Administration."
+    },
+    {
+      "id": "s49",
+      "title": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, records 1247395 and 1247396): bride's cards, Springfield (image 4429 of 5564) and Chester (image 4430 of 5564), Mary Abbie West and Harry James Farr, 11 Aug 1926",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1606/records/1247395",
+      "note": "Two certified copies of the bride's card. Ancestry sign-in needed. Source: Vermont State Archives and Records Administration."
+    },
+    {
+      "id": "s50",
+      "title": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423934): Gwendolyn Lorraine Farr, born 1 Jul 1927, Springfield Hospital, Windsor County 1927, image 201 of 645",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1605/records/423934",
+      "note": "Certified copy of the birth card. Ancestry sign-in needed."
+    },
+    {
+      "id": "s51",
+      "title": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423991): Richard Harry Farr, born 1 Jul 1930, Springfield Hospital, Windsor County 1930, image 384 of 1253",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1605/records/423991",
+      "note": "Certified copy of the birth card. Ancestry sign-in needed."
+    },
+    {
+      "id": "s52",
+      "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 26260799): Harry James Farr, 276 Gregory St, Bridgeport, Connecticut, registered 5 Jun 1917",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/6482/records/26260799",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s53",
+      "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 23939328): Frank Albert Magwire, Woodsville, New Hampshire, June 1917",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/6482/records/23939328",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s54",
+      "title": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 18590864): Ernest Allan Crosby, Luther St, Chicopee, Massachusetts, 12 Sep 1918",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/6482/records/18590864",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s55",
+      "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 611960): Harry James Farr, 6 Bridge St, Springfield, Vermont",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/1002/records/611960",
+      "note": "National Archives card, front. Ancestry sign-in needed."
+    },
+    {
+      "id": "s56",
+      "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 8947196): Ernest Allan Crosby, 35 Haven Ave, Chicopee, Massachusetts",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/1002/records/8947196",
+      "note": "National Archives card, front. Ancestry sign-in needed."
+    },
+    {
+      "id": "s57",
+      "title": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 491982): Harry James Farr, died 22 May 1966, Burlington, Chittenden County, image 4835 of 4943",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1607/records/491982",
+      "note": "Certificate of death, State of Vermont. Ancestry sign-in needed."
+    },
+    {
+      "id": "s58",
+      "title": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 246607): Albert A. Magwire, died 21 Feb 1929, Springfield, Windsor County 1929, image 796 of 1528",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1607/records/246607",
+      "note": "Certified copy of the death card. Ancestry sign-in needed."
+    },
+    {
+      "id": "s59",
+      "title": "Vermont, U.S., Vital Records, 1720-1908 (Ancestry, record 1280358): Albert A. Maguire and Alice J. Spaulding, 8 Nov 1887, Springfield, image 3341 of 4438",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/4661/records/1280358",
+      "note": "Groom's marriage card, indexed as Maguire. Ancestry sign-in needed."
+    },
+    {
+      "id": "s60",
+      "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588132): Harold Charles Magwire, Springfield, Vermont, registered 16 Oct 1940, images 467 and 468 of 2080",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/2238/records/269588132",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s61",
+      "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588133): Howard Frank Magwire, 13 Whitcomb St, Springfield, Vermont, registered 16 Oct 1940, images 469 and 470 of 2080",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/2238/records/269588133",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s62",
+      "title": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588134): Raymond Bates Magwire, 1 Capitol Hill, Fair Haven, Vermont, registered 16 Oct 1940, images 471 and 472 of 2080",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/2238/records/269588134",
+      "note": "National Archives card, both sides. Ancestry sign-in needed."
+    },
+    {
+      "id": "s63",
+      "title": "U.S., Department of Veterans Affairs BIRLS Death File (Ancestry, record 14679670): Howard Frank Magwire, 1 Jan 1919 to 26 Sep 2014, U.S. Army, entered 15 Aug 1943, separated 7 Jan 1946",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/2441/records/14679670",
+      "note": "Administrative database listing. The service number is not published here. Ancestry sign-in needed."
+    },
+    {
+      "id": "s64",
+      "title": "U.S., Veterans' Gravesites, ca. 1775-2019 (Ancestry, record 5249366): Raymond Bates Magwire, 18 Mar 1913 to 26 Apr 1997, Pfc, U.S. Army, World War II, Hillside Cemetery",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/8750/records/5249366",
+      "note": "Government gravesite listing. Ancestry sign-in needed."
+    },
+    {
+      "id": "s65",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007 (Ancestry, record 24763958): Raymond Bates Magwire, father Frank A. Magwire, mother Alice Bates",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/60901/records/24763958",
+      "note": "Index entry, transcribed. The account number is not published here. Ancestry sign-in needed."
+    },
+    {
+      "id": "s66",
+      "title": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, back of the record 611960 card, image 3109 of 6398; the front is image 3108): registrar's report dated 27 Apr 1942, Local Board 2, Windsor County, Woodstock, Vermont",
+      "type": "military record",
+      "url": "https://www.ancestry.com/search/collections/1002/records/611960",
+      "note": "The back of the card carries no name. It is matched to Harry James Farr by image order, directly after his front card, so it is probable. Ancestry sign-in needed."
+    },
+    {
+      "id": "s67",
+      "title": "Springfield, Vermont, Town Clerk cemetery deed and burial index cards, letters M-N (scanned PDF, Oakland Cemetery lot 51, Tier 10, Ward G: Frank A. and Alice B. Magwire)",
+      "type": "index",
+      "url": "https://springfieldvt.gov/index.asp?DE=055BD0AB-B0C0-4FDF-BA2C-C4D1594F3247&SEC=C7745157-4898-44E3-885B-4FD4DDC8CA0B",
+      "note": "Scanned cards, read by eye. The card spells Gwendolyn as \"Gewendolyn\"."
+    },
+    {
+      "id": "s68",
+      "title": "Springfield, Vermont, Town Clerk cemetery deed and burial index cards, letters E-F (scanned PDF, Oakland Cemetery lot 128, Tier 1, Ward E: Harry J. and Mary A. Farr)",
+      "type": "index",
+      "url": "https://springfieldvt.gov/index.asp?DE=055BD0AB-B0C0-4FDF-BA2C-C4D1594F3247&SEC=C7745157-4898-44E3-885B-4FD4DDC8CA0B",
+      "note": "Scanned cards, read by eye."
+    },
+    {
+      "id": "s69",
+      "title": "Springfield, Vermont, Town Clerk cemetery deed and burial index cards, letters E-F (scanned PDF, Oakland Cemetery lot 83, Tier 1, Ward D: Anna L. Farr, deed 25 Apr 1911; George Oscar Farr, 50 years, 1911)",
+      "type": "index",
+      "url": "https://springfieldvt.gov/index.asp?DE=055BD0AB-B0C0-4FDF-BA2C-C4D1594F3247&SEC=C7745157-4898-44E3-885B-4FD4DDC8CA0B",
+      "note": "Scanned cards. The card names George Oscar Farr; it does not name his wife or son, so the link to Harry is probable."
+    },
+    {
+      "id": "s70",
+      "title": "The New England Business Directory and Gazetteer, 1918 (archive.org item newenglandbusin1918p1bost, leaf 665 and leaf 953): druggists of New Hampshire, \"Maguire Frank A, Woodsville\"; piano teachers of Vermont, \"Magwire Albert A\", under Springfield",
+      "type": "index",
+      "url": "https://archive.org/details/newenglandbusin1918p1bost",
+      "note": "Column text is scrambled in the scan, so the town is read from the bold town names beside the entries."
+    },
+    {
+      "id": "s71",
+      "title": "The New England Business Directory and Gazetteer, 1922 (archive.org item newenglandbusin1922bost, leaf 921): druggists of Vermont, \"Maguire Frank A\" listed with the Springfield druggists",
+      "type": "index",
+      "url": "https://archive.org/details/newenglandbusin1922bost",
+      "note": "The town name is printed beside the first druggist of the group (Dodge N C, Springfield); the next entries are marked with ditto marks."
+    },
+    {
+      "id": "s72",
+      "title": "Rutland Daily Herald, 10 Oct 1967, obituary of Frank A. Magwire (Ancestry, Newspapers.com obituary index record 778673060) and Vermont death record, Frank A. Magwire, 8 Oct 1967 (Ancestry, record 287189)",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/61843/records/778673060",
+      "note": "Ancestry sign-in needed. Death record: father Albert A., mother Alice, spouse Alice B."
+    },
+    {
+      "id": "s73",
+      "title": "Times Argus, 1 Apr 1972, obituary of Alice B. Magwire (Ancestry, record 837822748) and Vermont death record, Alice B. Magwire, 29 Mar 1972 (Ancestry, record 287193)",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/61843/records/837822748",
+      "note": "Ancestry sign-in needed. Death record: father Charles Bates, mother Ida Bates."
+    },
+    {
+      "id": "s74",
+      "title": "Rutland Daily Herald, 13 Mar 1992, obituary of Mary Farr (Ancestry obituary index, record 600189743)",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/61843/records/600189743",
+      "note": "Ancestry sign-in needed. Index entry: died 5 Mar 1992, born 1901 in Peru VT, of Schenectady NY, father William West."
+    },
+    {
+      "id": "s75",
+      "title": "Rutland Daily Herald, 23 May 1966, obituary of Harry J. Farr (Ancestry, record 778671531)",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/61843/records/778671531",
+      "note": "Ancestry sign-in needed."
+    },
+    {
+      "id": "s76",
+      "title": "Vermont marriage card, Springfield, 4 Dec 1912: Harry James Farr and Laura Mary Seward (Ancestry, Vermont Vital Records, record 246183)",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1606/records/246183",
+      "note": "Ancestry sign-in needed. The groom's mother is given as born in Chester, Vermont; his 1926 card gives Andover."
+    },
+    {
+      "id": "s77",
+      "title": "Vermont marriage record, Springfield, 7 Jan 1961: Gwendolyn Lorraine Farr and Howard Frank Magwire (Ancestry, record 1051029) and Connecticut Death Index, Gwendolyn Magwire, 6 Sep 2009, Suffield (Ancestry, record 1551946)",
+      "type": "vital record",
+      "url": "https://www.ancestry.com/search/collections/1606/records/1051029",
+      "note": "Ancestry sign-in needed."
+    },
+    {
+      "id": "s78",
+      "title": "Social Security Death Index, Harold Magwire (Ancestry, record 38404664), Find a Grave memorial 24257524 (Ancestry copy), and Vermont marriage records, 20 Jun 1940 (Shirley Marie Havens, record 305665) and 4 Aug 1956 (Nellie Manks, record 369576)",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/60525/records/24257524",
+      "note": "Ancestry sign-in needed. Also Hooker and Whitcomb Funeral Home obituary of Thomas H. Magwire, 1 Oct 2021, which names his late parents Harold and Shirley (Havens) Magwire and burial at the Vermont Veterans Memorial Cemetery."
+    },
+    {
+      "id": "s79",
+      "title": "Rutland Daily Herald, 28 Apr 1997, obituary of Raymond B. Magwire (Ancestry, record 616593354)",
+      "type": "index",
+      "url": "https://www.ancestry.com/search/collections/61843/records/616593354",
+      "note": "Ancestry sign-in needed."
+    },
+    {
+      "id": "s80",
+      "title": "Find a Grave memorial 297441235, Howard Frank Magwire (Ancestry copy, record 297441235); no obituary found",
+      "type": "memorial",
+      "url": "https://www.ancestry.com/search/collections/60525/records/297441235",
+      "note": "Ancestry sign-in needed."
+    },
+    {
+      "id": "s81",
+      "title": "Toomey-O'Brien Funeral Home, obituary of Dorothy R. (Richardson) Crosby, published 2 Feb 2022",
+      "type": "memorial",
+      "url": "https://www.toomeyobrien.com/obituaries/dorothy-richardson-crosby",
+      "note": "Free web page. Names living relatives; only the deceased are used on this site."
+    }
+  ]
 }
