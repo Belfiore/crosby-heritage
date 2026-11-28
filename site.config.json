@@ -1,44 +1,66 @@
 {
   "$schema": "https://raw.githubusercontent.com/Belfiore/family-site-engine/main/schema/site-config.schema.json",
-  "$comment": "Crosby family heritage, built the same way as Vigliotti Heritage: stable channel, Discovery Timeline on, no map API keys. The map uses the engine's keyless OpenFreeMap style. Do not put a MapTiler or Google key in this file.",
+  "$comment": "Crosby family heritage, built the same way as Vigliotti Heritage: stable channel, Discovery Timeline on, confidence badges off, Who are you? on for living relatives, English and German. No map API keys. The map uses the engine's keyless OpenFreeMap style. Do not put a MapTiler or Google key in this file.",
   "schemaVersion": 1,
   "engine": {"channel": "stable"},
   "timeline": {"enabled": true},
+  "language": {"default": "en", "available": ["en", "de"]},
+  "visitor": {
+    "enabled": true,
+    "scope": "living",
+    "livingPhotos": false,
+    "welcome": true,
+    "question": "Which relative are you?",
+    "question_de": "Welches Familienmitglied sind Sie?",
+    "lead": "If your name is on this tree, it opens from your place in the family. The choice stays on this device and is never sent anywhere.",
+    "lead_de": "Wenn Ihr Name auf diesem Stammbaum steht, öffnet er sich von Ihrem Platz in der Familie aus. Die Wahl bleibt auf diesem Gerät und wird nirgends hingeschickt.",
+    "skipLabel": "Continue without choosing",
+    "skipLabel_de": "Weiter, ohne zu wählen"
+  },
   "site": {
     "name": "Crosby",
+    "name_de": "Crosby",
     "familyName": "the Crosby, Magwire, Farr, Richardson, Pierce, Spaulding and Putnam families",
+    "familyName_de": "die Familien Crosby, Magwire, Farr, Richardson, Pierce, Spaulding und Putnam",
     "lang": "en-US",
-    "description": "The Crosby family heritage: Nova Scotia roots, the Magwire, Farr, Richardson, Pierce, Spaulding and Putnam lines, the records behind them, and a timeline of each research find."
+    "description": "The Crosby family heritage: Nova Scotia roots, the Magwire, Farr, Richardson, Pierce, Spaulding and Putnam lines, the records behind them, and a timeline of each research find.",
+    "description_de": "Die Familiengeschichte der Crosbys: Wurzeln in Nova Scotia (Neuschottland), die Linien Magwire, Farr, Richardson, Pierce, Spaulding und Putnam, die Belege dazu und eine Zeitlinie jeder Forschungsfindung."
   },
   "pages": {
     "home": "index.html",
     "tree": {
       "file": "family-tree.html",
       "title": "Family Tree | Crosby",
+      "title_de": "Stammbaum | Crosby",
       "description": "An interactive tree of the Crosby, Magwire, Farr, Richardson, Pierce, Spaulding and Putnam families. A dashed line is a probable link. Living people are names and relationships only.",
+      "description_de": "Ein interaktiver Stammbaum der Familien Crosby, Magwire, Farr, Richardson, Pierce, Spaulding und Putnam. Eine gestrichelte Linie ist eine wahrscheinliche Verbindung. Lebende Personen sind nur Name und Verwandtschaft.",
       "heading": "The family tree",
+      "heading_de": "Der Stammbaum",
       "stylesheets": ["styles.css"]
     },
     "map": {
       "file": "map.html",
       "title": "Family Map | Crosby",
+      "title_de": "Familienkarte | Crosby",
       "description": "Places from the research table: births, homes, marriages, work, a civil case, deaths and burials. Approximate places are soft circles. Living people are not on the map.",
+      "description_de": "Orte aus der Forschungstabelle: Geburten, Wohnorte, Heiraten, Arbeit, ein Zivilverfahren, Todesfälle und Beisetzungen. Ungefähre Orte sind weiche Kreise. Lebende Personen stehen nicht auf der Karte.",
       "heading": "The family map",
+      "heading_de": "Die Familienkarte",
       "stylesheets": ["styles.css"]
     },
     "ask": null
   },
   "nav": [
-    {"href": "index.html", "label": "Home"},
-    {"href": "family-tree.html", "label": "Tree"},
-    {"href": "map.html", "label": "Map"},
-    {"href": "crosby.html", "label": "Crosbys"},
-    {"href": "magwire.html", "label": "Magwires"},
-    {"href": "farr.html", "label": "Farrs"},
-    {"href": "richardson.html", "label": "Richardsons"},
-    {"href": "spaulding.html", "label": "Spaulding"},
-    {"href": "research.html", "label": "Research"},
-    {"href": "discoveries.html", "label": "Discoveries"}
+    {"href": "index.html", "label": "Home", "label_de": "Start"},
+    {"href": "family-tree.html", "label": "Tree", "label_de": "Stammbaum"},
+    {"href": "map.html", "label": "Map", "label_de": "Karte"},
+    {"href": "crosby.html", "label": "Crosbys", "label_de": "Crosbys"},
+    {"href": "magwire.html", "label": "Magwires", "label_de": "Magwires"},
+    {"href": "farr.html", "label": "Farrs", "label_de": "Farrs"},
+    {"href": "richardson.html", "label": "Richardsons", "label_de": "Richardsons"},
+    {"href": "spaulding.html", "label": "Spaulding", "label_de": "Spaulding"},
+    {"href": "research.html", "label": "Research", "label_de": "Forschung"},
+    {"href": "discoveries.html", "label": "Discoveries", "label_de": "Funde"}
   ],
   "head": {"fonts": null, "stylesheets": ["styles.css"]},
   "theme": {
@@ -92,29 +114,34 @@
   "data": {"dir": "data"},
   "tree": {
     "familyLabel": "Crosby family",
+    "familyLabel_de": "Familie Crosby",
     "directLineLabel": "Tracy's direct line",
+    "directLineLabel_de": "Tracys direkte Linie",
     "rootPersonId": "tracy-jo-magwire-crosby",
     "cardPhotos": "best",
     "coupleBlocks": "auto",
-    "legendNote": " A solid line is a link a record states. A dashed line is probable: the records point to it, and a certificate would make it firmer. People known only as leads are not drawn. They are on the research page.",
+    "legendNote": " A solid line is a link a record states. A dashed line is probable: the records point to it, and a certificate would make it firmer. A name that appears only in a compiled book stays on the research page and is not drawn.",
+    "legendNote_de": " Eine durchgezogene Linie ist eine Verbindung, die ein Beleg nennt. Eine gestrichelte Linie ist wahrscheinlich: die Belege deuten darauf, und eine Urkunde würde sie fester machen. Ein Name, der nur in einem zusammengestellten Buch steht, bleibt auf der Forschungsseite und wird nicht gezeichnet.",
     "noscript": "The <a href=\"research.html\">research page</a> and the line pages work without it.",
+    "noscript_de": "Die <a href=\"research.html\">Forschungsseite</a> und die Linienseiten funktionieren auch ohne.",
     "initialView": {
       "ids": ["tracy-jo-magwire-crosby", "richard-r-crosby", "howard-frank-magwire", "gwendolyn-farr-magwire", "roy-e-crosby", "dorothy-r-richardson-crosby"],
       "fromGen": 2,
       "toGen": 5
     },
     "generations": [
-      {"generation": 0, "label": "I", "title": "Earliest generation on this tree", "range": "from 1833"},
-      {"generation": 1, "label": "II", "title": "James and Asenath, Albert and Alice Jenny", "range": "1845 to 1866"},
-      {"generation": 2, "label": "III", "title": "Ernest and Eva, Frank and Alice, Harry, Robert and Anna", "range": "1884 to about 1902"},
-      {"generation": 3, "label": "IV", "title": "Roy and Dorothy, Howard and Gwendolyn, and their brothers and sisters", "range": "1906 to 1930"},
-      {"generation": 4, "label": "V", "title": "Tracy and Rick", "range": null},
-      {"generation": 5, "label": "VI", "title": "Their children", "range": null}
+      {"generation": 0, "label": "I", "title": "Earliest generation on this tree", "title_de": "Früheste Generation auf diesem Stammbaum", "range": "from 1833", "range_de": "ab 1833"},
+      {"generation": 1, "label": "II", "title": "James and Asenath, Albert and Alice Jenny", "title_de": "James und Asenath, Albert und Alice Jenny", "range": "1845 to 1866", "range_de": "1845 bis 1866"},
+      {"generation": 2, "label": "III", "title": "Ernest and Eva, Frank and Alice, Harry, Robert and Anna", "title_de": "Ernest und Eva, Frank und Alice, Harry, Robert und Anna", "range": "1884 to about 1902", "range_de": "1884 bis etwa 1902"},
+      {"generation": 3, "label": "IV", "title": "Roy and Dorothy, Howard and Gwendolyn, and their brothers and sisters", "title_de": "Roy und Dorothy, Howard und Gwendolyn und ihre Geschwister", "range": "1906 to 1930", "range_de": "1906 bis 1930"},
+      {"generation": 4, "label": "V", "title": "Tracy and Rick", "title_de": "Tracy und Rick", "range": null},
+      {"generation": 5, "label": "VI", "title": "Their children", "title_de": "Ihre Kinder", "range": null}
     ]
   },
   "map": {
     "home": {
       "name": "New England",
+      "name_de": "Neuengland",
       "bounds": [[-73.7, 41.15], [-69.85, 45.05]]
     },
     "historicMaps": null,
@@ -174,11 +201,12 @@
       {"id": "richard-r-crosby", "name": "Rick"}
     ],
     "families": [
-      {"id": "crosby", "label": "Rick's family", "option": "Rick's family (Crosby)", "roots": ["richard-r-crosby"]},
-      {"id": "magwire", "label": "Tracy's family", "option": "Tracy's family (Magwire)", "roots": ["tracy-jo-magwire-crosby"]},
-      {"id": "both", "label": "Tracy's and Rick's families", "option": "Tracy's and Rick's families", "roots": ["tracy-jo-magwire-crosby", "richard-r-crosby"]}
+      {"id": "crosby", "label": "Rick's family", "label_de": "Ricks Familie", "option": "Rick's family (Crosby)", "option_de": "Ricks Familie (Crosby)", "roots": ["richard-r-crosby"]},
+      {"id": "magwire", "label": "Tracy's family", "label_de": "Tracys Familie", "option": "Tracy's family (Magwire)", "option_de": "Tracys Familie (Magwire)", "roots": ["tracy-jo-magwire-crosby"]},
+      {"id": "both", "label": "Tracy's and Rick's families", "label_de": "Tracys und Ricks Familien", "option": "Tracy's and Rick's families", "option_de": "Tracys und Ricks Familien", "roots": ["tracy-jo-magwire-crosby", "richard-r-crosby"]}
     ],
-    "noscript": "Every mapped place is also described on the line pages and on the <a href=\"research.html\">research page</a>."
+    "noscript": "Every mapped place is also described on the line pages and on the <a href=\"research.html\">research page</a>.",
+    "noscript_de": "Jeder kartierte Ort ist auch auf den Linienseiten und auf der <a href=\"research.html\">Forschungsseite</a> beschrieben."
   },
   "widget": {"enabled": false},
   "publish": {"exclude": ["README.md", "tests/", "data/discoveries.json"]}

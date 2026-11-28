@@ -7,6 +7,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Howard Frank Magwire and his twin brother Harold Charles were born on New Year's Day 1919 in Springfield, Vermont, sons of Frank A. Magwire.",
+      "headline_de": "Howard Frank Magwire und sein Zwillingsbruder Harold Charles wurden am Neujahrstag 1919 in Springfield, Vermont, als Söhne von Frank A. Magwire geboren.",
       "findType": "record",
       "source": {
         "text": "Springfield, Vermont, Annual Town Report (births of 1919), archive.org item annualreportofto00spri_0, leaf 120; Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards; Find a Grave memorial 43545548, Harold Charles Magwire (1919 to 2002)",
@@ -14,7 +15,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1919-birth-magwire-twins-springfield-vt-townreport-highlighted.jpg",
-      "imageAlt": "Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire"
+      "imageAlt": "Springfield VT births, January 1919: lines for 1 Jan, sons Harold Charles and Howard Frank, father Frank A. Magwire",
+      "imageAlt_de": "Geburten Springfield VT, Januar 1919: Zeilen für den 1. Januar, Söhne Harold Charles und Howard Frank, Vater Frank A. Magwire"
     },
     {
       "id": "c002",
@@ -23,6 +25,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Frank Albert Magwire married Alice Evadna Bates in Springfield, Vermont, on July 10, 1912.",
+      "headline_de": "Frank Albert Magwire heiratete Alice Evadna Bates am 10. Juli 1912 in Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, printed page 81, leaf 87; Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967; Find a Grave memorial 235597706, Alice B. Bates Magwire (1889 to 1972)",
@@ -30,7 +33,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1912-marriage-magwire-bates-springfield-vt-townreport-highlighted.jpg",
-      "imageAlt": "Springfield VT marriages, page 81: July 10, Frank Albert Magwire and Alice Evadna Bates"
+      "imageAlt": "Springfield VT marriages, page 81: July 10, Frank Albert Magwire and Alice Evadna Bates",
+      "imageAlt_de": "Heiraten Springfield VT, Seite 81: 10. Juli, Frank Albert Magwire und Alice Evadna Bates"
     },
     {
       "id": "c003",
@@ -39,6 +43,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Frank Albert Magwire ran Magwire's Pharmacy in Springfield, Vermont, for 37 years before retiring in 1954.",
+      "headline_de": "Frank Albert Magwire betrieb Magwire's Pharmacy in Springfield, Vermont, 37 Jahre lang, bevor er 1954 in den Ruhestand ging.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967; Find a Grave memorial 175501341, Charles E. Magwire Sr. (1895 to 1991), and 174016232, Edna Alice Magwire Pope (1893 to 1988; bio cites Vermont Death Records 1909 to 2008)",
@@ -53,6 +58,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Tracy Crosby is named as the daughter of Howard Frank Magwire, and Rick and Tracy appear together in both Crosby parents' obituaries.",
+      "headline_de": "Tracy Crosby wird als Tochter von Howard Frank Magwire genannt, und Rick und Tracy erscheinen gemeinsam in den Nachrufen beider Crosby-Eltern.",
       "findType": "connection",
       "source": {
         "text": "Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards; Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014; Obituary of Dorothy R. (Richardson) Crosby, Toomey-O'Brien Funeral Home, Feb 2022",
@@ -67,6 +73,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Howard Frank Magwire married Gwendolyn Farr in Springfield, Vermont, on January 7, 1961.",
+      "headline_de": "Howard Frank Magwire heiratete Gwendolyn Farr am 7. Januar 1961 in Springfield, Vermont.",
       "findType": "connection",
       "source": {
         "text": "Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards",
@@ -81,6 +88,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Howard Frank Magwire died in 2014 and rests in Oakland Cemetery in Springfield, Vermont.",
+      "headline_de": "Howard Frank Magwire starb 2014 und ruht im Oakland Cemetery in Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 300481449, Howard Frank Magwire (1919 to 2014), with bio citing VT birth record, VT marriage record, wife's obituary and Town of Springfield cemetery cards",
@@ -95,6 +103,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Alice Bates Magwire was born in Williamstown, Massachusetts, in 1889 and died in Springfield, Vermont, in 1972.",
+      "headline_de": "Alice Bates Magwire wurde 1889 in Williamstown, Massachusetts, geboren und starb 1972 in Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 235597706, Alice B. Bates Magwire (1889 to 1972)",
@@ -109,6 +118,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Albert A. Magwire, born in Brooklyn in 1845, settled in Springfield, Vermont, where he died in 1929.",
+      "headline_de": "Albert A. Magwire, 1845 in Brooklyn geboren, ließ sich in Springfield, Vermont, nieder, wo er 1929 starb.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 300820447, Albert A. Magwire (1845 to 1929); Find a Grave memorial 263996734, Alice Jenny Spaulding Magwire (1866 to 1951), with marriage note (8 Nov 1887, Cavendish); Find a Grave memorial 175501341, Charles E. Magwire Sr. (1895 to 1991), and 174016232, Edna Alice Magwire Pope (1893 to 1988; bio cites Vermont Death Records 1909 to 2008); Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967",
@@ -123,6 +133,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Alice Jenny Spaulding was born on August 17, 1866 in Cavendish, Vermont, to Charles Elliot and Amantha (Putnam) Spaulding.",
+      "headline_de": "Alice Jenny Spaulding wurde am 17. August 1866 in Cavendish, Vermont, als Tochter von Charles Elliot und Amantha (Putnam) Spaulding geboren.",
       "findType": "record",
       "source": {
         "text": "Charles J. Spalding, The Spalding Memorial (Chicago, 1872), p. 448, entry 8733; Genealogy of the Dickey Family (Worcester, 1898), p. 285, entries 2130 to 2137; Find a Grave memorial 263996734, Alice Jenny Spaulding Magwire (1866 to 1951), with marriage note (8 Nov 1887, Cavendish)",
@@ -130,7 +141,8 @@
       },
       "confidence": "probable",
       "image": "images/records/1872-spalding-memorial-p448-charles-elliot-spaulding-family-highlighted.jpg",
-      "imageAlt": "The Spalding Memorial (1872), page 448, entries 8733 to 8737: Charles-Elliot, m. Amantha Putnam 25 Mar 1856; children incl. Alice-Jennie b. 17 Aug 1866"
+      "imageAlt": "The Spalding Memorial (1872), page 448, entries 8733 to 8737: Charles-Elliot, m. Amantha Putnam 25 Mar 1856; children incl. Alice-Jennie b. 17 Aug 1866",
+      "imageAlt_de": "The Spalding Memorial (1872), Seite 448, Einträge 8733 bis 8737: Charles-Elliot, m. Amantha Putnam 25 Mar 1856; children incl. Alice-Jennie b. 17 Aug 1866"
     },
     {
       "id": "c010",
@@ -139,6 +151,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Alice Jenny Spaulding married Albert A. Magwire in Cavendish, Vermont, in November 1887.",
+      "headline_de": "Alice Jenny Spaulding heiratete Albert A. Magwire im November 1887 in Cavendish, Vermont.",
       "findType": "connection",
       "source": {
         "text": "Find a Grave memorial 263996734, Alice Jenny Spaulding Magwire (1866 to 1951), with marriage note (8 Nov 1887, Cavendish)",
@@ -153,6 +166,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Charles Elliot Spaulding married Amantha Putnam in Springfield, Vermont, on March 25, 1856, and they farmed in Cavendish.",
+      "headline_de": "Charles Elliot Spaulding heiratete Amantha Putnam am 25. März 1856 in Springfield, Vermont, und sie bewirtschafteten einen Hof in Cavendish.",
       "findType": "record",
       "source": {
         "text": "Charles J. Spalding, The Spalding Memorial (Chicago, 1872), p. 448, entry 8733; Genealogy of the Dickey Family (Worcester, 1898), p. 285, entries 2130 to 2137",
@@ -160,7 +174,8 @@
       },
       "confidence": "probable",
       "image": "images/records/1898-dickey-genealogy-p285-amantha-putnam-spaulding-family-highlighted.jpg",
-      "imageAlt": "Dickey Genealogy (1898), page 285, entries 2130 to 2137: Amantha Putnam, b. 9 Sep 1837, m. Charles Elliot Spaulding; children incl. Alice Jenny b. 17 Aug 1866"
+      "imageAlt": "Dickey Genealogy (1898), page 285, entries 2130 to 2137: Amantha Putnam, b. 9 Sep 1837, m. Charles Elliot Spaulding; children incl. Alice Jenny b. 17 Aug 1866",
+      "imageAlt_de": "Dickey Genealogy (1898), Seite 285, Einträge 2130 bis 2137: Amantha Putnam, b. 9 Sep 1837, m. Charles Elliot Spaulding; children incl. Alice Jenny b. 17 Aug 1866"
     },
     {
       "id": "c012",
@@ -169,6 +184,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Charles Elliot Spaulding died in 1890 and Amantha in 1926; both rest in Cavendish Village Cemetery.",
+      "headline_de": "Charles Elliot Spaulding starb 1890 und Amantha 1926; beide ruhen auf dem Cavendish Village Cemetery.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorials 85115712 and 85115767, Charles Elliot Spaulding (1833 to 1890) and Amantha Putnam Spaulding (1837 to 1926)",
@@ -183,6 +199,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Amantha Putnam was born on September 9, 1837, a daughter of Timothy Putnam and Betsey Hall.",
+      "headline_de": "Amantha Putnam wurde am 9. September 1837 geboren, als Tochter von Timothy Putnam und Betsey Hall.",
       "findType": "connection",
       "source": {
         "text": "Genealogy of the Dickey Family (Worcester, 1898), p. 285, entries 2130 to 2137; Find a Grave memorials 85115712 and 85115767, Charles Elliot Spaulding (1833 to 1890) and Amantha Putnam Spaulding (1837 to 1926)",
@@ -197,6 +214,7 @@
       ],
       "found": "2026-11-27",
       "headline": "A Harry James Farr married Laura Mary Seward in Springfield, Vermont, on December 4, 1912.",
+      "headline_de": "Ein Harry James Farr heiratete Laura Mary Seward am 4. Dezember 1912 in Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "Springfield, Vermont, Annual Town Report (marriages of 1912), archive.org item annualreportofto00spri_3, leaf 88",
@@ -204,7 +222,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1912-marriage-farr-seward-springfield-vt-townreport-highlighted.jpg",
-      "imageAlt": "Springfield VT marriages: Dec. 4, Harry James Farr and Laura Mary Seward"
+      "imageAlt": "Springfield VT marriages: Dec. 4, Harry James Farr and Laura Mary Seward",
+      "imageAlt_de": "Heiraten Springfield VT: 4. Dez., Harry James Farr und Laura Mary Seward"
     },
     {
       "id": "c018",
@@ -213,6 +232,7 @@
       ],
       "found": "2026-11-27",
       "headline": "In 1950 Harry J. Farr, born in Colorado, lived in Springfield, Vermont, with his wife Mary A., a post office clerk.",
+      "headline_de": "1950 lebte Harry J. Farr, geboren in Colorado, in Springfield, Vermont, mit seiner Ehefrau Mary A., einer Angestellten des Postamts.",
       "findType": "record",
       "source": {
         "text": "1950 U.S. Census, Springfield, Windsor Co., Vermont, ED 14-41, sheet 12, lines 24 to 26 (NARA)",
@@ -220,7 +240,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1950-census-farr-harry-springfield-vt-ed14-41-highlighted.jpg",
-      "imageAlt": "1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)"
+      "imageAlt": "1950 census, Springfield VT, ED 14-41, sheet 12, lines 24 to 26: Harry J. Farr (head, 62, Colorado), Mary A. (wife, 48, Vermont, postal clerk), Alma B. (daughter, 16)",
+      "imageAlt_de": "Volkszählung 1950, Springfield VT, ED 14-41, Blatt 12, Zeilen 24 bis 26: Harry J. Farr (Haushaltsvorstand, 62, Colorado), Mary A. (Ehefrau, 48, Vermont, Postangestellte), Alma B. (Tochter, 16)"
     },
     {
       "id": "c019",
@@ -229,6 +250,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn Farr Magwire's parents were Harry James Farr and Mary Abbie West Farr of Springfield, Vermont.",
+      "headline_de": "Die Eltern von Gwendolyn Farr Magwire waren Harry James Farr und Mary Abbie West Farr aus Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "Obituary of Richard H. Farr (1930 to 2009), Gloucester Times, May 2009; Obituary of Gwendolyn (Farr) Magwire (1927 to 2009), The Republican, 9 Sep 2009, via Legacy.com / MassLive; 1950 U.S. Census, Springfield, Windsor Co., Vermont, ED 14-41, sheet 12, lines 24 to 26 (NARA)",
@@ -244,6 +266,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Rick and Tracy Crosby are named in the obituaries of Roy and Dorothy Crosby, with grandchildren Brittany, Mitch and Travis.",
+      "headline_de": "Rick und Tracy Crosby werden in den Nachrufen von Roy und Dorothy Crosby genannt, zusammen mit den Enkeln Brittany, Mitch und Travis.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014; Obituary of Dorothy R. (Richardson) Crosby, Toomey-O'Brien Funeral Home, Feb 2022",
@@ -258,6 +281,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Roy E. Crosby served aboard the aircraft carrier Marcus Island at the Battle of Leyte Gulf in October 1944.",
+      "headline_de": "Roy E. Crosby diente im Oktober 1944 an Bord des Flugzeugträgers Marcus Island in der Schlacht von Leyte Gulf.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014",
@@ -272,6 +296,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Dorothy Richardson Crosby was born in 1928 to Robert and Anne (Ernst) Richardson and grew up in Chicopee.",
+      "headline_de": "Dorothy Richardson Crosby wurde 1928 als Tochter von Robert und Anne (Ernst) Richardson geboren und wuchs in Chicopee auf.",
       "findType": "record",
       "source": {
         "text": "Obituary of Dorothy R. (Richardson) Crosby, Toomey-O'Brien Funeral Home, Feb 2022; Obituary of Barbara R. (Richardson) Vogel (1921 to 2016), The Westfield News, 1 Dec 2016",
@@ -286,6 +311,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Roy Crosby was one of at least nine children of Ernest and Eva (Pierce) Crosby of Chicopee.",
+      "headline_de": "Roy Crosby war einer von mindestens neun Kindern von Ernest und Eva (Pierce) Crosby aus Chicopee.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 129338715, Roy E. Crosby (1925 to 2014), with obituary from The Springfield Republican, 6 to 7 May 2014; Muriel J. (Crosby) Strauss person page and obituary text, Cousins Connection tree; Obituary of Bernard \"Mel\" Crosby (1926 to 2024), Curran-Jones Funeral Home; 1950 U.S. Census, Chicopee, Hampden Co., Massachusetts, ED 7-40, sheet 73, lines 14 to 17 (NARA)",
@@ -300,6 +326,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The 1950 census shows Ernest A. Crosby, a widower born in Nova Scotia, living in Chicopee with his daughters Thelma and Muriel.",
+      "headline_de": "Die Volkszählung von 1950 zeigt Ernest A. Crosby, einen in Nova Scotia (Neuschottland) geborenen Witwer, der in Chicopee mit seinen Töchtern Thelma und Muriel lebte.",
       "findType": "record",
       "source": {
         "text": "1950 U.S. Census, Chicopee, Hampden Co., Massachusetts, ED 7-40, sheet 73, lines 14 to 17 (NARA)",
@@ -307,7 +334,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1950-census-crosby-ernest-chicopee-ma-ed7-40-sheet73-highlighted.jpg",
-      "imageAlt": "1950 census, Chicopee MA, ED 7-40, sheet 73, lines 14 to 17: Ernest A. Crosby (head, 65, Wd, Nova Scotia), Thelma L. (daughter, 33), Douglas Rhodes (son-in-law, 33), Muriel J. (daughter, 29)"
+      "imageAlt": "1950 census, Chicopee MA, ED 7-40, sheet 73, lines 14 to 17: Ernest A. Crosby (head, 65, Wd, Nova Scotia), Thelma L. (daughter, 33), Douglas Rhodes (son-in-law, 33), Muriel J. (daughter, 29)",
+      "imageAlt_de": "Volkszählung 1950, Chicopee MA, ED 7-40, Blatt 73, Zeilen 14 bis 17: Ernest A. Crosby (Haushaltsvorstand, 65, Wd, Nova Scotia), Thelma L. (Tochter, 33), Douglas Rhodes (Schwiegersohn, 33), Muriel J. (Tochter, 29)"
     },
     {
       "id": "c025",
@@ -316,6 +344,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Ernest and Eva Crosby rest together in Hillcrest Park Cemetery in Springfield, Massachusetts.",
+      "headline_de": "Ernest und Eva Crosby ruhen gemeinsam auf dem Hillcrest Park Cemetery in Springfield, Massachusetts.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorials 226673791 and 226673806, Ernest A. Crosby (1884 to 1958) and Eva E. Crosby (1885 to 1944), Hillcrest Park Cemetery, Springfield MA",
@@ -330,6 +359,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Muriel Crosby Strauss, born in Chicopee in 1921, named her parents as Ernest and Eva (Pierce) Crosby.",
+      "headline_de": "Muriel Crosby Strauss, 1921 in Chicopee geboren, nannte als ihre Eltern Ernest und Eva (Pierce) Crosby.",
       "findType": "connection",
       "source": {
         "text": "Muriel J. (Crosby) Strauss person page and obituary text, Cousins Connection tree",
@@ -344,6 +374,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Bernard \"Mel\" Crosby, Roy's younger brother, married Beatrice Patterson in 1948 and lived to 98.",
+      "headline_de": "Bernard \"Mel\" Crosby, Roys jüngerer Bruder, heiratete 1948 Beatrice Patterson und wurde 98 Jahre alt.",
       "findType": "connection",
       "source": {
         "text": "Obituary of Bernard \"Mel\" Crosby (1926 to 2024), Curran-Jones Funeral Home; Obituary of Beatrice A. (Patterson) Crosby (1929 to 2018), Curran-Jones Funeral Home",
@@ -358,6 +389,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harold Charles Magwire, Howard's twin, served in the U.S. Navy and rests in the Vermont Veterans Memorial Cemetery.",
+      "headline_de": "Harold Charles Magwire, Howards Zwilling, diente in der U.S. Navy und ruht auf dem Vermont Veterans Memorial Cemetery.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 43545548, Harold Charles Magwire (1919 to 2002)",
@@ -372,6 +404,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond Bates Magwire, the eldest son of Frank and Alice, was born in 1913 and died in 1997.",
+      "headline_de": "Raymond Bates Magwire, der älteste Sohn von Frank und Alice, wurde 1913 geboren und starb 1997.",
       "findType": "connection",
       "source": {
         "text": "Find a Grave memorial 77870180, Raymond Bates Magwire (1913 to 1997); Find a Grave memorial 208110370, Frank Albert Magwire (1889 to 1967), with obituary text from the Daily Eagle, Claremont NH, 9 Oct 1967",
@@ -386,6 +419,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn (Farr) Magwire, born in Springfield, Vermont in 1927, was married to Howard Magwire for 48 years and died in Suffield, Connecticut in September 2009.",
+      "headline_de": "Gwendolyn (Farr) Magwire, 1927 in Springfield, Vermont, geboren, war 48 Jahre mit Howard Magwire verheiratet und starb im September 2009 in Suffield, Connecticut.",
       "findType": "record",
       "source": {
         "text": "Obituary of Gwendolyn (Farr) Magwire (1927 to 2009), The Republican, 9 Sep 2009, via Legacy.com / MassLive",
@@ -400,6 +434,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn's brother Richard Farr's obituary names their parents as Harry James Farr and Mary Abbie West Farr.",
+      "headline_de": "Der Nachruf auf Richard Farr, den Bruder von Gwendolyn, nennt Harry James Farr und Mary Abbie West Farr als Eltern von Gwendolyn und Richard.",
       "findType": "record",
       "source": {
         "text": "Obituary of Richard H. Farr (1930 to 2009), Gloucester Times, May 2009",
@@ -414,6 +449,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Mary Abbie West Farr's maiden name, once only family memory, is now stated in her son Richard's obituary.",
+      "headline_de": "Der Mädchenname von Mary Abbie West Farr, früher nur Familienerinnerung, wird nun im Nachruf ihres Sohnes Richard genannt.",
       "findType": "record",
       "source": {
         "text": "Obituary of Richard H. Farr (1930 to 2009), Gloucester Times, May 2009; Obituary of Gwendolyn (Farr) Magwire (1927 to 2009), The Republican, 9 Sep 2009, via Legacy.com / MassLive",
@@ -428,6 +464,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Ernest Crosby and Eva Pierce, both from Yarmouth County, Nova Scotia, married in Wakefield, Massachusetts on July 6, 1906.",
+      "headline_de": "Ernest Crosby und Eva Pierce, beide aus Yarmouth County, Nova Scotia, heirateten am 6. Juli 1906 in Wakefield, Massachusetts.",
       "findType": "record",
       "source": {
         "text": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, marriages registered in 1906, printed page 143 (archive.org item annualreportof190507wake, leaf 568)",
@@ -435,7 +472,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1906-marriage-crosby-pierce-wakefield-ma-townreport-highlighted.jpg",
-      "imageAlt": "Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee"
+      "imageAlt": "Wakefield MA marriages registered in 1906, page 143: July 6, Ernest A. Crosby 22, Norwood N.S., James W. and Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles and Alice; by John R. Chaffee",
+      "imageAlt_de": "Wakefield MA, Heiraten registriert 1906, Seite 143: 6. Juli, Ernest A. Crosby 22, Norwood N.S., James W. und Asenath; Eva E. Pierce 21, Brazil Lake N.S., Charles und Alice; durch John R. Chaffee"
     },
     {
       "id": "c038",
@@ -444,6 +482,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Ruby Evelyn Crosby, the first child of Ernest and Eva, was born in Wakefield, Massachusetts on November 18, 1906.",
+      "headline_de": "Ruby Evelyn Crosby, das erste Kind von Ernest und Eva, wurde am 18. November 1906 in Wakefield, Massachusetts, geboren.",
       "findType": "record",
       "source": {
         "text": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, births registered in 1906, printed page 137 (archive.org item annualreportof190507wake, leaf 562)",
@@ -451,7 +490,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1906-birth-ruby-evelyn-crosby-wakefield-ma-townreport-highlighted.jpg",
-      "imageAlt": "Wakefield MA births 1906, page 137: Nov. 18, Ruby Evelyn Crosby, parents Ernest A. and Eva E. (Pierce)"
+      "imageAlt": "Wakefield MA births 1906, page 137: Nov. 18, Ruby Evelyn Crosby, parents Ernest A. and Eva E. (Pierce)",
+      "imageAlt_de": "Geburten Wakefield MA 1906, Seite 137: 18. November, Ruby Evelyn Crosby, Eltern Ernest A. und Eva E. (Pierce)"
     },
     {
       "id": "c039",
@@ -460,6 +500,7 @@
       ],
       "found": "2026-11-27",
       "headline": "James Crosby and Asenath Porter, the couple named as Ernest's parents in 1906, married at Ohio, Yarmouth County, Nova Scotia in January 1882.",
+      "headline_de": "James Crosby und Asenath Porter, das Paar, das 1906 als Ernests Eltern genannt wird, heirateten im Januar 1882 in Ohio, Yarmouth County, Nova Scotia.",
       "findType": "record",
       "source": {
         "text": "Nova Scotia Historical Vital Statistics, marriage of James H. [W.] Crosby and Asenath Porter, Ohio, Yarmouth Co., 21 Jan 1882 (book 1839, page 175, entry 16)",
@@ -467,7 +508,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1882-marriage-crosby-porter-ohio-yarmouth-ns-highlighted.jpg",
-      "imageAlt": "Nova Scotia marriage register, Yarmouth Co., 21 Jan 1882: James Crosby and Asenath Porter at Ohio"
+      "imageAlt": "Nova Scotia marriage register, Yarmouth Co., 21 Jan 1882: James Crosby and Asenath Porter at Ohio",
+      "imageAlt_de": "Heiratsregister Nova Scotia, Yarmouth Co., 21. Januar 1882: James Crosby und Asenath Porter in Ohio"
     },
     {
       "id": "c040",
@@ -476,6 +518,7 @@
       ],
       "found": "2026-11-27",
       "headline": "James William Crosby died at Brazil Lake, Nova Scotia in December 1937; his death record names his parents Joseph Crosby and Eunice Saunders.",
+      "headline_de": "James William Crosby starb im Dezember 1937 in Brazil Lake, Nova Scotia (Neuschottland); sein Sterbebeleg nennt seine Eltern Joseph Crosby und Eunice Saunders.",
       "findType": "record",
       "source": {
         "text": "Nova Scotia Historical Vital Statistics, death of James William Crosby, Brazil Lake, Yarmouth Co., 22 Dec 1937 (year 1937, file 300, number 973)",
@@ -483,7 +526,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1937-death-james-william-crosby-brazil-lake-ns-highlighted.jpg",
-      "imageAlt": "Nova Scotia death registration 1937: James William Crosby, Brazil Lake, died 22 Dec 1937, born 31 Oct 1857 Pleasant Valley, father Joseph Crosby, mother Eunice Saunders"
+      "imageAlt": "Nova Scotia death registration 1937: James William Crosby, Brazil Lake, died 22 Dec 1937, born 31 Oct 1857 Pleasant Valley, father Joseph Crosby, mother Eunice Saunders",
+      "imageAlt_de": "Sterberegistrierung Nova Scotia 1937: James William Crosby, Brazil Lake, gestorben 22. Dezember 1937, geboren 31. Oktober 1857, Pleasant Valley, Vater Joseph Crosby, Mutter Eunice Saunders"
     },
     {
       "id": "c041",
@@ -492,6 +536,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Asenath Porter Crosby died at Brazil Lake in November 1938, eleven months after her husband.",
+      "headline_de": "Asenath Porter Crosby starb im November 1938 in Brazil Lake, elf Monate nach dem Tod ihres Ehemanns.",
       "findType": "record",
       "source": {
         "text": "Nova Scotia Historical Vital Statistics, death of Asenath (Porter) Crosby, Brazil Lake, Yarmouth Co., 2 Nov 1938",
@@ -499,7 +544,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1938-death-asenath-porter-crosby-brazil-lake-ns-highlighted.jpg",
-      "imageAlt": "Nova Scotia death registration 1938: Asenath Crosby, Brazil Lake, died 2 Nov 1938, born 12 Apr 1860 Ohio, father Hezekiah Porter, mother Celia Porter"
+      "imageAlt": "Nova Scotia death registration 1938: Asenath Crosby, Brazil Lake, died 2 Nov 1938, born 12 Apr 1860 Ohio, father Hezekiah Porter, mother Celia Porter",
+      "imageAlt_de": "Sterberegistrierung Nova Scotia 1938: Asenath Crosby, Brazil Lake, gestorben 2. November 1938, geboren 12. April 1860 Ohio, Vater Hezekiah Porter, Mutter Celia Porter"
     },
     {
       "id": "c042",
@@ -508,6 +554,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The Crosby line now reaches back to Yarmouth County, Nova Scotia: Ernest was the son of James W. and Asenath (Porter) Crosby.",
+      "headline_de": "Die Crosby-Linie reicht nun zurück bis Yarmouth County, Nova Scotia: Ernest war der Sohn von James W. und Asenath (Porter) Crosby.",
       "findType": "connection",
       "source": {
         "text": "Wakefield, Massachusetts, Annual Town Report 1905 to 1907, marriages registered in 1906, printed page 143 (archive.org item annualreportof190507wake, leaf 568); Nova Scotia Historical Vital Statistics, marriage of James H. [W.] Crosby and Asenath Porter, Ohio, Yarmouth Co., 21 Jan 1882 (book 1839, page 175, entry 16); Nova Scotia Historical Vital Statistics, death of Asenath (Porter) Crosby, Brazil Lake, Yarmouth Co., 2 Nov 1938; Nova Scotia Historical Vital Statistics, death of James William Crosby, Brazil Lake, Yarmouth Co., 22 Dec 1937 (year 1937, file 300, number 973)",
@@ -522,6 +569,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Dorothy's parents, Robert H. Richardson and Anna E. Ernst, married at Holyoke, Massachusetts on September 6, 1920.",
+      "headline_de": "Dorothys Eltern, Robert H. Richardson und Anna E. Ernst, heirateten am 6. September 1920 in Holyoke, Massachusetts.",
       "findType": "record",
       "source": {
         "text": "Wayland, Massachusetts, Annual Reports 1919 to 1920, marriages registered in 1920, printed page 56 (archive.org item officialreportso1919wayl, leaf 275)",
@@ -529,7 +577,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1920-marriage-richardson-ernst-holyoke-wayland-ma-townreport-highlighted.jpg",
-      "imageAlt": "Wayland MA marriages registered in 1920, page 56: September 6, Robert H. Richardson and Anna E. Ernst, at Holyoke, by Rev. Edwin B. Robinson"
+      "imageAlt": "Wayland MA marriages registered in 1920, page 56: September 6, Robert H. Richardson and Anna E. Ernst, at Holyoke, by Rev. Edwin B. Robinson",
+      "imageAlt_de": "Heiraten Wayland MA, registriert 1920, Seite 56: 6. September, Robert H. Richardson und Anna E. Ernst, in Holyoke, durch Rev. Edwin B. Robinson"
     },
     {
       "id": "c044",
@@ -538,6 +587,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Dorothy Crosby's older sister Barbara was born in Cochituate (Wayland), Massachusetts in October 1921.",
+      "headline_de": "Dorothy Crosbys ältere Schwester Barbara wurde im Oktober 1921 in Cochituate (Wayland), Massachusetts, geboren.",
       "findType": "record",
       "source": {
         "text": "Wayland, Massachusetts, Annual Reports 1921 to 1922, births recorded in 1921, printed page 35 (archive.org item officialreportso1921wayl, leaf 40); Obituary of Barbara R. (Richardson) Vogel (1921 to 2016), The Westfield News, 1 Dec 2016",
@@ -545,7 +595,8 @@
       },
       "confidence": "confirmed",
       "image": "images/records/1921-birth-barbara-eleanor-richardson-wayland-ma-townreport-highlighted.jpg",
-      "imageAlt": "Wayland MA births 1921, page 35: October 26, Barbara Eleanor Richardson, parents Robert H. and Anna E."
+      "imageAlt": "Wayland MA births 1921, page 35: October 26, Barbara Eleanor Richardson, parents Robert H. and Anna E.",
+      "imageAlt_de": "Wayland MA, Geburten 1921, Seite 35: 26. Oktober, Barbara Eleanor Richardson, Eltern Robert H. und Anna E."
     },
     {
       "id": "c045",
@@ -554,6 +605,7 @@
       ],
       "found": "2026-11-27",
       "headline": "In 1941 Frank Magwire took the Village of Springfield all the way to the Vermont Supreme Court over a license fee on the pinball machines in Magwire's Pharmacy, and won his appeal.",
+      "headline_de": "1941 zog Frank Magwire wegen einer Lizenzgebühr für die Flipperautomaten in Magwire's Pharmacy gegen die Village of Springfield bis vor den Vermont Supreme Court und gewann seine Berufung.",
       "findType": "record",
       "source": {
         "text": "Magwire v. Village of Springfield, 111 Vt. 414, 17 A.2d 260 (Vt. 1941), a civil suit over pinball license fees at Magwire's Pharmacy",
@@ -569,6 +621,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Found the marriage of Harry James Farr and Mary Abbie West at Chester, Vermont, on August 11, 1926, a year before Gwendolyn was born.",
+      "headline_de": "Heirat von Harry James Farr und Mary Abbie West in Chester, Vermont, am 11. August 1926 gefunden, ein Jahr bevor Gwendolyn geboren wurde.",
       "findType": "record",
       "source": {
         "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927, Marriages Registered in Town of Chester, 1926, page 66",
@@ -586,6 +639,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Mary Abbie West was living at Chester Depot when she married, so the Abbie West teaching in Chester's schools that year is very likely her.",
+      "headline_de": "Mary Abbie West wohnte zur Zeit ihrer Heirat in Chester Depot, daher ist die Abbie West, die in jenem Jahr an den Schulen von Chester unterrichtete, sehr wahrscheinlich sie.",
       "findType": "connection",
       "source": {
         "text": "Chester, Vermont, auditors' report for the year ending January 31, 1927: marriage list, page 66, and school payments to Abbie West, teaching",
@@ -603,6 +657,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Found Harry Farr in the Social Security death index: born April 3, 1888, died May 1966, still living in Springfield, Vermont.",
+      "headline_de": "Harry Farr im Social Security Death Index gefunden: geboren 3. April 1888, gestorben Mai 1966, wohnte noch in Springfield, Vermont.",
       "findType": "record",
       "source": {
         "text": "U.S. Social Security Death Index (Death Master File), Harry Farr, born April 3, 1888, died May 1966, last residence Springfield, Vermont",
@@ -618,6 +673,7 @@
       ],
       "found": "2026-11-27",
       "headline": "In 1914 New Hampshire licensed Frank A. Magwire, a Vermont registered pharmacist then at Charlestown, to practise pharmacy across the river.",
+      "headline_de": "1914 erteilte New Hampshire Frank A. Magwire, einem in Vermont registrierten Apotheker, der damals in Charlestown war, die Erlaubnis, jenseits des Flusses die Pharmazie auszuüben.",
       "findType": "record",
       "source": {
         "text": "New Hampshire, Thirty-Ninth Annual Report of the Commissioners of Pharmacy for the Year 1914, Reciprocal Registration, page 7",
@@ -635,6 +691,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Found Albert A. Magwire in the Edison Phonograph Monthly of 1904, running the Springfield Music Rooms and giving phonograph concerts, including one in Ludlow Town Hall.",
+      "headline_de": "Gefunden: Albert A. Magwire im Edison Phonograph Monthly von 1904; er betrieb die Springfield Music Rooms und gab Phonographenkonzerte, darunter eines in der Ludlow Town Hall.",
       "findType": "record",
       "source": {
         "text": "Edison Phonograph Monthly, vol. 2, November 1904, Dealers' Doings, page 11",
@@ -652,6 +709,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Found Raymond Bates Magwire of Springfield, Vt. in the 1936 Springfield College yearbook, as a member of the junior class.",
+      "headline_de": "Raymond Bates Magwire aus Springfield, Vt., gefunden im Jahrbuch des Springfield College von 1936, als Mitglied der Junior Class.",
       "findType": "record",
       "source": {
         "text": "Massasoit, Springfield College yearbook, 1936, Junior Class Index, page 69",
@@ -669,6 +727,7 @@
       ],
       "found": "2026-11-27",
       "headline": "By 1952 Raymond B. Magwire was Vermont's state director of health and physical education, working from the State Department of Education in Montpelier.",
+      "headline_de": "Spätestens 1952 war Raymond B. Magwire staatlicher Direktor für Gesundheit und Leibeserziehung von Vermont und arbeitete vom State Department of Education in Montpelier aus.",
       "findType": "record",
       "source": {
         "text": "Journal of Health, Physical Education, Recreation, vol. 23 no. 2, February 1952",
@@ -686,6 +745,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn Lorraine Farr was born at Springfield Hospital, Springfield, Vermont, on July 1, 1927, the first child of Harry J. Farr and M. Abbie West, as her Vermont birth card states.",
+      "headline_de": "Gwendolyn Lorraine Farr wurde am 1. Juli 1927 im Springfield Hospital in Springfield, Vermont, als erstes Kind von Harry J. Farr und M. Abbie West geboren, wie ihre Geburtskarte aus Vermont angibt.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423934): Gwendolyn Lorraine Farr, born 1 Jul 1927, Springfield Hospital, Windsor County 1927, image 201 of 645",
@@ -696,7 +756,8 @@
         "birth:gwendolyn-farr-magwire"
       ],
       "image": "images/records/1927-birth-gwendolyn-lorraine-farr-springfield-vt-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont birth card, July 1, 1927: Gwendolyn Lorraine Farr, Springfield Hospital, first child of Harry J. Farr and M. Abbie West"
+      "imageAlt": "Vermont birth card, July 1, 1927: Gwendolyn Lorraine Farr, Springfield Hospital, first child of Harry J. Farr and M. Abbie West",
+      "imageAlt_de": "Geburtskarte von Vermont, 1. Juli 1927: Gwendolyn Lorraine Farr, Springfield Hospital, erstes Kind von Harry J. Farr und M. Abbie West"
     },
     {
       "id": "c058",
@@ -706,6 +767,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn's 1927 birth card names Harry J. Farr, a city mail carrier born in Denver, as her father, which confirms what her obituary said.",
+      "headline_de": "Gwendolyns Geburtskarte von 1927 nennt als ihren Vater Harry J. Farr, einen städtischen Briefträger, geboren in Denver, und bestätigt damit, was ihr Nachruf sagte.",
       "findType": "connection",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423934): Gwendolyn Lorraine Farr, born 1 Jul 1927, Springfield Hospital, Windsor County 1927, image 201 of 645",
@@ -724,6 +786,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn's 1927 birth card names her mother as M. Abbie West, born in Peru, Vermont, which confirms what her brother's obituary said.",
+      "headline_de": "Gwendolyns Geburtskarte von 1927 nennt als ihre Mutter M. Abbie West, geboren in Peru, Vermont, und bestätigt damit, was der Nachruf ihres Bruders sagte.",
       "findType": "connection",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423934): Gwendolyn Lorraine Farr, born 1 Jul 1927, Springfield Hospital, Windsor County 1927, image 201 of 645",
@@ -741,6 +804,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Richard Harry Farr was born at Springfield Hospital, Springfield, Vermont, on July 1, 1930, the second child of Harry J. Farr and Mary Abbie West, as his Vermont birth card states.",
+      "headline_de": "Richard Harry Farr wurde am 1. Juli 1930 im Springfield Hospital in Springfield, Vermont, geboren, das zweite Kind von Harry J. Farr und Mary Abbie West, wie seine Geburtskarte aus Vermont angibt.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423991): Richard Harry Farr, born 1 Jul 1930, Springfield Hospital, Windsor County 1930, image 384 of 1253",
@@ -751,7 +815,8 @@
         "birth:richard-h-farr"
       ],
       "image": "images/records/1930-birth-richard-harry-farr-springfield-vt-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont birth card, July 1, 1930: Richard Harry Farr, Springfield Hospital, second child of Harry J. Farr and Mary Abbie West"
+      "imageAlt": "Vermont birth card, July 1, 1930: Richard Harry Farr, Springfield Hospital, second child of Harry J. Farr and Mary Abbie West",
+      "imageAlt_de": "Geburtskarte Vermont, 1. Juli 1930: Richard Harry Farr, Springfield Hospital, zweites Kind von Harry J. Farr und Mary Abbie West"
     },
     {
       "id": "c061",
@@ -761,6 +826,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Richard's 1930 birth card names Harry J. Farr, a city mail carrier born in Denver, as his father, which confirms what his obituary said.",
+      "headline_de": "Richards Geburtskarte von 1930 nennt Harry J. Farr, einen in Denver geborenen städtischen Briefträger, als seinen Vater, was bestätigt, was sein Nachruf sagte.",
       "findType": "connection",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423991): Richard Harry Farr, born 1 Jul 1930, Springfield Hospital, Windsor County 1930, image 384 of 1253",
@@ -779,6 +845,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Richard's 1930 birth card names his mother as Mary Abbie West, born in Peru, Vermont, which confirms what his obituary said.",
+      "headline_de": "Richards Geburtskarte von 1930 nennt als seine Mutter Mary Abbie West, geboren in Peru, Vermont, und bestätigt damit, was sein Nachruf sagte.",
       "findType": "connection",
       "source": {
         "text": "Vermont, U.S., Birth Records, 1909-2008 (Ancestry, record 423991): Richard Harry Farr, born 1 Jul 1930, Springfield Hospital, Windsor County 1930, image 384 of 1253",
@@ -798,6 +865,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harry James Farr's 1926 marriage card says it was his second marriage and that he was divorced, so Laura Seward's marriage ended in divorce, and it names his parents as George Oscar Farr, born in Westfield, Massachusetts, and Alice Beard, born in Andover, Vermont.",
+      "headline_de": "Die Heiratskarte von Harry James Farr aus dem Jahr 1926 gibt an, dass es seine zweite Ehe war und dass er geschieden war, die Ehe mit Laura Seward also durch Scheidung endete, und sie nennt als seine Eltern George Oscar Farr, geboren in Westfield, Massachusetts, und Alice Beard, geboren in Andover, Vermont.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, record 246188): groom's certified card, Springfield, Harry James Farr and Mary Abbie West, 11 Aug 1926, image 1792 of 5564",
@@ -808,7 +876,8 @@
         "parent:harry-james-farr:george-oscar-farr"
       ],
       "image": "images/records/1926-marriage-farr-west-springfield-vt-groom-card-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont marriage card, August 11, 1926: Harry James Farr, 38, second marriage, divorced, letter carrier, born Denver; father George Oscar Farr; mother Alice Beard"
+      "imageAlt": "Vermont marriage card, August 11, 1926: Harry James Farr, 38, second marriage, divorced, letter carrier, born Denver; father George Oscar Farr; mother Alice Beard",
+      "imageAlt_de": "Heiratskarte Vermont, 11. August 1926: Harry James Farr, 38, zweite Ehe, geschieden, Briefträger, geboren in Denver; Vater George Oscar Farr; Mutter Alice Beard"
     },
     {
       "id": "c064",
@@ -819,6 +888,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Mary Abbie West's 1926 marriage cards say she was born in Peru, Vermont, was 24 and marrying for the first time, and name her parents as William Wallace West and Alice Dina Waite, born in Dorset, Vermont.",
+      "headline_de": "Die Heiratskarten von Mary Abbie West aus dem Jahr 1926 geben an, dass sie in Peru, Vermont, geboren wurde, 24 Jahre alt war und zum ersten Mal heiratete, und nennen als ihre Eltern William Wallace West und Alice Dina Waite, geboren in Dorset, Vermont.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Marriage Records, 1909-2008 (Ancestry, records 1247395 and 1247396): bride's cards, Springfield (image 4429 of 5564) and Chester (image 4430 of 5564), Mary Abbie West and Harry James Farr, 11 Aug 1926",
@@ -829,7 +899,8 @@
         "birth:mary-abbie-west-farr"
       ],
       "image": "images/records/1926-marriage-west-farr-chester-vt-bride-card-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont marriage card, Chester copy, August 11, 1926: Mary Abbie West, Chester Depot, 24, first marriage, born Peru, Vermont; parents William Wallace West and Alice Dina Waite"
+      "imageAlt": "Vermont marriage card, Chester copy, August 11, 1926: Mary Abbie West, Chester Depot, 24, first marriage, born Peru, Vermont; parents William Wallace West and Alice Dina Waite",
+      "imageAlt_de": "Heiratskarte Vermont, Abschrift Chester, 11. August 1926: Mary Abbie West, Chester Depot, 24, erste Ehe, geboren in Peru, Vermont; Eltern William Wallace West und Alice Dina Waite"
     },
     {
       "id": "c065",
@@ -838,6 +909,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harry James Farr's 1917 draft card places him at Bridgeport, Connecticut, a letter carrier at 276 Gregory Street, and says he had been a corporal in the Vermont National Guard until a discharge on July 8, 1913.",
+      "headline_de": "Die Musterungskarte von Harry James Farr von 1917 verortet ihn in Bridgeport, Connecticut, als Briefträger an der Adresse 276 Gregory Street, und gibt an, dass er bis zu einer Entlassung am 8. Juli 1913 Korporal in der Vermont National Guard gewesen sei.",
       "findType": "record",
       "source": {
         "text": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 26260799): Harry James Farr, 276 Gregory St, Bridgeport, Connecticut, registered 5 Jun 1917",
@@ -848,7 +920,8 @@
         "fact:harry-james-farr:vermont-national-guard"
       ],
       "image": "images/records/1917-wwi-draft-harry-james-farr-bridgeport-ct-ancestry-highlighted.jpg",
-      "imageAlt": "1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier; corporal, Vermont National Guard"
+      "imageAlt": "1917 draft card, Bridgeport, Connecticut: Harry James Farr, born April 3, 1888, Denver; letter carrier; corporal, Vermont National Guard",
+      "imageAlt_de": "Musterungskarte 1917, Bridgeport, Connecticut: Harry James Farr, geboren am 3. April 1888, Denver; Briefträger; Korporal, Vermont National Guard"
     },
     {
       "id": "c066",
@@ -857,6 +930,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Frank Albert Magwire's own 1917 draft card shows him at Woodsville, New Hampshire, a druggist, aged 28, with a wife and one child, and gives his birth as February 14, 1889 at Springfield, Vermont.",
+      "headline_de": "Frank Albert Magwires eigene Musterungskarte von 1917 zeigt ihn in Woodsville, New Hampshire, als Apotheker, 28 Jahre alt, mit einer Ehefrau und einem Kind, und gibt als Geburt den 14. Februar 1889 in Springfield, Vermont, an.",
       "findType": "record",
       "source": {
         "text": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 23939328): Frank Albert Magwire, Woodsville, New Hampshire, June 1917",
@@ -867,7 +941,8 @@
         "occupation:frank-albert-magwire:druggist:"
       ],
       "image": "images/records/1917-wwi-draft-frank-albert-magwire-woodsville-nh-ancestry-highlighted.jpg",
-      "imageAlt": "1917 draft card, Woodsville, New Hampshire: Frank Albert Magwire, born February 14, 1889, Springfield, Vt.; druggist; wife and one child"
+      "imageAlt": "1917 draft card, Woodsville, New Hampshire: Frank Albert Magwire, born February 14, 1889, Springfield, Vt.; druggist; wife and one child",
+      "imageAlt_de": "Musterungskarte 1917, Woodsville, New Hampshire: Frank Albert Magwire, geboren 14. Februar 1889, Springfield, Vt.; Apotheker; Ehefrau und ein Kind"
     },
     {
       "id": "c067",
@@ -877,6 +952,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Ernest A. Crosby's 1918 draft card gives his full name as Ernest Allan Crosby, living on Luther Street, Chicopee, born in Nova Scotia on June 1, 1884, with Eva Etta Crosby as his nearest relative.",
+      "headline_de": "Die Musterungskarte von Ernest A. Crosby von 1918 gibt seinen vollen Namen als Ernest Allan Crosby an, wohnhaft in der Luther Street, Chicopee, geboren am 1. Juni 1884 in Nova Scotia, mit Eva Etta Crosby als nächste Angehörige.",
       "findType": "record",
       "source": {
         "text": "U.S., World War I Draft Registration Cards, 1917-1918 (Ancestry, record 18590864): Ernest Allan Crosby, Luther St, Chicopee, Massachusetts, 12 Sep 1918",
@@ -887,7 +963,8 @@
         "residence:ernest-a-crosby:chicopee-ma:1918"
       ],
       "image": "images/records/1918-wwi-draft-ernest-allan-crosby-chicopee-ma-ancestry-highlighted.jpg",
-      "imageAlt": "1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby"
+      "imageAlt": "1918 draft card, Chicopee: Ernest Allan Crosby, Luther St, born June 1, 1884, Nova Scotia; nearest relative Eva Etta Crosby",
+      "imageAlt_de": "Musterungskarte 1918, Chicopee: Ernest Allan Crosby, Luther St, geboren 1. Juni 1884, Nova Scotia; nächste Angehörige Eva Etta Crosby"
     },
     {
       "id": "c068",
@@ -896,6 +973,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harry James Farr's 1942 draft card shows him at 6 Bridge Street, Springfield, Vermont, aged 54, working for the U.S. Post Office Department on Main Street and naming Mary Farr as the person who would always know his address.",
+      "headline_de": "Die Musterungskarte von Harry James Farr von 1942 zeigt ihn in der 6 Bridge Street, Springfield, Vermont, im Alter von 54 Jahren, beschäftigt beim U.S. Post Office Department in der Main Street, und nennt Mary Farr als die Person, die seine Anschrift immer wissen würde.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 611960): Harry James Farr, 6 Bridge St, Springfield, Vermont",
@@ -906,7 +984,8 @@
         "residence:harry-james-farr:springfield-vt:1942-to-1966"
       ],
       "image": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-ancestry-highlighted.jpg",
-      "imageAlt": "1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver; United States Post Office Department, Main St"
+      "imageAlt": "1942 draft card: Harry James Farr, 6 Bridge St, Springfield, Vermont, born April 3, 1888, Denver; United States Post Office Department, Main St",
+      "imageAlt_de": "Musterungskarte 1942: Harry James Farr, 6 Bridge St, Springfield, Vermont, geboren 3. April 1888, Denver; United States Post Office Department, Main St"
     },
     {
       "id": "c069",
@@ -915,6 +994,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Ernest Allan Crosby's 1942 draft card shows him at 35 Haven Avenue, Chicopee, aged 57, working for the A. G. Spalding Company and naming Mrs. Eva Crosby as the person who would always know his address.",
+      "headline_de": "Die Musterungskarte von Ernest Allan Crosby von 1942 zeigt ihn unter der Anschrift 35 Haven Avenue, Chicopee, im Alter von 57 Jahren, beschäftigt bei der A. G. Spalding Company, und nennt Mrs. Eva Crosby als die Person, die seine Anschrift immer kennen würde.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, record 8947196): Ernest Allan Crosby, 35 Haven Ave, Chicopee, Massachusetts",
@@ -925,7 +1005,8 @@
         "occupation:ernest-a-crosby:worker-at-the-a-g-spalding-company:"
       ],
       "image": "images/records/1942-wwii-draft-ernest-allan-crosby-chicopee-ma-ancestry-highlighted.jpg",
-      "imageAlt": "1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; employer A. G. Spalding Co."
+      "imageAlt": "1942 draft card: Ernest Allan Crosby, 35 Haven Ave, Chicopee, age 57, born Nova Scotia; employer A. G. Spalding Co.",
+      "imageAlt_de": "Musterungskarte 1942: Ernest Allan Crosby, 35 Haven Ave, Chicopee, 57 Jahre, geboren in Nova Scotia; Arbeitgeber A. G. Spalding Co."
     },
     {
       "id": "c070",
@@ -934,6 +1015,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harry James Farr died on May 22, 1966 at DeGoesbriand Memorial Hospital in Burlington, Vermont, aged 78, retired, living in Springfield, as his Vermont death certificate states, which confirms the Social Security index entry. It names his parents as George Farr and Alice Beard.",
+      "headline_de": "Harry James Farr starb am 22. Mai 1966 im DeGoesbriand Memorial Hospital in Burlington, Vermont, im Alter von 78 Jahren, im Ruhestand, wohnhaft in Springfield, wie seine Sterbeurkunde aus Vermont angibt, was den Eintrag im Social Security Index bestätigt. Sie nennt seine Eltern als George Farr und Alice Beard.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 491982): Harry James Farr, died 22 May 1966, Burlington, Chittenden County, image 4835 of 4943",
@@ -944,7 +1026,8 @@
         "occupation:harry-james-farr:retired:"
       ],
       "image": "images/records/1966-death-harry-james-farr-burlington-vt-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie"
+      "imageAlt": "Vermont death certificate: Harry James Farr, died May 22, 1966, Burlington; born Denver, Colorado; father George Farr; mother Alice Beard; wife Mary Abbie",
+      "imageAlt_de": "Sterbeurkunde von Vermont: Harry James Farr, gestorben 22. Mai 1966, Burlington; geboren Denver, Colorado; Vater George Farr; Mutter Alice Beard; Ehefrau Mary Abbie"
     },
     {
       "id": "c071",
@@ -954,6 +1037,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Albert A. Magwire's 1929 death card calls him a music teacher, gives his birth as October 10, 1845 at Brooklyn, and names his mother as Mary Prentiss and his father as unknown.",
+      "headline_de": "Die Sterbekarte von Albert A. Magwire von 1929 bezeichnet ihn als Musiklehrer, gibt seine Geburt mit dem 10. Oktober 1845 in Brooklyn an und nennt seine Mutter als Mary Prentiss und seinen Vater als unbekannt.",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Death Records, 1909-2008 (Ancestry, record 246607): Albert A. Magwire, died 21 Feb 1929, Springfield, Windsor County 1929, image 796 of 1528",
@@ -964,7 +1048,8 @@
         "occupation:albert-a-magwire:music-teacher:"
       ],
       "image": "images/records/1929-death-albert-a-magwire-springfield-vt-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont death card, Springfield, February 21, 1929: Albert A. Magwire, music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss"
+      "imageAlt": "Vermont death card, Springfield, February 21, 1929: Albert A. Magwire, music teacher, born Brooklyn, N.Y., October 10, 1845; father unknown; mother Mary Prentiss",
+      "imageAlt_de": "Sterbekarte Vermont, Springfield, 21. Februar 1929: Albert A. Magwire, Musiklehrer, geboren in Brooklyn, N.Y., am 10. Oktober 1845; Vater unbekannt; Mutter Mary Prentiss"
     },
     {
       "id": "c072",
@@ -975,6 +1060,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Albert A. Magwire and Alice J. Spaulding married on November 8, 1887 at Springfield, Vermont, not Cavendish; the card says he was a musician aged 40 on his second marriage and names his parents as George and Mary (Prentis).",
+      "headline_de": "Albert A. Magwire und Alice J. Spaulding heirateten am 8. November 1887 in Springfield, Vermont, nicht in Cavendish; die Karte nennt ihn als Musiker, 40 Jahre alt und in zweiter Ehe, und nennt als seine Eltern George und Mary (Prentis).",
       "findType": "record",
       "source": {
         "text": "Vermont, U.S., Vital Records, 1720-1908 (Ancestry, record 1280358): Albert A. Maguire and Alice J. Spaulding, 8 Nov 1887, Springfield, image 3341 of 4438",
@@ -985,7 +1071,8 @@
         "spouse:albert-a-magwire:alice-jenny-spaulding-magwire"
       ],
       "image": "images/records/1887-marriage-albert-a-maguire-alice-j-spaulding-springfield-vt-ancestry-highlighted.jpg",
-      "imageAlt": "Vermont marriage card, Springfield, November 8, 1887: Albert A. Maguire, 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Alice J. Spaulding"
+      "imageAlt": "Vermont marriage card, Springfield, November 8, 1887: Albert A. Maguire, 40, second marriage, musician, born N.Y. City; father George; mother Mary (Prentis); bride Alice J. Spaulding",
+      "imageAlt_de": "Heiratskarte Vermont, Springfield, 8. November 1887: Albert A. Maguire, 40, zweite Ehe, Musiker, geboren N.Y. City; Vater George; Mutter Mary (Prentis); Braut Alice J. Spaulding"
     },
     {
       "id": "c073",
@@ -995,6 +1082,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harold Charles Magwire's draft card of October 16, 1940 gives his birth as January 1, 1919 at Springfield, Vermont, a job at the Fellows Gear Shaper Company, and his father Frank Albert Magwire, of 13 Whitcomb Street, as the person who would always know his address.",
+      "headline_de": "Die Musterungskarte von Harold Charles Magwire vom 16. Oktober 1940 gibt seine Geburt mit dem 1. Januar 1919 in Springfield, Vermont, und eine Beschäftigung bei der Fellows Gear Shaper Company an und nennt seinen Vater Frank Albert Magwire, 13 Whitcomb Street, als die Person, die seine Anschrift immer kennen würde.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588132): Harold Charles Magwire, Springfield, Vermont, registered 16 Oct 1940, images 467 and 468 of 2080",
@@ -1005,7 +1093,8 @@
         "fact:harold-charles-magwire:1940-description"
       ],
       "image": "images/records/1940-wwii-youngmen-draft-harold-charles-magwire-springfield-vt-front-ancestry-highlighted.jpg",
-      "imageAlt": "1940 draft card: Harold Charles Magwire, born January 1, 1919, Springfield; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co."
+      "imageAlt": "1940 draft card: Harold Charles Magwire, born January 1, 1919, Springfield; father Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co.",
+      "imageAlt_de": "Musterungskarte 1940: Harold Charles Magwire, geboren 1. Januar 1919, Springfield; Vater Frank Albert Magwire, 13 Whitcomb St; Fellows Gear Shaper Co."
     },
     {
       "id": "c074",
@@ -1015,6 +1104,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Howard Frank Magwire's draft card of October 16, 1940 gives his birth as January 1, 1919 at Springfield, a job at the Fellows Gear Shaper Company, and his mother, Mrs. Alice Bates Magwire, of 13 Whitcomb Street, as the person who would always know his address.",
+      "headline_de": "Die Musterungskarte von Howard Frank Magwire vom 16. Oktober 1940 gibt seine Geburt mit dem 1. Januar 1919 in Springfield und eine Beschäftigung bei der Fellows Gear Shaper Company an und nennt seine Mutter, Mrs. Alice Bates Magwire, 13 Whitcomb Street, als die Person, die seine Anschrift immer kennen würde.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588133): Howard Frank Magwire, 13 Whitcomb St, Springfield, Vermont, registered 16 Oct 1940, images 469 and 470 of 2080",
@@ -1025,7 +1115,8 @@
         "fact:howard-frank-magwire:1940-description"
       ],
       "image": "images/records/1940-wwii-youngmen-draft-howard-frank-magwire-springfield-vt-front-ancestry-highlighted.jpg",
-      "imageAlt": "1940 draft card: Howard Frank Magwire, born January 1, 1919, Springfield; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co."
+      "imageAlt": "1940 draft card: Howard Frank Magwire, born January 1, 1919, Springfield; mother Mrs. Alice Bates Magwire; Fellows Gear Shaper Co.",
+      "imageAlt_de": "Musterungskarte 1940: Howard Frank Magwire, geboren am 1. Januar 1919, Springfield; Mutter Mrs. Alice Bates Magwire; Fellows Gear Shaper Co."
     },
     {
       "id": "c075",
@@ -1034,6 +1125,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond Bates Magwire's draft card of October 16, 1940 gives his birth as March 18, 1913 at Springfield, Vermont, his address as 1 Capitol Hill, Fair Haven, his work as a student at Springfield College, and his father Frank Albert Magwire as the person who would always know his address.",
+      "headline_de": "Die Musterungskarte von Raymond Bates Magwire vom 16. Oktober 1940 gibt seine Geburt mit dem 18. März 1913 in Springfield, Vermont, an, seine Anschrift mit 1 Capitol Hill, Fair Haven, seine Tätigkeit als Student am Springfield College und seinen Vater Frank Albert Magwire als die Person, die seine Anschrift immer wissen würde.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588134): Raymond Bates Magwire, 1 Capitol Hill, Fair Haven, Vermont, registered 16 Oct 1940, images 471 and 472 of 2080",
@@ -1044,7 +1136,8 @@
         "fact:raymond-bates-magwire:1940-description"
       ],
       "image": "images/records/1940-wwii-youngmen-draft-raymond-bates-magwire-fair-haven-vt-front-ancestry-highlighted.jpg",
-      "imageAlt": "1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire; Springfield College, student"
+      "imageAlt": "1940 draft card: Raymond Bates Magwire, born March 18, 1913, Springfield; 1 Capitol Hill, Fair Haven; father Frank Albert Magwire; Springfield College, student",
+      "imageAlt_de": "Musterungskarte 1940: Raymond Bates Magwire, geboren am 18. März 1913, Springfield; 1 Capitol Hill, Fair Haven; Vater Frank Albert Magwire; Springfield College, Student"
     },
     {
       "id": "c076",
@@ -1054,6 +1147,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond's 1940 draft card names his father as Frank Albert Magwire, and his Social Security claims entry names Frank A. Magwire too, which confirms Frank as his father.",
+      "headline_de": "Raymonds Musterungskarte von 1940 nennt als Vater Frank Albert Magwire, und auch sein Eintrag im Social Security Claims Index nennt Frank A. Magwire, was Frank als seinen Vater bestätigt.",
       "findType": "connection",
       "source": {
         "text": "U.S., World War II Draft Cards Young Men, 1940-1947 (Ancestry, record 269588134): Raymond Bates Magwire, 1 Capitol Hill, Fair Haven, Vermont, registered 16 Oct 1940, images 471 and 472 of 2080",
@@ -1072,6 +1166,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond's Social Security claims index entry names his mother as Alice Bates, and his brother Howard's 1940 draft card names Mrs. Alice Bates Magwire as their mother, which confirms Alice as Raymond's mother.",
+      "headline_de": "Raymonds Eintrag im Social Security Claims Index nennt als seine Mutter Alice Bates, und die Musterungskarte seines Bruders Howard von 1940 nennt Mrs. Alice Bates Magwire als Mutter der beiden, was Alice als Mutter von Raymond bestätigt.",
       "findType": "connection",
       "source": {
         "text": "U.S., Social Security Applications and Claims Index, 1936-2007 (Ancestry, record 24763958): Raymond Bates Magwire, father Frank A. Magwire, mother Alice Bates",
@@ -1089,6 +1184,7 @@
       ],
       "found": "2026-11-27",
       "headline": "A Veterans Affairs listing gives Howard Frank Magwire's dates as January 1, 1919 to September 26, 2014 and his Army service as August 15, 1943 to January 7, 1946.",
+      "headline_de": "Ein Eintrag der Veterans Affairs nennt für Howard Frank Magwire die Daten 1. Januar 1919 bis 26. September 2014 und seinen Dienst in der Army vom 15. August 1943 bis zum 7. Januar 1946.",
       "findType": "record",
       "source": {
         "text": "U.S., Department of Veterans Affairs BIRLS Death File (Ancestry, record 14679670): Howard Frank Magwire, 1 Jan 1919 to 26 Sep 2014, U.S. Army, entered 15 Aug 1943, separated 7 Jan 1946",
@@ -1106,6 +1202,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond Bates Magwire's Veterans gravesite record lists him as a private first class in the U.S. Army in the Second World War, March 18, 1913 to April 26, 1997, buried at Hillside Cemetery, listed under Fair Haven; the only Hillside Cemetery in that county is in Castleton.",
+      "headline_de": "Der Veteranen-Grabstelleneintrag von Raymond Bates Magwire führt ihn als Private First Class der U.S. Army im Zweiten Weltkrieg, 18. März 1913 bis 26. April 1997, beigesetzt auf dem Hillside Cemetery, verzeichnet unter Fair Haven; der einzige Hillside Cemetery in diesem County liegt in Castleton.",
       "findType": "record",
       "source": {
         "text": "U.S., Veterans' Gravesites, ca. 1775-2019 (Ancestry, record 5249366): Raymond Bates Magwire, 18 Mar 1913 to 26 Apr 1997, Pfc, U.S. Army, World War II, Hillside Cemetery",
@@ -1125,6 +1222,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond Bates Magwire's Social Security claims index entry names his parents as Frank A. Magwire and Alice Bates.",
+      "headline_de": "Der Eintrag zu Raymond Bates Magwire im Social Security Claims Index nennt als dessen Eltern Frank A. Magwire und Alice Bates.",
       "findType": "record",
       "source": {
         "text": "U.S., Social Security Applications and Claims Index, 1936-2007 (Ancestry, record 24763958): Raymond Bates Magwire, father Frank A. Magwire, mother Alice Bates",
@@ -1142,6 +1240,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The back of a 1942 draft card, probably Harry James Farr's, describes a man 5 feet 7 inches tall, 142 pounds, with blue eyes, brown hair and a ruddy complexion, registered on April 27, 1942 at Woodstock, Vermont; it is matched to him only by its place after his front card.",
+      "headline_de": "Die Rückseite einer Musterungskarte von 1942, wahrscheinlich die von Harry James Farr, beschreibt einen Mann von 5 Fuß 7 Zoll Größe, 142 Pfund, mit blauen Augen, braunem Haar und rötlichem Teint, registriert am 27. April 1942 in Woodstock, Vermont; sie ist ihm nur dadurch zugeordnet, dass sie direkt auf seine Vorderseite folgt.",
       "findType": "record",
       "source": {
         "text": "U.S., World War II Draft Registration Cards, 1942 (Ancestry, back of the record 611960 card, image 3109 of 6398; the front is image 3108): registrar's report dated 27 Apr 1942, Local Board 2, Windsor County, Woodstock, Vermont",
@@ -1152,7 +1251,8 @@
         "fact:harry-james-farr:1942-description"
       ],
       "image": "images/records/1942-wwii-draft-harry-james-farr-springfield-vt-back-ancestry-highlighted.jpg",
-      "imageAlt": "Back of a 1942 draft card (image 3109 of 6398, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, ruddy, April 27, 1942, Woodstock"
+      "imageAlt": "Back of a 1942 draft card (image 3109 of 6398, probably Harry James Farr): 5 feet 7 inches, 142 pounds, blue eyes, brown hair, ruddy, April 27, 1942, Woodstock",
+      "imageAlt_de": "Rückseite einer Musterungskarte von 1942 (Bild 3109 von 6398, wahrscheinlich Harry James Farr): 5 Fuß 7 Zoll, 142 Pfund, blaue Augen, braunes Haar, rötlich, 27. April 1942, Woodstock"
     },
     {
       "id": "c082",
@@ -1163,6 +1263,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The Springfield, Vermont, cemetery cards show Frank A. Magwire (78 years, 1967) and Alice B. Magwire (82 years, 1972) buried in lot 51, tier 10, ward G of Oakland Cemetery, bought on October 1, 1956. A third place holds Gwendolyn Magwire (cremains, 2009), Frank and Alice's daughter-in-law.",
+      "headline_de": "Die Friedhofskarten von Springfield, Vermont, zeigen Frank A. Magwire (78 Jahre, 1967) und Alice B. Magwire (82 Jahre, 1972), beigesetzt in lot 51, tier 10, ward G des Oakland Cemetery (gekauft am 1. Oktober 1956). Auf einem dritten Platz liegt Gwendolyn Magwire (Aschenreste, 2009), die Schwiegertochter von Frank und Alice.",
       "findType": "record",
       "source": {
         "text": "Springfield VT Town Clerk cemetery cards, M-N file (scanned PDF): deed card Magwire, Frank A. and Alice B., book 3 page 426, 1 Oct 1956, and burial card, places 1 to 3",
@@ -1174,7 +1275,8 @@
         "burial:alice-evadna-bates-magwire"
       ],
       "image": "images/records/1956-cemetery-card-frank-alice-magwire-oakland-springfield-vt-highlighted.jpg",
-      "imageAlt": "Springfield VT cemetery deed card, lot 51, Oakland Cemetery, Magwire, Frank A. and Alice B., with the burial card: Frank A. 78 yrs 1967, Alice B. 82 yrs 1972, Gwendolyn (cremains) 2009"
+      "imageAlt": "Springfield VT cemetery deed card, lot 51, Oakland Cemetery, Magwire, Frank A. and Alice B., with the burial card: Frank A. 78 yrs 1967, Alice B. 82 yrs 1972, Gwendolyn (cremains) 2009",
+      "imageAlt_de": "Grabbriefkarte Springfield VT, Los 51, Oakland Cemetery, Magwire, Frank A. und Alice B., mit der Bestattungskarte: Frank A. 78 Jahre 1967, Alice B. 82 Jahre 1972, Gwendolyn (Aschenreste) 2009"
     },
     {
       "id": "c083",
@@ -1183,6 +1285,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Frank Albert Magwire died on October 8, 1967 in Springfield, Vermont, aged 78. His Vermont death record names his parents as Albert A. and Alice, and his wife as Alice B. His obituary in the Rutland Daily Herald (October 10, 1967) names his sons Raymond B., Harold C. and Howard F., his sister Edna Pope and his brother Charles E. Magwire.",
+      "headline_de": "Frank Albert Magwire starb am 8. Oktober 1967 in Springfield, Vermont, im Alter von 78 Jahren. Sein Sterbebeleg aus Vermont nennt als Eltern Albert A. und Alice und als Ehefrau Alice B. Sein Nachruf im Rutland Daily Herald (10. Oktober 1967) nennt seine Söhne Raymond B., Harold C. und Howard F., seine Schwester Edna Pope und seinen Bruder Charles E. Magwire.",
       "findType": "record",
       "source": {
         "text": "Rutland Daily Herald, 10 Oct 1967 (Ancestry obituary index, record 778673060); Vermont death record, Ancestry record 287189; Find a Grave memorial 208110370 (Oakland Cemetery, Springfield)",
@@ -1201,6 +1304,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Alice B. (Bates) Magwire died on March 29, 1972 in Springfield, Vermont, aged 82. Her Vermont death record names her parents as Charles and Ida Bates, and her obituary in the Times Argus (April 1, 1972) names her sister Mary B. Wheelock.",
+      "headline_de": "Alice B. (Bates) Magwire starb am 29. März 1972 in Springfield, Vermont, im Alter von 82 Jahren. Ihr Sterbebeleg aus Vermont nennt als ihre Eltern Charles und Ida Bates, und ihr Nachruf im Times Argus (1. April 1972) nennt ihre Schwester Mary B. Wheelock.",
       "findType": "record",
       "source": {
         "text": "Times Argus, 1 Apr 1972 (Ancestry, record 837822748); Vermont death record, Ancestry record 287193; Springfield VT cemetery cards (Oakland Cemetery, lot 51)",
@@ -1220,6 +1324,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The Springfield, Vermont, cemetery cards show Harry James Farr (78 years, 1966) and Mary A. Farr (90 years, 1992) buried in lot 128, tier 1, ward E of Oakland Cemetery, bought on May 31, 1956. The same year the town also sold them lot 108 in ward E, where their son Richard H. Farr (cremains, 2009) and an infant son, Richard Elliott Farr (6 days old, 1956), are recorded.",
+      "headline_de": "Die Friedhofskarten von Springfield, Vermont, zeigen Harry James Farr (78 Jahre, 1966) und Mary A. Farr (90 Jahre, 1992), beigesetzt in lot 128, tier 1, ward E des Oakland Cemetery (gekauft am 31. Mai 1956). Im selben Jahr verkaufte die Gemeinde ihnen außerdem lot 108 in ward E, wo ihr Sohn Richard H. Farr (Aschenreste, 2009) und ein Sohn im Säuglingsalter, Richard Elliott Farr (6 Tage alt, 1956), verzeichnet sind.",
       "findType": "record",
       "source": {
         "text": "Springfield VT Town Clerk cemetery cards, E-F file (scanned PDF): deed cards Farr, Harry J. and Mary A., book 3 pages 414 and 415, 31 May 1956, and burial cards",
@@ -1232,7 +1337,8 @@
         "burial:mary-abbie-west-farr"
       ],
       "image": "images/records/1956-cemetery-card-harry-mary-farr-oakland-springfield-vt-highlighted.jpg",
-      "imageAlt": "Springfield VT cemetery deed card, lot 128, Oakland Cemetery, Farr, Harry J. and Mary A., with the burial card: Harry James Farr 78 yrs 1966, Mary A. Farr 90 yrs 1992"
+      "imageAlt": "Springfield VT cemetery deed card, lot 128, Oakland Cemetery, Farr, Harry J. and Mary A., with the burial card: Harry James Farr 78 yrs 1966, Mary A. Farr 90 yrs 1992",
+      "imageAlt_de": "Grabbriefkarte Springfield VT, lot 128, Oakland Cemetery, Farr, Harry J. und Mary A., mit der Bestattungskarte: Harry James Farr 78 yrs 1966, Mary A. Farr 90 yrs 1992"
     },
     {
       "id": "c086",
@@ -1241,6 +1347,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Mary Abbie (West) Farr died on March 5, 1992, aged about 90, then of Schenectady, New York. The Rutland Daily Herald obituary index (March 13, 1992) gives her birth as 1901 in Peru, Vermont, her father as William West and her children as Gwendolyn, Richard and Alma. She is buried in Oakland Cemetery, Springfield, beside her husband Harry.",
+      "headline_de": "Mary Abbie (West) Farr starb am 5. März 1992 im Alter von etwa 90 Jahren, damals aus Schenectady, New York. Der Nachrufindex des Rutland Daily Herald (13. März 1992) gibt ihre Geburt mit 1901 in Peru, Vermont, an, ihren Vater als William West und ihre Kinder als Gwendolyn, Richard und Alma. Sie ist auf dem Oakland Cemetery in Springfield neben ihrem Ehemann Harry begraben.",
       "findType": "record",
       "source": {
         "text": "Rutland Daily Herald, 13 Mar 1992 (Ancestry obituary index, record 600189743); Springfield VT cemetery cards (Mary A. Farr, 90 yrs, 1992, lot 128)",
@@ -1259,6 +1366,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harry J. Farr's obituary in the Rutland Daily Herald (May 23, 1966) names his brother George F. Farr and his children Richard H., Gwendolyn Magwire and Alma Cook.",
+      "headline_de": "Der Nachruf auf Harry J. Farr im Rutland Daily Herald (23. Mai 1966) nennt seinen Bruder George F. Farr und seine Kinder Richard H., Gwendolyn Magwire und Alma Cook.",
       "findType": "record",
       "source": {
         "text": "Rutland Daily Herald, 23 May 1966 (Ancestry obituary index, record 778671531)",
@@ -1277,6 +1385,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The Springfield, Vermont, cemetery cards record George Oscar Farr, aged 50, buried in 1911 in Oakland Cemetery, lot 83, tier 1, ward D, a lot bought on April 25, 1911 by Anna L. Farr. He is probably Harry James Farr's father, who by the 1910 census lived in Springfield with a wife Anna L. rather than Harry's mother, Alice Beard.",
+      "headline_de": "Die Friedhofskarten von Springfield, Vermont, verzeichnen George Oscar Farr, 50 Jahre alt, 1911 beigesetzt auf dem Oakland Cemetery, lot 83, tier 1, ward D, ein Los, das Anna L. Farr am 25. April 1911 kaufte. Er ist wahrscheinlich der Vater von Harry James Farr. Laut der Volkszählung von 1910 lebte er in Springfield mit einer Ehefrau namens Anna L., nicht mit Harrys Mutter Alice Beard.",
       "findType": "record",
       "source": {
         "text": "Springfield VT Town Clerk cemetery cards, E-F file (scanned PDF): deed card Farr, Anna L., book 1 page 156, 25 Apr 1911, and burial card place 6; 1910 U.S. census, Springfield VT (Ancestry, record 195873694)",
@@ -1289,7 +1398,8 @@
         "burial:george-oscar-farr"
       ],
       "image": "images/records/1911-cemetery-card-george-oscar-farr-oakland-springfield-vt-highlighted.jpg",
-      "imageAlt": "Springfield VT cemetery deed card, lot 83, Oakland Cemetery, Farr, Anna L., 1911, with the burial card listing George Oscar Farr, 50 yrs, 1911"
+      "imageAlt": "Springfield VT cemetery deed card, lot 83, Oakland Cemetery, Farr, Anna L., 1911, with the burial card listing George Oscar Farr, 50 yrs, 1911",
+      "imageAlt_de": "Karte zum Grabbrief, Springfield VT, Parzelle 83, Oakland Cemetery, Farr, Anna L., 1911, mit der Bestattungskarte, die George Oscar Farr, 50 yrs, 1911, aufführt"
     },
     {
       "id": "c089",
@@ -1301,6 +1411,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The Vermont marriage card for Harry James Farr and Laura Mary Seward (Springfield, December 4, 1912) names the groom's parents as George O. Farr and Alice Beard, but gives her birthplace as Chester, Vermont, while Harry's 1926 marriage card says Andover, Vermont. The two cards disagree on the town.",
+      "headline_de": "Die Heiratskarte von Vermont für Harry James Farr und Laura Mary Seward (Springfield, 4. Dezember 1912) nennt als Eltern des Bräutigams George O. Farr und Alice Beard, gibt als Geburtsort von Alice Beard jedoch Chester, Vermont, an, während Harrys Heiratskarte von 1926 als Geburtsort Andover, Vermont, nennt. Die beiden Karten stimmen beim Ort nicht überein.",
       "findType": "record",
       "source": {
         "text": "Vermont marriage card, Springfield, 4 Dec 1912 (Ancestry, record 246183)",
@@ -1319,6 +1430,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Gwendolyn Lorraine Farr, aged 33, married Howard Frank Magwire on January 7, 1961 in Springfield, Vermont; her parents are given as Harry and Mary Farr. The Connecticut Death Index records her death in Suffield on September 6, 2009 (born July 1, 1927).",
+      "headline_de": "Gwendolyn Lorraine Farr, 33 Jahre alt, heiratete am 7. Januar 1961 in Springfield, Vermont, Howard Frank Magwire; als ihre Eltern sind Harry und Mary Farr angegeben. Der Connecticut Death Index verzeichnet ihren Tod in Suffield am 6. September 2009 (geboren 1. Juli 1927).",
       "findType": "record",
       "source": {
         "text": "Vermont marriage record, Springfield, 7 Jan 1961 (Ancestry, record 1051029); Connecticut Death Index, 1949-2012 (Ancestry, record 1551946)",
@@ -1336,6 +1448,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Harold Charles Magwire died on October 16, 2002 in Ormond Beach, Florida, and is buried in the Vermont Veterans Memorial Cemetery, Randolph Center. He married Shirley Marie Havens in Springfield on June 20, 1940, and Nellie Manks in Springfield on August 4, 1956. His son Thomas H. Magwire's 2021 obituary names Harold and Shirley (Havens) Magwire as his late parents and gives the same cemetery.",
+      "headline_de": "Harold Charles Magwire starb am 16. Oktober 2002 in Ormond Beach, Florida, und ist auf dem Vermont Veterans Memorial Cemetery in Randolph Center begraben. Er heiratete Shirley Marie Havens am 20. Juni 1940 in Springfield und Nellie Manks am 4. August 1956 in Springfield. Der Nachruf seines Sohnes Thomas H. Magwire von 2021 nennt Harold und Shirley (Havens) Magwire als seine verstorbenen Eltern und gibt denselben Friedhof an.",
       "findType": "record",
       "source": {
         "text": "Social Security Death Index and Find a Grave memorial 24257524 (Ancestry copies); Vermont marriage records 305665 (1940) and 369576 (1956); Hooker and Whitcomb Funeral Home obituary of Thomas H. Magwire, 1 Oct 2021",
@@ -1355,6 +1468,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Raymond B. Magwire of Hydeville, Vermont, died on April 26, 1997 in Rutland. His Rutland Daily Herald obituary (April 28, 1997) gives burial at Castleton on May 16, 1997 and names his brother Howard.",
+      "headline_de": "Raymond B. Magwire aus Hydeville, Vermont, starb am 26. April 1997 in Rutland. Sein Nachruf im Rutland Daily Herald (28. April 1997) gibt die Beisetzung in Castleton am 16. Mai 1997 an und nennt seinen Bruder Howard.",
       "findType": "record",
       "source": {
         "text": "Rutland Daily Herald, 28 Apr 1997 (Ancestry obituary index, record 616593354)",
@@ -1373,6 +1487,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The 1918 New England Business Directory lists Frank A. Maguire among the druggists of Woodsville, New Hampshire, and Albert A. Magwire among the piano teachers of Springfield, Vermont.",
+      "headline_de": "Das New England Business Directory von 1918 führt Frank A. Maguire unter den Apothekern von Woodsville, New Hampshire, und Albert A. Magwire unter den Klavierlehrern von Springfield, Vermont, auf.",
       "findType": "record",
       "source": {
         "text": "The New England Business Directory and Gazetteer, 1918 (druggists, New Hampshire; piano teachers, Vermont), archive.org item newenglandbusin1918p1bost",
@@ -1383,7 +1498,8 @@
         "source:s70"
       ],
       "image": "images/records/1918-directory-frank-a-maguire-druggist-woodsville-nh-zoom.jpg",
-      "imageAlt": "1918 New England Business Directory, New Hampshire druggists: Maguire Frank A, Woodsville"
+      "imageAlt": "1918 New England Business Directory, New Hampshire druggists: Maguire Frank A, Woodsville",
+      "imageAlt_de": "New England Business Directory 1918, Apotheker in New Hampshire: Maguire Frank A, Woodsville"
     },
     {
       "id": "c094",
@@ -1392,6 +1508,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Howard Frank Magwire died in 2014 and is buried in Oakland Cemetery, Springfield, Vermont. No obituary has been found.",
+      "headline_de": "Howard Frank Magwire starb 2014 und ist auf dem Oakland Cemetery in Springfield, Vermont, begraben. Ein Nachruf wurde nicht gefunden.",
       "findType": "record",
       "source": {
         "text": "Find a Grave memorial 297441235, Howard Frank Magwire (Ancestry copy, record 297441235)",
@@ -1409,6 +1526,7 @@
       ],
       "found": "2026-11-27",
       "headline": "Dorothy R. (Richardson) Crosby was born on October 24, 1928 to Robert and Anne (Ernst) Richardson. Her obituary (February 2, 2022) names her husband Roy, her late brother Robert Richardson and her late sister Barbara Vogel, and her brother-in-law Bernard Crosby.",
+      "headline_de": "Dorothy R. (Richardson) Crosby wurde am 24. Oktober 1928 als Tochter von Robert und Anne (Ernst) Richardson geboren. Ihr Nachruf (2. Februar 2022) nennt ihren Ehemann Roy, ihren verstorbenen Bruder Robert Richardson und ihre verstorbene Schwester Barbara Vogel sowie ihren Schwager Bernard Crosby.",
       "findType": "record",
       "source": {
         "text": "Toomey-O'Brien Funeral Home obituary of Dorothy R. (Richardson) Crosby, published 2 Feb 2022",
@@ -1426,6 +1544,7 @@
       ],
       "found": "2026-11-27",
       "headline": "The 1922 New England Business Directory lists Frank A. Maguire among the druggists of Springfield, Vermont.",
+      "headline_de": "Das New England Business Directory von 1922 führt Frank A. Maguire unter den Apothekern von Springfield, Vermont, auf.",
       "findType": "record",
       "source": {
         "text": "The New England Business Directory and Gazetteer, 1922 (druggists, Vermont), archive.org item newenglandbusin1922bost",
@@ -1436,7 +1555,8 @@
         "source:s71"
       ],
       "image": "images/records/1922-directory-frank-a-maguire-druggist-springfield-vt-zoom.jpg",
-      "imageAlt": "1922 New England Business Directory, Vermont druggists: Maguire Frank A, listed with the Springfield druggists"
+      "imageAlt": "1922 New England Business Directory, Vermont druggists: Maguire Frank A, listed with the Springfield druggists",
+      "imageAlt_de": "New England Business Directory 1922, Apotheker in Vermont: Maguire Frank A, aufgeführt bei den Apothekern von Springfield"
     }
   ]
 }
